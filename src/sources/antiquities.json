@@ -1,0 +1,106 @@
+[
+  {
+    "item": "Ancestral Orc Gloves",
+    "rarity": "Green",
+    "location": "Treasure Map Chest",
+    "type": "Motif",
+    "difficulty": "Simple",
+    "drop_area": "Alik'r Desert"
+  },
+  {
+    "item": "Antique Map of The Alik’r Desert",
+    "rarity": "Green",
+    "location": "Found at the Inn (Requires Pathfinder Achievement)",
+    "type": "Furnishing",
+    "difficulty": "Simple",
+    "drop_area": "Alik'r Desert"
+  },
+  {
+    "item": "Satakal Skinrazer",
+    "rarity": "Green",
+    "location": "Freebie Starter Lead",
+    "type": "Treasure",
+    "difficulty": "Simple",
+    "drop_area": "Alik'r Desert"
+  },
+  {
+    "item": "Dwarven Spine Coupling",
+    "rarity": "Blue",
+    "location": "“Curious Dwemer Rubble” in a corner of Rkulftzel Crafting Location (Song of Lamae Set)",
+    "type": "Ebon Dwarven Wolf Part",
+    "difficulty": "Intermediate",
+    "drop_area": "Alik'r Desert"
+  },
+  {
+    "item": "Na-Totambu Two-Fingered Gauntlest",
+    "rarity": "Blue",
+    "location": "Reward for excavating Satakal Skinrazer",
+    "type": "Treasure",
+    "difficulty": "Intermediate",
+    "drop_area": "Alik'r Desert"
+  },
+  {
+    "item": "Weathered Dwarven Cogs",
+    "rarity": "Blue",
+    "location": "Aldunz Delve, Boss Thinks-in-Gears",
+    "type": "Ebon Dwarven Wolf Part",
+    "difficulty": "Intermediate",
+    "drop_area": "Alik'r Desert"
+  },
+  {
+    "item": "Ancestral Orc Swords",
+    "rarity": "Purple",
+    "location": "Treasure Map Chest",
+    "type": "Motif",
+    "difficulty": "Advanced",
+    "drop_area": "Alik'r Desert"
+  },
+  {
+    "item": "Hegathe Divining Rod",
+    "rarity": "Purple",
+    "location": "Reward for exacavating Na-Totambu blue lead",
+    "type": "Treasure",
+    "difficulty": "Advanced",
+    "drop_area": "Alik'r Desert"
+  },
+  {
+    "item": "The Heartland",
+    "rarity": "Purple",
+    "location": "Cyrodiil Chests, Cyrodiil Delve Bosses, Cyrodiil Cave Monsters, Treasure Maps in Cyrodiil, Monsters in Cyrodiil, Gati the Storm Sister in IC sewers",
+    "type": "Furnishing",
+    "difficulty": "Advanced",
+    "drop_area": "Alik'r Desert"
+  },
+  {
+    "item": "Coil of Satakal",
+    "rarity": "Gold",
+    "location": "Safebox in Sentinel",
+    "type": "Furnishing",
+    "difficulty": "Ultimate",
+    "drop_area": "Alik'r Desert"
+  },
+  {
+    "item": "Dwarven Leather Saddle Seat",
+    "rarity": "Gold",
+    "location": "Volenfell Dungeon Last Boss",
+    "type": "Ebon Dwarven Wolf Part",
+    "difficulty": "Master",
+    "drop_area": "Alik'r Desert"
+  },
+  {
+    "item": "Torc Strand of Lore",
+    "rarity": "Gold",
+    "location": "World Bosses",
+    "type": "Torc of Tonal Constancy Part",
+    "difficulty": "Master",
+    "drop_area": "Alik'r Desert"
+  },
+  {
+    "item": "Direnni Elegy Loop Alik’r",
+    "rarity": "Gold",
+    "location": "Coldrock Diggings Delve Boss",
+    "type": "Ring of the Pale Order Part",
+    "difficulty": "Master",
+    "drop_area": "Alik'r Desert"
+  }
+]
