@@ -1,10 +1,13 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import '@mantine/core/styles.css';
 import { Button } from '@mantine/core';
 import { Antiquities } from './pages/Antiquities';
+import antiquitiesJson from './sources/antiquities.json';
 import './App.css';
 
 function App() {
+  // const [antiquities, setAntiquities] = useState([]);
+
   const [showAntiquities, setShowAntiquities] = useState(false);
 
   function handleClick() {
@@ -17,8 +20,8 @@ function App() {
       <Button variant='filled' color='cyan' size='md' radius='md' onClick={handleClick}>
         Antiquities
       </Button>
-      {showAntiquities && <Antiquities />}
-      <p>There will be more content from my app.</p>
+      {showAntiquities && <Antiquities antiquities={antiquitiesJson} />}
+      <h3>There will be more content from my app.</h3>
     </>
   );
 }

@@ -1,10 +1,17 @@
 import React from 'react';
+import type { Antiquity } from '../@typings/faunaTypes';
 
-export function Antiquities() {
+interface AntiquitiesProps {
+  antiquities: Antiquity[];
+}
+
+export function Antiquities({ antiquities }: AntiquitiesProps) {
   return (
     <div>
       <h2>Antiquities in Alik'r Desert</h2>
-      <p> Here will be the list of antiquities.</p>
+      {antiquities.map((antiquity) => (
+        <p>{antiquity.item}</p>
+      ))}
     </div>
   );
 }
