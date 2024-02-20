@@ -10,7 +10,7 @@ export function Antiquities({ antiquities }: AntiquitiesProps) {
     <div>
       <h2>Antiquities in Alik'r Desert</h2>
       {antiquities.map((antiquity) => (
-        <p>{antiquity.item}</p>
+        <p key={antiquity.item}>{antiquity.item}</p>
       ))}
     </div>
   );
