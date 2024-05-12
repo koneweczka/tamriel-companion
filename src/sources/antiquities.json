@@ -3375,328 +3375,324 @@
     "difficulty": "Master",
     "drop_area": "The Reach"
   },
-  [
-    {
-      "item": "Ancestral Nord Gloves",
-      "rarity": "Green",
-      "location": "Treasure Map Chest",
-      "type": "Motif",
-      "difficulty": "Simple",
-      "drop_area": "The Rift"
-    },
-    {
-      "item": "Antique Map of The Rift (Picture)",
-      "rarity": "Green",
-      "location": "Found in Riften City at the “Shadehome” Inn (Pathfinder Achievement)",
-      "type": "Furnishing",
-      "difficulty": "Simple",
-      "drop_area": "The Rift"
-    },
-    {
-      "item": "Augur’s Bones",
-      "rarity": "Green",
-      "location": "Freebie Starter Lead",
-      "type": "Treasure",
-      "difficulty": "Simple",
-      "drop_area": "The Rift"
-    },
-    {
-      "item": "Akaviri Lord’s Banner",
-      "rarity": "Blue",
-      "location": "Reward for excavating Augur’s Bones",
-      "type": "Treasure",
-      "difficulty": "Intermediate",
-      "drop_area": "The Rift"
-    },
-    {
-      "item": "Cracked Dwarven Gear Shafts",
-      "rarity": "Blue",
-      "location": "Delve Boss Avanchzel",
-      "type": "Ebon Dwarven Wolf Part (Picture)",
-      "difficulty": "Intermediate",
-      "drop_area": "The Rift"
-    },
-    {
-      "item": "Ancestral Nord Swords",
-      "rarity": "Purple",
-      "location": "Treasure Map Chest",
-      "type": "Motif",
-      "difficulty": "Advanced",
-      "drop_area": "The Rift"
-    },
-    {
-      "item": "Ebony Fox Totem (Picture)",
-      "rarity": "Purple",
-      "location": "Safebox, Public Dungeon Boss The Lion’s Denn, Treasure Chest",
-      "type": "Furnishing",
-      "difficulty": "Advanced",
-      "drop_area": "The Rift"
-    },
-    {
-      "item": "Giant Chieftain’s Crown",
-      "rarity": "Purple",
-      "location": "Reward for excavating Akaviri Lord’s Banner",
-      "type": "Treasure",
-      "difficulty": "Advanced",
-      "drop_area": "The Rift"
-    },
-    {
-      "item": "Petrified Snow-Cedar (Mythic Item)",
-      "rarity": "Gold",
-      "location": "World Bosses",
-      "type": "Snow Treaders Part",
-      "difficulty": "Master",
-      "drop_area": "The Rift"
-    },
-    {
-      "item": "Rune-Carved Mammoth Skull (Picture)",
-      "rarity": "Gold",
-      "location": "Mamoth Monster",
-      "type": "Furnishing",
-      "difficulty": "Master",
-      "drop_area": "The Rift"
-    },
-    [
-      {
-        "item": "Antique Map of Vvardenfell (Picture)",
-        "rarity": "Green",
-        "location": "Found at the Inn (Pathfinder Achievement)",
-        "type": "Furnishing",
-        "difficulty": "Simple",
-        "drop_area": "Vvardenfell"
-      },
-      {
-        "item": "Refitted Dwarven Rod",
-        "rarity": "Green",
-        "location": "Freebie Starter Lead",
-        "type": "Treasure",
-        "difficulty": "Simple",
-        "drop_area": "Vvardenfell"
-      },
-      {
-        "item": "Massive Ash-herder Grapnel",
-        "rarity": "Blue",
-        "location": "Reward for excavating Refitted Dwarven Rod",
-        "type": "Treasure",
-        "difficulty": "Intermediate",
-        "drop_area": "Vvardenfell"
-      },
-      {
-        "item": "Bleeding Beetle Door Loc",
-        "rarity": "Purple",
-        "location": "Reward for excavating Massive Ash-herder Grapnel",
-        "type": "Treasure",
-        "difficulty": "Advanced",
-        "drop_area": "Vvardenfell"
-      },
-      {
-        "item": "Sixth House Ritual Table (Picture)",
-        "rarity": "Purple",
-        "location": "Treasure Chest, Group Boss in Nchuleftingth Public Dungeon, Group Challenge Boss Forgotten Wastes, Delve Khartag Point",
-        "type": "Furnishing",
-        "difficulty": "Advanced",
-        "drop_area": "Vvardenfell"
-      },
-      {
-        "item": "St. Nerevar, Moon-And-Star (Picture)",
-        "rarity": "Gold",
-        "location": "Daily Reward Box in Vvardenfell",
-        "type": "Furnishing",
-        "difficulty": "Master",
-        "drop_area": "Vvardenfell"
-      },
-      {
-        "item": "Preserved Wraxu Feathers (Mythic Item)",
-        "rarity": "Gold",
-        "location": "“Remains-Silent” NPC in any Outlaws Refugee. Pick: “Have any equipment today” option. Drop is RNG based. Need “Shadowy Supplier” passive unlocked from Dark Bortherhood Skillline. (Image)",
-        "type": "Gaze of Sithis part",
-        "difficulty": "Master",
-        "drop_area": "Vvardenfell"
-      },
-      {
-        "item": "Antique Map of Western Skyrim",
-        "rarity": "Green",
-        "location": "Found at the Inn (Pathfinder Achievement)",
-        "type": "Furnishing",
-        "difficulty": "Simple",
-        "drop_area": "Western Skyrim"
-      },
-      {
-        "item": "Nord Scrimshaw Pendant",
-        "rarity": "Green",
-        "location": "Freebie Starter Lead",
-        "type": "Treasure",
-        "difficulty": "Simple",
-        "drop_area": "Western Skyrim"
-      },
-      {
-        "item": "Dwemer Body Marking",
-        "rarity": "Blue",
-        "location": "Dwarven Spider Boss in The Scraps Delve",
-        "type": "Body Marking",
-        "difficulty": "Intermediate",
-        "drop_area": "Western Skyrim"
-      },
-      {
-        "item": "Dwemer Face Marking",
-        "rarity": "Blue",
-        "location": "Colossus Charging Station World Boss in Blackreach",
-        "type": "Head Marking",
-        "difficulty": "Intermediate",
-        "drop_area": "Western Skyrim"
-      },
-      {
-        "item": "Silvered Nord Drinking Horn",
-        "rarity": "Blue",
-        "location": "Reward for excavating Nord Scrimshaw Pendant",
-        "type": "Treasure",
-        "difficulty": "Intermediate",
-        "drop_area": "Western Skyrim"
-      },
-      {
-        "item": "Ysgramor’s Chosen Body Marking",
-        "rarity": "Blue",
-        "location": "At the end of Morthal Barrow from the Danger in the Holds Main Quest",
-        "type": "Body Marking",
-        "difficulty": "Intermediate",
-        "drop_area": "Western Skyrim"
-      },
-      {
-        "item": "Ysgramor’s Chosen Face Marking",
-        "rarity": "Blue",
-        "location": "Undearneath the Dragon Bridge",
-        "type": "Head Marking",
-        "difficulty": "Intermediate",
-        "drop_area": "Western Skyrim"
-      },
-      {
-        "item": "Companion’s Coronet",
-        "rarity": "Purple",
-        "location": "High king’s Chamber, Blue Palace",
-        "type": "Major Adornment",
-        "difficulty": "Advanced",
-        "drop_area": "Western Skyrim"
-      },
-      {
-        "item": "Dwemer Crown",
-        "rarity": "Purple",
-        "location": "Clockwork Criterion in Nchuthnkarst",
-        "type": "Major Adornment",
-        "difficulty": "Advanced",
-        "drop_area": "Western Skyrim"
-      },
-      {
-        "item": "Inclined Dwarven Paneling",
-        "rarity": "Purple",
-        "location": "Bosses in Nchuthnkarst (Excluding Group Event Boss)",
-        "type": "Ebon Dwarven Wolf Part (Picture)",
-        "difficulty": "Advanced",
-        "drop_area": "Western Skyrim"
-      },
-      {
-        "item": "King’s Belt Plate",
-        "rarity": "Purple",
-        "location": "Reward for excavating Silvered Nord Drinking Horn",
-        "type": "Treasure",
-        "difficulty": "Advanced",
-        "drop_area": "Western Skyrim"
-      },
-      {
-        "item": "Seat of the Snow Prince (Picture)",
-        "rarity": "Purple",
-        "location": "Pentarch Khorb during the Main quest in Kagnthamz, World Bosses, Safe Box, Nchuthnkarst Boss",
-        "type": "Furnishing",
-        "difficulty": "Advanced",
-        "drop_area": "Western Skyrim"
-      },
-      {
-        "item": "Al-Esh Ascension Coin",
-        "rarity": "Gold",
-        "location": "Bear Monster in Blackreach. Also spawns on top of a dresser on the top floor of the Antiquarian Circle Building, you have to examine the Curios Coin Collection (Requirement: You MUST have done all green/blue/purple “freebie” leads in ALL zones before you can loot it!)",
-        "type": "Treasure",
-        "difficulty": "Ultimate",
-        "drop_area": "Western Skyrim"
-      },
-      {
-        "item": "Font of Auri-El (Picture)",
-        "rarity": "Gold",
-        "location": "Any Monster in Blackreach, Trash Monsters in Kyne’s Aegis Trial, Castle Thorn & Stone Garden Dungeon",
-        "type": "Furnishing",
-        "difficulty": "Master",
-        "drop_area": "Western Skyrim"
-      },
-      {
-        "item": "Glacial Metal Rivets (Mythic Item)",
-        "rarity": "Gold",
-        "location": "Blackmaw Boss in Labyrinthian (Probably any boss in that dungeon)",
-        "type": "Snow Treaders Part",
-        "difficulty": "Master",
-        "drop_area": "Western Skyrim"
-      },
-      {
-        "item": "Antique Map of Wrothgar (Picture)",
-        "rarity": "Green",
-        "location": "Found at the Inn (Pathfinder Achievement)",
-        "type": "Furnishing",
-        "difficulty": "Simple",
-        "drop_area": "Wrothgar"
-      },
-      {
-        "item": "Armless Stone Effigy",
-        "rarity": "Green",
-        "location": "Freebie Starter Lead",
-        "type": "Treasure",
-        "difficulty": "Simple",
-        "drop_area": "Wrothgar"
-      },
-      {
-        "item": "Worn Orcish Cauldron",
-        "rarity": "Blue",
-        "location": "Reward for excavating Armless Stone Effigy",
-        "type": "Treasure",
-        "difficulty": "Intermediate",
-        "drop_area": "Wrothgar"
-      },
-      {
-        "item": "Orsinium Cracked Iron Bell",
-        "rarity": "Purple",
-        "location": "Reward for excavating Worn Orcish Cauldron",
-        "type": "Treasure",
-        "difficulty": "Advanced",
-        "drop_area": "Wrothgar"
-      },
-      {
-        "item": "Tusks of the Orc-Father (Picture)",
-        "rarity": "Purple",
-        "location": "Treasure Chests, Public Dungeon Bosses, Monsters, Urns",
-        "type": "Furnishing",
-        "difficulty": "Advanced",
-        "drop_area": "Wrothgar"
-      },
-      {
-        "item": "Anvil of Old Orsinium (Picture)",
-        "rarity": "Gold",
-        "location": "Public Dungeon Old Orsinium Monsters & Bosses",
-        "type": "Furnishing",
-        "difficulty": "Ultimate",
-        "drop_area": "Wrothgar"
-      },
-      {
-        "item": "Malacath’s Brutal Might Loop (Mythic Item)",
-        "rarity": "Gold",
-        "location": "Public Dungeon Boss Old Orsinium",
-        "type": "Malacath’s Band of Brutality Part",
-        "difficulty": "Master",
-        "drop_area": "Wrothgar"
-      },
-      {
-        "item": "Onyx Accent Stones Wrothgar (Mythic Item)",
-        "rarity": "Gold",
-        "location": "World Bosses",
-        "type": "Ring of the Pale Order Part",
-        "difficulty": "Master",
-        "drop_area": "Wrothgar"
-      }
-    ]
-  ]
+  {
+    "item": "Ancestral Nord Gloves",
+    "rarity": "Green",
+    "location": "Treasure Map Chest",
+    "type": "Motif",
+    "difficulty": "Simple",
+    "drop_area": "The Rift"
+  },
+  {
+    "item": "Antique Map of The Rift (Picture)",
+    "rarity": "Green",
+    "location": "Found in Riften City at the “Shadehome” Inn (Pathfinder Achievement)",
+    "type": "Furnishing",
+    "difficulty": "Simple",
+    "drop_area": "The Rift"
+  },
+  {
+    "item": "Augur’s Bones",
+    "rarity": "Green",
+    "location": "Freebie Starter Lead",
+    "type": "Treasure",
+    "difficulty": "Simple",
+    "drop_area": "The Rift"
+  },
+  {
+    "item": "Akaviri Lord’s Banner",
+    "rarity": "Blue",
+    "location": "Reward for excavating Augur’s Bones",
+    "type": "Treasure",
+    "difficulty": "Intermediate",
+    "drop_area": "The Rift"
+  },
+  {
+    "item": "Cracked Dwarven Gear Shafts",
+    "rarity": "Blue",
+    "location": "Delve Boss Avanchzel",
+    "type": "Ebon Dwarven Wolf Part (Picture)",
+    "difficulty": "Intermediate",
+    "drop_area": "The Rift"
+  },
+  {
+    "item": "Ancestral Nord Swords",
+    "rarity": "Purple",
+    "location": "Treasure Map Chest",
+    "type": "Motif",
+    "difficulty": "Advanced",
+    "drop_area": "The Rift"
+  },
+  {
+    "item": "Ebony Fox Totem (Picture)",
+    "rarity": "Purple",
+    "location": "Safebox, Public Dungeon Boss The Lion’s Denn, Treasure Chest",
+    "type": "Furnishing",
+    "difficulty": "Advanced",
+    "drop_area": "The Rift"
+  },
+  {
+    "item": "Giant Chieftain’s Crown",
+    "rarity": "Purple",
+    "location": "Reward for excavating Akaviri Lord’s Banner",
+    "type": "Treasure",
+    "difficulty": "Advanced",
+    "drop_area": "The Rift"
+  },
+  {
+    "item": "Petrified Snow-Cedar (Mythic Item)",
+    "rarity": "Gold",
+    "location": "World Bosses",
+    "type": "Snow Treaders Part",
+    "difficulty": "Master",
+    "drop_area": "The Rift"
+  },
+  {
+    "item": "Rune-Carved Mammoth Skull (Picture)",
+    "rarity": "Gold",
+    "location": "Mamoth Monster",
+    "type": "Furnishing",
+    "difficulty": "Master",
+    "drop_area": "The Rift"
+  },
+  {
+    "item": "Antique Map of Vvardenfell (Picture)",
+    "rarity": "Green",
+    "location": "Found at the Inn (Pathfinder Achievement)",
+    "type": "Furnishing",
+    "difficulty": "Simple",
+    "drop_area": "Vvardenfell"
+  },
+  {
+    "item": "Refitted Dwarven Rod",
+    "rarity": "Green",
+    "location": "Freebie Starter Lead",
+    "type": "Treasure",
+    "difficulty": "Simple",
+    "drop_area": "Vvardenfell"
+  },
+  {
+    "item": "Massive Ash-herder Grapnel",
+    "rarity": "Blue",
+    "location": "Reward for excavating Refitted Dwarven Rod",
+    "type": "Treasure",
+    "difficulty": "Intermediate",
+    "drop_area": "Vvardenfell"
+  },
+  {
+    "item": "Bleeding Beetle Door Loc",
+    "rarity": "Purple",
+    "location": "Reward for excavating Massive Ash-herder Grapnel",
+    "type": "Treasure",
+    "difficulty": "Advanced",
+    "drop_area": "Vvardenfell"
+  },
+  {
+    "item": "Sixth House Ritual Table (Picture)",
+    "rarity": "Purple",
+    "location": "Treasure Chest, Group Boss in Nchuleftingth Public Dungeon, Group Challenge Boss Forgotten Wastes, Delve Khartag Point",
+    "type": "Furnishing",
+    "difficulty": "Advanced",
+    "drop_area": "Vvardenfell"
+  },
+  {
+    "item": "St. Nerevar, Moon-And-Star (Picture)",
+    "rarity": "Gold",
+    "location": "Daily Reward Box in Vvardenfell",
+    "type": "Furnishing",
+    "difficulty": "Master",
+    "drop_area": "Vvardenfell"
+  },
+  {
+    "item": "Preserved Wraxu Feathers (Mythic Item)",
+    "rarity": "Gold",
+    "location": "“Remains-Silent” NPC in any Outlaws Refugee. Pick: “Have any equipment today” option. Drop is RNG based. Need “Shadowy Supplier” passive unlocked from Dark Bortherhood Skillline. (Image)",
+    "type": "Gaze of Sithis part",
+    "difficulty": "Master",
+    "drop_area": "Vvardenfell"
+  },
+  {
+    "item": "Antique Map of Western Skyrim",
+    "rarity": "Green",
+    "location": "Found at the Inn (Pathfinder Achievement)",
+    "type": "Furnishing",
+    "difficulty": "Simple",
+    "drop_area": "Western Skyrim"
+  },
+  {
+    "item": "Nord Scrimshaw Pendant",
+    "rarity": "Green",
+    "location": "Freebie Starter Lead",
+    "type": "Treasure",
+    "difficulty": "Simple",
+    "drop_area": "Western Skyrim"
+  },
+  {
+    "item": "Dwemer Body Marking",
+    "rarity": "Blue",
+    "location": "Dwarven Spider Boss in The Scraps Delve",
+    "type": "Body Marking",
+    "difficulty": "Intermediate",
+    "drop_area": "Western Skyrim"
+  },
+  {
+    "item": "Dwemer Face Marking",
+    "rarity": "Blue",
+    "location": "Colossus Charging Station World Boss in Blackreach",
+    "type": "Head Marking",
+    "difficulty": "Intermediate",
+    "drop_area": "Western Skyrim"
+  },
+  {
+    "item": "Silvered Nord Drinking Horn",
+    "rarity": "Blue",
+    "location": "Reward for excavating Nord Scrimshaw Pendant",
+    "type": "Treasure",
+    "difficulty": "Intermediate",
+    "drop_area": "Western Skyrim"
+  },
+  {
+    "item": "Ysgramor’s Chosen Body Marking",
+    "rarity": "Blue",
+    "location": "At the end of Morthal Barrow from the Danger in the Holds Main Quest",
+    "type": "Body Marking",
+    "difficulty": "Intermediate",
+    "drop_area": "Western Skyrim"
+  },
+  {
+    "item": "Ysgramor’s Chosen Face Marking",
+    "rarity": "Blue",
+    "location": "Undearneath the Dragon Bridge",
+    "type": "Head Marking",
+    "difficulty": "Intermediate",
+    "drop_area": "Western Skyrim"
+  },
+  {
+    "item": "Companion’s Coronet",
+    "rarity": "Purple",
+    "location": "High king’s Chamber, Blue Palace",
+    "type": "Major Adornment",
+    "difficulty": "Advanced",
+    "drop_area": "Western Skyrim"
+  },
+  {
+    "item": "Dwemer Crown",
+    "rarity": "Purple",
+    "location": "Clockwork Criterion in Nchuthnkarst",
+    "type": "Major Adornment",
+    "difficulty": "Advanced",
+    "drop_area": "Western Skyrim"
+  },
+  {
+    "item": "Inclined Dwarven Paneling",
+    "rarity": "Purple",
+    "location": "Bosses in Nchuthnkarst (Excluding Group Event Boss)",
+    "type": "Ebon Dwarven Wolf Part (Picture)",
+    "difficulty": "Advanced",
+    "drop_area": "Western Skyrim"
+  },
+  {
+    "item": "King’s Belt Plate",
+    "rarity": "Purple",
+    "location": "Reward for excavating Silvered Nord Drinking Horn",
+    "type": "Treasure",
+    "difficulty": "Advanced",
+    "drop_area": "Western Skyrim"
+  },
+  {
+    "item": "Seat of the Snow Prince (Picture)",
+    "rarity": "Purple",
+    "location": "Pentarch Khorb during the Main quest in Kagnthamz, World Bosses, Safe Box, Nchuthnkarst Boss",
+    "type": "Furnishing",
+    "difficulty": "Advanced",
+    "drop_area": "Western Skyrim"
+  },
+  {
+    "item": "Al-Esh Ascension Coin",
+    "rarity": "Gold",
+    "location": "Bear Monster in Blackreach. Also spawns on top of a dresser on the top floor of the Antiquarian Circle Building, you have to examine the Curios Coin Collection (Requirement: You MUST have done all green/blue/purple “freebie” leads in ALL zones before you can loot it!)",
+    "type": "Treasure",
+    "difficulty": "Ultimate",
+    "drop_area": "Western Skyrim"
+  },
+  {
+    "item": "Font of Auri-El (Picture)",
+    "rarity": "Gold",
+    "location": "Any Monster in Blackreach, Trash Monsters in Kyne’s Aegis Trial, Castle Thorn & Stone Garden Dungeon",
+    "type": "Furnishing",
+    "difficulty": "Master",
+    "drop_area": "Western Skyrim"
+  },
+  {
+    "item": "Glacial Metal Rivets (Mythic Item)",
+    "rarity": "Gold",
+    "location": "Blackmaw Boss in Labyrinthian (Probably any boss in that dungeon)",
+    "type": "Snow Treaders Part",
+    "difficulty": "Master",
+    "drop_area": "Western Skyrim"
+  },
+  {
+    "item": "Antique Map of Wrothgar (Picture)",
+    "rarity": "Green",
+    "location": "Found at the Inn (Pathfinder Achievement)",
+    "type": "Furnishing",
+    "difficulty": "Simple",
+    "drop_area": "Wrothgar"
+  },
+  {
+    "item": "Armless Stone Effigy",
+    "rarity": "Green",
+    "location": "Freebie Starter Lead",
+    "type": "Treasure",
+    "difficulty": "Simple",
+    "drop_area": "Wrothgar"
+  },
+  {
+    "item": "Worn Orcish Cauldron",
+    "rarity": "Blue",
+    "location": "Reward for excavating Armless Stone Effigy",
+    "type": "Treasure",
+    "difficulty": "Intermediate",
+    "drop_area": "Wrothgar"
+  },
+  {
+    "item": "Orsinium Cracked Iron Bell",
+    "rarity": "Purple",
+    "location": "Reward for excavating Worn Orcish Cauldron",
+    "type": "Treasure",
+    "difficulty": "Advanced",
+    "drop_area": "Wrothgar"
+  },
+  {
+    "item": "Tusks of the Orc-Father (Picture)",
+    "rarity": "Purple",
+    "location": "Treasure Chests, Public Dungeon Bosses, Monsters, Urns",
+    "type": "Furnishing",
+    "difficulty": "Advanced",
+    "drop_area": "Wrothgar"
+  },
+  {
+    "item": "Anvil of Old Orsinium (Picture)",
+    "rarity": "Gold",
+    "location": "Public Dungeon Old Orsinium Monsters & Bosses",
+    "type": "Furnishing",
+    "difficulty": "Ultimate",
+    "drop_area": "Wrothgar"
+  },
+  {
+    "item": "Malacath’s Brutal Might Loop (Mythic Item)",
+    "rarity": "Gold",
+    "location": "Public Dungeon Boss Old Orsinium",
+    "type": "Malacath’s Band of Brutality Part",
+    "difficulty": "Master",
+    "drop_area": "Wrothgar"
+  },
+  {
+    "item": "Onyx Accent Stones Wrothgar (Mythic Item)",
+    "rarity": "Gold",
+    "location": "World Bosses",
+    "type": "Ring of the Pale Order Part",
+    "difficulty": "Master",
+    "drop_area": "Wrothgar"
+  }
 ]
