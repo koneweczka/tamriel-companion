@@ -1,18 +1,14 @@
-# Mantine Vite template
+# ESO Tamriel Companion App
 
-## Features
+## About
 
-This template comes with the following features:
+App to check antiquities (and maybe other stuff in the future).
 
-- [PostCSS](https://postcss.org/) with [mantine-postcss-preset](https://mantine.dev/styles/postcss-preset)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Storybook](https://storybook.js.org/)
-- [Vitest](https://vitest.dev/) setup with [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
-- ESLint setup with [eslint-config-mantine](https://github.com/mantinedev/eslint-config-mantine)
+## Made using:
 
-## npm scripts
+React, Vite, Mantine
 
-## Build and dev scripts
+## Getting started:
 
 - `dev` – start development server
 - `build` – build production version of the app
