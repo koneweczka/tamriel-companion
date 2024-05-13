@@ -3694,5 +3694,893 @@
     "type": "Ring of the Pale Order Part",
     "difficulty": "Master",
     "drop_area": "Wrothgar"
+  },
+  {
+    "item": "Antique Map of Apocrypha",
+    "rarity": "Green",
+    "location": "Found at the Inn (Hero of Necrom achievement)",
+    "type": "Furnishing (Image)",
+    "difficulty": "Simple",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Antique Map of the Telvanni Peninsula",
+    "rarity": "Green",
+    "location": "Found at the Inn (Necrom Pathfinder achievement)",
+    "type": "Furnishing (Image)",
+    "difficulty": "Simple",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Apocrypha Fossil, Arch",
+    "rarity": "Green",
+    "location": "Treasure Map Chest in the Telvanni Peninsula and Apocrypha zone (Location Image)",
+    "type": "Furnishing (Image)",
+    "difficulty": "Simple",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Apocrypha Fossil, Worm",
+    "rarity": "Green",
+    "location": "Treasure Map Chest in the Telvanni Peninsula and Apocrypha zone",
+    "type": "Furnishing (Image)",
+    "difficulty": "Simple",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Mushroom Classification Book",
+    "rarity": "Green",
+    "location": "Treasure Map Chest in the Telvanni Peninsula and Apocrypha zone",
+    "type": "Furnishing (Image)",
+    "difficulty": "Simple",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Vintage Necrom Votive",
+    "rarity": "Green",
+    "location": "Zone starter lead",
+    "type": "Treasure",
+    "difficulty": "Simple",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Apocrypha Fossil, Bones Large",
+    "rarity": "Blue",
+    "location": "Treasure Map in Telvanni Peninsula",
+    "type": "Furnishing (Image)",
+    "difficulty": "Intermediate",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Apocrypha Fossil, Nautilus",
+    "rarity": "Blue",
+    "location": "Treasure Map Chest in the Telvanni Peninsula zone (Location Image)",
+    "type": "Furnishing (Image)",
+    "difficulty": "Intermediate",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Ceremonial Chimer Krater",
+    "rarity": "Blue",
+    "location": "Reward for “Vintage Necrom Votive” starter lead",
+    "type": "Treasure",
+    "difficulty": "Intermediate",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Cliffracer Skeleton Stand",
+    "rarity": "Blue",
+    "location": "Treasure Map in Telvanni Peninsula zone",
+    "type": "Furnishing (Image)",
+    "difficulty": "Intermediate",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Holy Velothi Chausable",
+    "rarity": "Purple",
+    "location": "Reward for the “Ceremonial Chimer Krater” lead",
+    "type": "Treasure",
+    "difficulty": "Advanced",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Tribunal Window, Stained Glass",
+    "rarity": "Purple",
+    "location": "Bosses, monsters, thieves troves (likely any source) in Telvanni Peninsula (Location Image)",
+    "type": "Furnishing (Image)",
+    "difficulty": "Advanced",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Ring of Stone",
+    "rarity": "Gold",
+    "location": "Treasure Map Chest in the Apocrypha zone (Location Image)",
+    "type": "Apocryphal Well (Image)",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Emergent Shadow",
+    "rarity": "Gold",
+    "location": "Treasure Map Chest",
+    "type": "Apocryphal Well",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Arms of Glory",
+    "rarity": "Gold",
+    "location": "Treasure Map Chest",
+    "type": "Apocryphal Well",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Rune-Carved Key",
+    "rarity": "Gold",
+    "location": "World Boss: The Prime Cataloger",
+    "type": "Music Box, Glyphic Secrets (Image)",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Dark Metal Cubes",
+    "rarity": "Gold",
+    "location": "Bastion Nymic World Event, Chest after defeating the main boss.",
+    "type": "Music Box, Glyphic Secrets",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Dark Metal Mesh",
+    "rarity": "Gold",
+    "location": "Risen Court World Boss in the Coldharbour zone",
+    "type": "Music Box, Glyphic Secrets",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Darklight Gemstone",
+    "rarity": "Gold",
+    "location": "Fathom’s Drift Delve, Lightkeeper Boss",
+    "type": "Music Box, Glyphic Secrets",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Dark Metal Springs",
+    "rarity": "Gold",
+    "location": "Thieves Troves and Safeboxes in the Telvanni Peninsula",
+    "type": "Music Box, Glyphic Secrets",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Inkwood Box",
+    "rarity": "Gold",
+    "location": "Tales of Tribute daily quest reward coffer & mail",
+    "type": "Music Box, Glyphic Secrets",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Rune-Etched Cylinder",
+    "rarity": "Gold",
+    "location": "Boss in Apogee of the Tormenting Eye Delve (Location Image)",
+    "type": "Music Box, Glyphic Secrets",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Rune-Scribed Comb",
+    "rarity": "Gold",
+    "location": "Dailies in Telvanni Peninsula zone",
+    "type": "Music Box, Glyphic Secrets",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Fortified Green Calcite Gears",
+    "rarity": "Gold",
+    "location": "Zthenganaz Delve Boss in the Wrothgar zone (Location Image)",
+    "type": "Music Box, Glyphic Secrets",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Intricate Winding Shaft",
+    "rarity": "Gold",
+    "location": "Netches and Dwarven Spheres (likely all Monsters?), Clothing Nodes in the Telvanni Peninsula zone",
+    "type": "Music Box, Glyphic Secrets",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Rust Funnelcap Paint",
+    "rarity": "Gold",
+    "location": "Bastion Nymic World Event Chests in Apocrypha and Telvanni Peninsula zones (Location Image)",
+    "type": "Spore Savant Body Marks (Image)",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Beetleback Pigment",
+    "rarity": "Gold",
+    "location": "Foul and Lake (Likely all) Fishing Spots in Apocrypha (Location Image)",
+    "type": "Spore Savant Body Marks",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Dried Bloodtooth",
+    "rarity": "Gold",
+    "location": "Vila Theran in Fungal Grotto II (Location)",
+    "type": "Spore Savant Body Marks",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Milkcap Mushroom Paint Stamps",
+    "rarity": "Gold",
+    "location": "Matus-Akin Mine Egg Boss in the Vvardenfell zone (Location Image)",
+    "type": "Spore Savant Body Marks",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Netch Shield Mushroom Stencil",
+    "rarity": "Gold",
+    "location": "World Boss Deepreave Quag (Location Image)",
+    "type": "Spore Savant Body Marks",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Sporecrafter’s Press",
+    "rarity": "Gold",
+    "location": "Runestones and Alchemy nodes (likely all resource nodes) in the Telvanni Peninsula zone",
+    "type": "Spore Savant Body Marks",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Annotated Sporecrafter Design",
+    "rarity": "Gold",
+    "location": "Crafting Writs",
+    "type": "Spore Savant Body Marks",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Dried Puspockets",
+    "rarity": "Gold",
+    "location": "Anchre Egg Mine Delve boss in the Telvanni Peninsula zone (Location Image)",
+    "type": "Spore Savant Face Marks (Image)",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Setting Sap",
+    "rarity": "Gold",
+    "location": "Wood Nodes in Telvanni Peninsula zone (Location Image)",
+    "type": "Spore Savant Face Marks",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Stone Stamp",
+    "rarity": "Gold",
+    "location": "Lady Llarel Shelter Delve in the Deshaan zone (Location Image)",
+    "type": "Spore Savant Face Marks",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Preserved Mushroom Sponge Wipe",
+    "rarity": "Gold",
+    "location": "Last boss in the Fungal Grotto 1 dungeon, Stonefalls zone (Location Image)",
+    "type": "Spore Savant Face Marks",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Sporecrafter’s Grinding Stone",
+    "rarity": "Gold",
+    "location": "Bastion Nymic World Event Chests in Apocrypha and Telvanni Peninsula zones (Location Image)",
+    "type": "Spore Savant Face Marks",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Ensorceled Drying Twine",
+    "rarity": "Gold",
+    "location": "World boss at Chthon Plaza. World Boss (Valkynaz Dek) at in Apocrypha (Location Image)",
+    "type": "Spore Savant Face Marks",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Sporecrafter’s Purse",
+    "rarity": "Gold",
+    "location": "Daily Reward Coffer in the Telvanni Peninsula zone (Location Image)",
+    "type": "Spore Savant Face Marks",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Volcanic Sand Bath",
+    "rarity": "Gold",
+    "location": "Between Alavelis and Padomaic Crest Wayshrine, next to lava in the corner (Location Image)",
+    "type": "Telvanni Alchemy Station (Image)",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Enchanted Mixing Stones",
+    "rarity": "Gold",
+    "location": "On the ground near the water approaching Kemel-Ze (Location Image)",
+    "type": "Telvanni Alchemy Station",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Reagent Drying Rack",
+    "rarity": "Gold",
+    "location": "Ald Isra (North West), close to the water (Location Image)",
+    "type": "Telvanni Alchemy Station",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Lustrous Metal Funnel",
+    "rarity": "Gold",
+    "location": "West of Fungal Lowlands Wayshrine (Middle of the zone), at the water (Location Image)",
+    "type": "Telvanni Alchemy Station",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Sturdy Crucible",
+    "rarity": "Gold",
+    "location": "North on the map close to Kemel-Ze. On one of the small islands (Location Image)",
+    "type": "Telvanni Alchemy Station",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Igneous Mortar and Pestle",
+    "rarity": "Gold",
+    "location": "South of the Padomaic Crest Wayhrine behind rocks (Location Image)",
+    "type": "Telvanni Alchemy Station",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Glass Desiccator",
+    "rarity": "Gold",
+    "location": "Alavelis Town (Southside close to trial), Walk into the village and check the right side (red marked area) (Location Image)",
+    "type": "Telvanni Alchemy Station",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Tempered Brass Retort",
+    "rarity": "Gold",
+    "location": "Below Ald Isra on one of the islands close to a boat (Location Image)",
+    "type": "Telvanni Alchemy Station",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Malachite Burette And Stand",
+    "rarity": "Gold",
+    "location": "North of Sailenmora (middle of map) in the water close to a rock (Location Image)",
+    "type": "Telvanni Alchemy Station",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Vacuum Filtration Apparatus",
+    "rarity": "Gold",
+    "location": "In the middle of the zone close to the water, well hidden (Location Image)",
+    "type": "Telvanni Alchemy Station",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Umbral Frame",
+    "rarity": "Gold",
+    "location": "Quires Wind delve boss (Cipher Gelon), Apocrypha zone (Location Image)",
+    "type": "Trifold Mirror of Alternatives (Image)",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Liminal Glass",
+    "rarity": "Gold",
+    "location": "World Boss at Nightmare Den",
+    "type": "Trifold Mirror of Alternatives",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Runic Legs",
+    "rarity": "Gold",
+    "location": "Boss in Halls of Regulation Delve Clockwork City zone",
+    "type": "Trifold Mirror of Alternatives",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Ancestor Samite Undershirt",
+    "rarity": "Gold",
+    "location": "Bal Sunnar dungeon final boss (Location Image)",
+    "type": "Cryptcanon Vestments (Mythic)",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Scrib Chitin Padding",
+    "rarity": "Gold",
+    "location": "Corlys the Chainmaker worldboss (Clamorclap Bowl location) (Location Image)",
+    "type": "Cryptcanon Vestments",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Ancestor Samite Stole",
+    "rarity": "Gold",
+    "location": "Uzur the All-Seeing Delve Boss in The Disquiet Study Delve (Location Image)",
+    "type": "Cryptcanon Vestments",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Netchbeak Clasps",
+    "rarity": "Gold",
+    "location": "Treasure Chests in the Telvanni Peninsula",
+    "type": "Cryptcanon Vestments",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Ancestor Samite Sash",
+    "rarity": "Gold",
+    "location": "Daily Reward Coffer (Delve Daily) in the Telvanni Peninsula zone (Location Image)",
+    "type": "Cryptcanon Vestments",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Biome-Proof Plating",
+    "rarity": "Gold",
+    "location": "Nchuleft Delve Boss in the Vvardenfell zone (Location Image)",
+    "type": "Esoteric Environment Greaves (Mythic)",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Nonreactive Cincture",
+    "rarity": "Gold",
+    "location": "Graven Deep Dungeon side bosses (Location Image)",
+    "type": "Esoteric Environment Greaves",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Thras-Crafted Breeches",
+    "rarity": "Gold",
+    "location": "Coral Aerie Dungeon last secret boss (Sload) (Coral Aerie Guide)",
+    "type": "Esoteric Environment Greaves",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Tonal Pivot Joints",
+    "rarity": "Gold",
+    "location": "Forgotten Waste Public Dungeon Group Event Boss, Vvardenfell zone (Location Image)",
+    "type": "Esoteric Environment Greaves",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Harvester-Scale-Plating",
+    "rarity": "Gold",
+    "location": "Zygiite Boss in the Gorne Public Dungeon, Telvanni Peninsula zone (Location Image)",
+    "type": "Esoteric Environment Greaves",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Ebony Crossed-Sword Chain",
+    "rarity": "Gold",
+    "location": "World Boss Daily Coffers in the Vvardenfell zone (Daily Location Info)",
+    "type": "Velothi Ur-Mage’s Amulet (Mythic)",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Gold Mandibular Cradle",
+    "rarity": "Gold",
+    "location": "Boss in the Cammonnaruhn delve in the Telvanni Peninsula zone (Location Image)",
+    "type": "Velothi Ur-Mage’s Amulet",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Gold Shalk Clasp",
+    "rarity": "Gold",
+    "location": "Scrivener’s Hall Dungeon Trophy Room Chests (Location Image)",
+    "type": "Velothi Ur-Mage’s Amulet",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Ebony Shalk Mounting",
+    "rarity": "Gold",
+    "location": "Runemaster’s Acropolis World Boss (Location Image)",
+    "type": "Velothi Ur-Mage’s Amulet",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Lucent Cabochon",
+    "rarity": "Gold",
+    "location": "Underweave Public Dungeon from any boss, Apocrypha zone (Location Image)",
+    "type": "Velothi Ur-Mage’s Amulet",
+    "difficulty": "Master",
+    "drop_area": "Telvanni Peninsula"
+  },
+  {
+    "item": "Seeker Claw Quill",
+    "rarity": "Green",
+    "location": "Apocrypha zone: Zone Starter Lead",
+    "type": "Treasure",
+    "difficulty": "Simple",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Vial of Watcher Ink",
+    "rarity": "Blue",
+    "location": "Apocrypha zone: Reward for excavating zone starter lead",
+    "type": "Treasure",
+    "difficulty": "Intermediate",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Archival Fortune Pouch",
+    "rarity": "Blue",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Container",
+    "difficulty": "Intermediate",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Apocrypha Fossil, Ribcage",
+    "rarity": "Blue",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Furniture (Image)",
+    "difficulty": "Intermediate",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Apocrypha Fossil, Slug",
+    "rarity": "Blue",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Furniture (Image)",
+    "difficulty": "Intermediate",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Apocrypha Fossil, Wall Beast",
+    "rarity": "Blue",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Furniture (Image)",
+    "difficulty": "Intermediate",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Apocrypha Fossil, Tree",
+    "rarity": "Blue",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Furniture (Image)",
+    "difficulty": "Intermediate",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Antique Cipher Vestments",
+    "rarity": "Purple",
+    "location": "Apocrypha Zone: Reward for excavating previous level treasure lead",
+    "type": "Treasure",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Khajiiti Arch, Rising",
+    "rarity": "Purple",
+    "location": "Reaper’s March zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture (Image)",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Breton Well, Storm Grey",
+    "rarity": "Purple",
+    "location": "Glenumbra zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture (Image)",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Stone Relief, Yokudan",
+    "rarity": "Purple",
+    "location": "Alik’r Desert zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture (Image)",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Dark Elf Altar, Ceremonial",
+    "rarity": "Purple",
+    "location": "Deshaan zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture (Image)",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Painted Stone Frog",
+    "rarity": "Purple",
+    "location": "Shadowfen zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture (Image)",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Shrine to Dibella",
+    "rarity": "Purple",
+    "location": "Gold Coast zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture (Image)",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Clockwork Wall Gears",
+    "rarity": "Purple",
+    "location": "Clockwork City zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture (Image)",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "High Elf Altar, Crystal",
+    "rarity": "Purple",
+    "location": "Summerset zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture (Image)",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Khajiiti Water Vessel, Large",
+    "rarity": "Purple",
+    "location": "Northern Elsweyr zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture (Image)",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Khajiiti Well",
+    "rarity": "Purple",
+    "location": "Southern Elsweyr zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture (Image)",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Shelf, Black Soul Gems",
+    "rarity": "Purple",
+    "location": "Deadlands zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture (Image)",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Archival Fortune Pouch, Grand",
+    "rarity": "Purple",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Container",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Scrying Brazier, Short",
+    "rarity": "Purple",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Furniture (Image)",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Archival Light Diffuser, Small",
+    "rarity": "Purple",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Furniture (Image)",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Forged Black Book",
+    "rarity": "Purple",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Furniture (Image)",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Scrying Brazier, Tall",
+    "rarity": "Purple",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Furniture (Image)",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Petrified Watcher",
+    "rarity": "Purple",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Furniture (Image)",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Watchful Light",
+    "rarity": "Purple",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Furniture (Image)",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Archival Fortune Pouch, Lucky",
+    "rarity": "Gold",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Container",
+    "difficulty": "Advanced",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Structural Tentacle Arch",
+    "rarity": "Gold",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Apocryphal Clothier Station (Image)",
+    "difficulty": "Master",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Fated Loom Threads",
+    "rarity": "Gold",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Apocryphal Clothier Station (Image)",
+    "difficulty": "Master",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Writhing Tendril Harness",
+    "rarity": "Gold",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Apocryphal Clothier Station (Image)",
+    "difficulty": "Master",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Carved Mora Treadles",
+    "rarity": "Gold",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Apocryphal Clothier Station (Image)",
+    "difficulty": "Master",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Endless Apocryphal Light",
+    "rarity": "Gold",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Apocryphal Clothier Station (Image)",
+    "difficulty": "Master",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Apocrypha Tentacle Carving",
+    "rarity": "Gold",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Vision of Mora (Image)",
+    "difficulty": "Master",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Apocrypha Stone Base",
+    "rarity": "Gold",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Vision of Mora (Image)",
+    "difficulty": "Master",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Hermaeus Mora Eye Engraving",
+    "rarity": "Gold",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Vision of Mora (Image)",
+    "difficulty": "Master",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Infinite Tome Cover",
+    "rarity": "Gold",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Infinite Tome (Image)",
+    "difficulty": "Master",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Infinite Table of Contents",
+    "rarity": "Gold",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Infinite Tome (Image)",
+    "difficulty": "Master",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Infinite Tome Manuscript",
+    "rarity": "Gold",
+    "location": "Can be found in the Endless Archive (Location)",
+    "type": "Infinite Tome (Image)",
+    "difficulty": "Master",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Archival Light Diffuser, Large",
+    "rarity": "Gold",
+    "location": "Drops from marauder Ulmor boss in the Endless Archive (Location)",
+    "type": "Furniture (Image)",
+    "difficulty": "Master",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Ancestor Silk Ribbon",
+    "rarity": "Gold",
+    "location": "Infinite Archive Chests",
+    "mythic": "Mythic Torc of the last Ayleid King",
+    "difficulty": "Master",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Feathered Palladium Cradle",
+    "rarity": "Gold",
+    "location": "Infinite Archive Chests",
+    "mythic": "Mythic Torc of the last Ayleid King",
+    "difficulty": "Master",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Meteoric Iron Triquetra",
+    "rarity": "Gold",
+    "location": "Infinite Archive Chests",
+    "mythic": "Mythic Torc of the last Ayleid King",
+    "difficulty": "Master",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Palladium Talon",
+    "rarity": "Gold",
+    "location": "Infinite Archive Chests",
+    "mythic": "Mythic Torc of the last Ayleid King",
+    "difficulty": "Master",
+    "drop_area": "Apocrypha"
+  },
+  {
+    "item": "Welkynd Jewel",
+    "rarity": "Gold",
+    "location": "Infinite Archive Chests",
+    "mythic": "Mythic Torc of the last Ayleid King",
+    "difficulty": "Master",
+    "drop_area": "Apocrypha"
   }
 ]
