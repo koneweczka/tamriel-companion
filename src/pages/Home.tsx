@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import { Button } from '@mantine/core';
+import { Avatar, Button } from '@mantine/core';
 
 export function Home() {
   const navigate = useNavigate();
@@ -14,12 +14,14 @@ export function Home() {
       <h1>Home</h1>
       <p>Welcome to the Tamriel Companion App!</p>
       <div>
+        <img src="/antiquities.png" alt="antiquities" />
         <Button
           variant="filled"
           color="cyan"
           size="md"
           radius="md"
           style={{ marginBottom: '10px' }}
+          leftSection={<Avatar src="/antiquities.png" alt="Antiquities" />}
           onClick={() => handleNavigate('/antiquities')}
         >
           Antiquities

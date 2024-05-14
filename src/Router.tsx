@@ -1,5 +1,6 @@
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import { Home } from './pages/Home';
+import { Antiquities } from './pages/Antiquities';
 
 const router = createBrowserRouter([
   {
@@ -8,7 +9,7 @@ const router = createBrowserRouter([
   },
   {
     path: '/antiquities',
-    element: <div>Antiquities</div>,
+    element: <Antiquities />,
   },
   {
     path: '/achievements',
