@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { Avatar, Box, Button, Container, Title } from '@mantine/core';
 import { HeartIcon } from '@heroicons/react/24/solid';
 import antiquities from '../public/antiquities.png';
-import classes from './Home.module.css';
+import classes from './Home.css';
 
 export function Home() {
   const navigate = useNavigate();
