@@ -1,7 +1,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Avatar, Box, Button, Container, Title } from '@mantine/core';
-import { HeartIcon } from '@heroicons/react/24/solid';
+import { IconHeartFilled } from '@tabler/icons-react';
 import antiquities from '../public/antiquities.png';
 import classes from './Home.css';
 
@@ -42,7 +42,7 @@ export function Home() {
       </Box>
       <h3>There will be more content from my app.</h3>
       <p className={classes.icon}>
-        Made with <HeartIcon /> by Konewka
+        Made with <IconHeartFilled /> by Konewka
       </p>
     </Container>
   );
