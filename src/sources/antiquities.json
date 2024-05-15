@@ -5,7 +5,8 @@
     "location": "Treasure Map Chest",
     "type": "Motif",
     "difficulty": "Simple",
-    "drop_area": "Alik'r Desert"
+    "drop_area": "Alik'r Desert",
+    "image_path": "https://images.uesp.net/c/c9/ON-icon-quest-Letter_02.png"
   },
   {
     "item": "Ancestral Orc Swords",
@@ -3440,7 +3441,7 @@
     "drop_area": "Stormhaven"
   },
   {
-    "item": "Noble Knight’s Rest (Picture)",
+    "item": "Noble Knight’s Rest",
     "rarity": "Purple",
     "location": "Treasure Map Chest, Public Dungeon Boss Bonesnap Ruins",
     "type": "Furnishing",
@@ -4140,7 +4141,7 @@
     "rarity": "Blue",
     "location": "Reward for excavating Reach Trail Maker Antiquity",
     "type": "Treasure",
-    "difficulty": "Superior",
+    "difficulty": "Intermediate",
     "drop_area": "The Reach"
   },
   {
