@@ -1,5 +1,7 @@
 import React from 'react';
-import { Avatar, Card, ColorSwatch, Flex, Text, Title } from '@mantine/core';
+import { Avatar, Card, ColorSwatch, Flex, Grid, Switch, Text, Title } from '@mantine/core';
+import { IconMapRoute } from '@tabler/icons-react';
+import classes from './AntiquityCard.css';
 
 // rarity is the color of the antiquity
 // difficulty is how har it is to dig up the antiquity
@@ -16,28 +18,16 @@ export function AntiquityCard() {
   };
 
   return (
-    <Card
-      shadow="sm"
-      padding="lg"
-      radius="md"
-      withBorder
-      style={{
-        display: 'block',
-        padding: 16,
-        diaplay: 'block',
-        minHeight: 40,
-        width: 'fit-content',
-        minWidth: 100,
-        alignItems: 'center',
-        textAlign: 'center',
-      }}
-    >
-      <Flex align="center">
+    <Card shadow="sm" padding="lg" radius="md" withBorder className={classes.card}>
+      {/* TODO: Check if grid is better here? */}
+      <Grid grow>
         <Avatar src={exampleAntiquity.image_path} alt={exampleAntiquity.item} />
         <Title order={3} c="#67F149">
           {exampleAntiquity.item}
         </Title>
-      </Flex>
+        <Switch ml="25" />
+      </Grid>
+      <Flex align="center"></Flex>
       <Flex align="center">
         <Text size="sm" fw={700}>
           Type:
@@ -57,9 +47,10 @@ export function AntiquityCard() {
         <Text size="sm" fw={700}>
           Location:
         </Text>
-        <Text c="dimmed" size="sm" ml="7">
+        <Text c="dimmed" size="sm" ml="7" mr="20">
           {exampleAntiquity.location}
         </Text>
+        <IconMapRoute />
       </Flex>
     </Card>
   );
