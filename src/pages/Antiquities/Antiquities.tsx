@@ -35,12 +35,6 @@ export function Antiquities() {
                           return (
                             <Accordion.Item key={antiquityArea.name} value={antiquityArea.name}>
                               <Accordion.Control>
-                                <AccordionLabel
-                                  label={antiquityArea.name}
-                                  avatar={antiquityArea.avatar}
-                                />
-                              </Accordion.Control>
-                              <Accordion.Panel>
                                 {filteredAntiquities.length > 0 ? (
                                   filteredAntiquities.map((antiquity) => (
                                     <AntiquityCard key={antiquity.item} antiquity={antiquity} />
@@ -48,7 +42,7 @@ export function Antiquities() {
                                 ) : (
                                   <Text>No antiquities found for this area.</Text>
                                 )}
-                              </Accordion.Panel>
+                              </Accordion.Control>
                             </Accordion.Item>
                           );
                         })}
