@@ -1,7 +1,10 @@
 import React from 'react';
 import { Accordion, Avatar, Container, Group, Text, Title } from '@mantine/core';
 import { locations } from '../../utils/recordMaps';
+import antiquities from '../../sources/antiquities.json';
 import classes from './Antiquities.css';
+import { AntiquityCard } from '@/components/AntiquityCard/AntiquityCard';
+import { Antiquity } from '@/@typings/database-types';
 
 export function Antiquities() {
   return (
@@ -16,20 +19,44 @@ export function Antiquities() {
               <AccordionLabel label={location.name} avatar={location.avatar} />
             </Accordion.Control>
             <Accordion.Panel>
-            <Accordion>
-              {location.areas.map((area) => (
-                <Accordion.Item key={area.name} value={area.name}>
-                  <Accordion.Control>
-                    <AccordionLabel label={area.name} avatar={area.avatar} />
-                  </Accordion.Control>
-                  <Accordion.Panel>
-                    <Accordion>
-                    <Text>Content</Text>
-                    </Accordion>
-                  </Accordion.Panel>
-                </Accordion.Item>
-              ))}
-            </Accordion>
+              <Accordion>
+                {location.areas.map((area) => (
+                  <Accordion.Item key={area.name} value={area.name}>
+                    <Accordion.Control>
+                      <AccordionLabel label={area.name} avatar={area.avatar} />
+                    </Accordion.Control>
+                    <Accordion.Panel>
+                      <Accordion>
+                        {location.areas.map((antiquityArea) => {
+                          const filteredAntiquities = antiquities.filter(
+                            (antiquity) => antiquity.drop_area === antiquityArea.name
+                          );
+
+                          return (
+                            <Accordion.Item key={antiquityArea.name} value={antiquityArea.name}>
+                              <Accordion.Control>
+                                <AccordionLabel
+                                  label={antiquityArea.name}
+                                  avatar={antiquityArea.avatar}
+                                />
+                              </Accordion.Control>
+                              <Accordion.Panel>
+                                {filteredAntiquities.length > 0 ? (
+                                  filteredAntiquities.map((antiquity) => (
+                                    <AntiquityCard key={antiquity.item} antiquity={antiquity} />
+                                  ))
+                                ) : (
+                                  <Text>No antiquities found for this area.</Text>
+                                )}
+                              </Accordion.Panel>
+                            </Accordion.Item>
+                          );
+                        })}
+                      </Accordion>
+                    </Accordion.Panel>
+                  </Accordion.Item>
+                ))}
+              </Accordion>
             </Accordion.Panel>
           </Accordion.Item>
         ))}
@@ -47,3 +74,19 @@ function AccordionLabel({ label, avatar }: { label: string; avatar?: string }) {
     </Group>
   );
 }
+
+function isValidAntiquity(item: any): item is Antiquity {
+  return (
+    typeof item.item === 'string' &&
+    typeof item.rarity === 'string' &&
+    typeof item.location === 'string' &&
+    typeof item.type === 'string' &&
+    typeof item.difficulty === 'string' &&
+    typeof item.drop_area === 'string' &&
+    typeof item.image_path === 'string'
+  );
+}
+
+const invalidItems: any[] = antiquities.filter((item) => !isValidAntiquity(item));
+
+console.log('Invalid Items:', invalidItems);

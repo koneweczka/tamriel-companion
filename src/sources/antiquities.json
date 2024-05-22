@@ -118,9 +118,9 @@
   },
   {
     "item": "Ancestor Silk Ribbon",
+    "type": "Mythic Item Fragment (Torc of the Last Ayleid King)",
     "rarity": "Gold",
     "location": "Infinite Archive Chests",
-    "mythic": "Mythic Torc of the last Ayleid King",
     "difficulty": "Master",
     "drop_area": "Apocrypha",
     "image_path": ""
@@ -291,7 +291,7 @@
     "item": "Feathered Palladium Cradle",
     "rarity": "Gold",
     "location": "Infinite Archive Chests",
-    "mythic": "Mythic Torc of the last Ayleid King",
+    "type": "Mythic Item Fragment (Torc of the Last Ayleid King)",
     "difficulty": "Master",
     "drop_area": "Apocrypha",
     "image_path": ""
@@ -381,7 +381,7 @@
     "item": "Meteoric Iron Triquetra",
     "rarity": "Gold",
     "location": "Infinite Archive Chests",
-    "mythic": "Mythic Torc of the last Ayleid King",
+    "type": "Mythic Item Fragment (Torc of the Last Ayleid King)",
     "difficulty": "Master",
     "drop_area": "Apocrypha",
     "image_path": ""
@@ -399,7 +399,7 @@
     "item": "Palladium Talon",
     "rarity": "Gold",
     "location": "Infinite Archive Chests",
-    "mythic": "Mythic Torc of the last Ayleid King",
+    "type": "Mythic Item Fragment (Torc of the Last Ayleid King)",
     "difficulty": "Master",
     "drop_area": "Apocrypha",
     "image_path": ""
@@ -498,7 +498,7 @@
     "item": "Welkynd Jewel",
     "rarity": "Gold",
     "location": "Infinite Archive Chests",
-    "mythic": "Mythic Torc of the last Ayleid King",
+    "type": "Mythic Item Fragment (Torc of the Last Ayleid King)",
     "difficulty": "Master",
     "drop_area": "Apocrypha",
     "image_path": ""
@@ -513,7 +513,7 @@
     "image_path": ""
   },
   {
-    "item": "Coral Plating (Mythic Item)",
+    "item": "Coral Plating",
     "rarity": "Gold",
     "location": "Artaeum – Artaeum Fishing",
     "type": "Thrassian Stranglers Part",
@@ -549,7 +549,7 @@
     "image_path": ""
   },
   {
-    "item": "Aetherquartz Prayer Beads (Mythic Item)",
+    "item": "Aetherquartz Prayer Beads",
     "rarity": "Gold",
     "location": "Ondil Auridon Delve Boss",
     "type": "Pearls of Ehlnofey Part",
@@ -585,7 +585,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Auridon (Picture)",
+    "item": "Antique Map of Auridon",
     "rarity": "Green",
     "location": "Found in Firsthold City (up North) in the 'Overlook Inn' Barkeeper NPC (Requires Pathfinder Achievement)",
     "type": "Furnishing",
@@ -603,7 +603,7 @@
     "image_path": ""
   },
   {
-    "item": "Echoes of Aldmeris (Picture)",
+    "item": "Echoes of Aldmeris",
     "rarity": "Gold",
     "location": "Chests, Pack Merchants Bag",
     "type": "Furnishing",
@@ -621,7 +621,7 @@
     "image_path": ""
   },
   {
-    "item": "Inert Anemone Inlay (Mythic Item)",
+    "item": "Inert Anemone Inlay",
     "rarity": "Gold",
     "location": "All World Bosses",
     "type": "Thrassian Stranglers Part",
@@ -630,7 +630,7 @@
     "image_path": ""
   },
   {
-    "item": "Maormeri Serpent Shrine (Picture)",
+    "item": "Maormeri Serpent Shrine",
     "rarity": "Purple",
     "location": "Safeboxes, Treasure Map Chests, Public Dungeon Boss, Random Monster, Thieves Troves",
     "type": "Furnishing",
@@ -639,7 +639,7 @@
     "image_path": ""
   },
   {
-    "item": "Nilumin River Pearls (Mythic Item)",
+    "item": "Nilumin River Pearls",
     "rarity": "Gold",
     "location": "Banished Cells 1 Last Boss",
     "type": "Pearls of Ehlnofey Part",
@@ -693,7 +693,7 @@
     "image_path": ""
   },
   {
-    "item": "Malacath’s Brutal Rune Core (Mythic Item)",
+    "item": "Malacath’s Brutal Rune Core",
     "rarity": "Gold",
     "location": "IMPERIAL CITY – Upper District Bosses (Dig Site in Bal Foyen)",
     "type": "Malacath’s Band of Brutality Part",
@@ -711,7 +711,7 @@
     "image_path": ""
   },
   {
-    "item": "Silverweave Cord (Mythic Item)",
+    "item": "Silverweave Cord",
     "rarity": "Gold",
     "location": "Covenant Enemies, most likely all enemies",
     "type": "Harpooner’s Wading Kilt part",
@@ -720,7 +720,7 @@
     "image_path": ""
   },
   {
-    "item": "The Dutiful Guar (Picture)",
+    "item": "The Dutiful Guar",
     "rarity": "Purple",
     "location": "Safeboxes, Thieves Troves, Nodes",
     "type": "Furnishing",
@@ -729,7 +729,7 @@
     "image_path": ""
   },
   {
-    "item": "Tri-Angled Truth Altar (Picture)",
+    "item": "Tri-Angled Truth Altar",
     "rarity": "Purple",
     "location": "Safeboxes, Treasure Chests",
     "type": "Furnishing",
@@ -756,7 +756,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Bangkorai (Picture)",
+    "item": "Antique Map of Bangkorai",
     "rarity": "Green",
     "location": "Fount at the Inn (Need Pathfinder Achievement)",
     "type": "Furnishing",
@@ -765,7 +765,7 @@
     "image_path": ""
   },
   {
-    "item": "Aurmine Ancestral Signet (Mythic Item)",
+    "item": "Aurmine Ancestral Signet",
     "rarity": "Gold",
     "location": "Chests",
     "type": "Ring of the Pale Order Part",
@@ -777,7 +777,7 @@
     "item": "Dwarven Rib Frame",
     "rarity": "Blue",
     "location": "Klathzgars Centurion in Klathzgar Delve",
-    "type": "Ebon Dwarven Wolf Part (Picture)",
+    "type": "Ebon Dwarven Wolf Part",
     "difficulty": "Intermediate",
     "drop_area": "Bangkorai",
     "image_path": ""
@@ -804,7 +804,7 @@
     "item": "Sloped Dwarven Guards",
     "rarity": "Purple",
     "location": "Any Boss in Razak’s Wheel Public Dungeon",
-    "type": "Ebon Dwarven Wolf Part (Picture)",
+    "type": "Ebon Dwarven Wolf Part",
     "difficulty": "Advanced",
     "drop_area": "Bangkorai",
     "image_path": ""
@@ -819,7 +819,7 @@
     "image_path": ""
   },
   {
-    "item": "Tall Papa’s Lamp (Picture)",
+    "item": "Tall Papa’s Lamp",
     "rarity": "Purple",
     "location": "Safeboxes, Thieves Trove, World Bosses, Public Dungeon Bosses, Nightstand in Anchor’s Point Inn, Evermore, Klathzgar Delve Boss",
     "type": "Furnishing",
@@ -828,7 +828,7 @@
     "image_path": ""
   },
   {
-    "item": "Torc Strand of Song (Mythic Item)",
+    "item": "Torc Strand of Song",
     "rarity": "Gold",
     "location": "Captain Blackheart in Blackheart Haven Dungeon",
     "type": "Torc of Tonal Constancy Part",
@@ -864,7 +864,7 @@
     "image_path": ""
   },
   {
-    "item": "Ayleid Lightwell (Picture)",
+    "item": "Ayleid Lightwell",
     "rarity": "Purple",
     "location": "Treasure Map, Thieves Trove, Safebox, Nodes, Any random Monster in the zone",
     "type": "Furnishing",
@@ -891,7 +891,7 @@
     "image_path": ""
   },
   {
-    "item": "Malacath’s Brutal Scourge Hoop (Mythic Item)",
+    "item": "Malacath’s Brutal Scourge Hoop",
     "rarity": "Gold",
     "location": "Random Monster",
     "type": "Malacath’s Band of Brutality Part",
@@ -909,7 +909,7 @@
     "image_path": ""
   },
   {
-    "item": "Warcaller’s Painted Drum (Picture)",
+    "item": "Warcaller’s Painted Drum",
     "rarity": "Gold",
     "location": "Random Monster",
     "type": "Furnishing",
@@ -927,7 +927,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Blackwood (Picture)",
+    "item": "Antique Map of Blackwood",
     "rarity": "Green",
     "location": "Found at the Inn (Requires Pathfinder Achievement)",
     "type": "Furniture",
@@ -945,7 +945,7 @@
     "image_path": ""
   },
   {
-    "item": "Carved Signet Base (Mythic Item)",
+    "item": "Carved Signet Base",
     "rarity": "Gold",
     "location": "Imperial City Upstair Bosses",
     "type": "Death Dealer’s Fete part",
@@ -954,7 +954,7 @@
     "image_path": ""
   },
   {
-    "item": "Chain of the Vampire (Mythic Item)",
+    "item": "Chain of the Vampire",
     "rarity": "Gold",
     "location": "Harrowstorms in The Reach",
     "type": "Shapeshifter’s Chain part",
@@ -963,7 +963,7 @@
     "image_path": ""
   },
   {
-    "item": "Chain of the Werewolf (Mythic Item)",
+    "item": "Chain of the Werewolf",
     "rarity": "Gold",
     "location": "Hircine’s Haunt delve, all bosses",
     "type": "Shapeshifter’s Chain part",
@@ -972,10 +972,10 @@
     "image_path": ""
   },
   {
-    "item": "Dusty Tapestry Scrap (Picture)",
+    "item": "Dusty Tapestry Scrap",
     "rarity": "Blue",
     "location": "South East of the Xeemhok’s Lagoon World Boss, destroyed hut next to a Skeleton",
-    "type": "Blackwood Tapestry (Picture)",
+    "type": "Blackwood Tapestry",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": ""
@@ -984,7 +984,7 @@
     "item": "Filthy Tapestry Scrap (Location Picture)",
     "rarity": "Blue",
     "location": "Ruined cart South-East of the Blueblood Wayshrine",
-    "type": "Blackwood Tapestry (Picture)",
+    "type": "Blackwood Tapestry",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": ""
@@ -993,13 +993,13 @@
     "item": "Frayed Tapestry Scrap (Location Picture)",
     "rarity": "Blue",
     "location": "Inside a tunnel next to the Vunalk Wayshrine behind a shrine.",
-    "type": "Blackwood Tapestry (Picture)",
+    "type": "Blackwood Tapestry",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": ""
   },
   {
-    "item": "Glass Skeletal Visage (Mythic Item)",
+    "item": "Glass Skeletal Visage",
     "rarity": "Gold",
     "location": "Public Dungeon Zenithar’s Abbey, any boss",
     "type": "Gaze of Sithis part",
@@ -1011,7 +1011,7 @@
     "item": "Grimy Tapestry Scrap (Location Picture)",
     "rarity": "Blue",
     "location": "Northeast wall outside of the “The Silent Halls” Public Dungeon next to a a digplace with a shovel.",
-    "type": "Blackwood Tapestry (Picture)",
+    "type": "Blackwood Tapestry",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": ""
@@ -1020,7 +1020,7 @@
     "item": "Holey Tapestry Scrap (Location Picture)",
     "rarity": "Blue",
     "location": "Close to Gideon town, inside Duchess’s Private Study hideout, inside the broken wall.",
-    "type": "Blackwood Tapestry (Picture)",
+    "type": "Blackwood Tapestry",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": ""
@@ -1035,7 +1035,7 @@
     "image_path": ""
   },
   {
-    "item": "Kothringi Tidal Canoe (Picture)",
+    "item": "Kothringi Tidal Canoe",
     "rarity": "Purple",
     "location": "Daily Quest in Blackwood from the reward box.",
     "type": "Furnishing",
@@ -1044,7 +1044,7 @@
     "image_path": ""
   },
   {
-    "item": "Kothringi-Cut Leather (Mythic Item)",
+    "item": "Kothringi-Cut Leather",
     "rarity": "Gold",
     "location": "World Bosses",
     "type": "Harpooner’s Wading Kilt part",
@@ -1056,7 +1056,7 @@
     "item": "Moth-eaten Tapestry Scrap (Location Picture)",
     "rarity": "Blue",
     "location": "West of the Leyawiin Outskirts Wayshrine inside a cave",
-    "type": "Blackwood Tapestry (Picture)",
+    "type": "Blackwood Tapestry",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": ""
@@ -1065,7 +1065,7 @@
     "item": "Ragged Tapestry Scrap (Location Picture)",
     "rarity": "Blue",
     "location": "Next to a boat at the water close to the Tidewater Cave",
-    "type": "Blackwood Tapestry (Picture)",
+    "type": "Blackwood Tapestry",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": ""
@@ -1074,13 +1074,13 @@
     "item": "Ratty Tapestry Scrap (Location Picture)",
     "rarity": "Blue",
     "location": "South of the White Stallion Inn (North of the Leyawiin City)",
-    "type": "Blackwood Tapestry (Picture)",
+    "type": "Blackwood Tapestry",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": ""
   },
   {
-    "item": "Reinforced Clasp Anchor (Mythic Item)",
+    "item": "Reinforced Clasp Anchor",
     "rarity": "Gold",
     "location": "Public Dungeon Silent Hall, Wootwhisperer Boss, Vor’Chul The Beastbreaker Boss",
     "type": "Shapeshifter’s Chain part",
@@ -1092,7 +1092,7 @@
     "item": "Ripped Tapestry Scrap (Location Picture)",
     "rarity": "Blue",
     "location": "North of the Vunalk Wayshrine at the big lake inside a destroyed hut",
-    "type": "Blackwood Tapestry (Picture)",
+    "type": "Blackwood Tapestry",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": ""
@@ -1119,7 +1119,7 @@
     "item": "Soiled Tapestry Scrap (Location Picture)",
     "rarity": "Blue",
     "location": "At the Stonewastes Wayshrine next to an extinguished fire and a tent (South of the Blackwood Map)",
-    "type": "Blackwood Tapestry (Picture)",
+    "type": "Blackwood Tapestry",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": ""
@@ -1128,7 +1128,7 @@
     "item": "Stained Tapestry Scrap (Location Picture)",
     "rarity": "Blue",
     "location": "South-East of the Stonewastes Wayshrine on top of a wheatered building",
-    "type": "Blackwood Tapestry (Picture)",
+    "type": "Blackwood Tapestry",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": ""
@@ -1137,7 +1137,7 @@
     "item": "Stitched Tapestry Scrap",
     "rarity": "Blue",
     "location": "North West of the Xi-Tsei Delve close to a boat",
-    "type": "Blackwood Tapestry (Picture)",
+    "type": "Blackwood Tapestry",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": ""
@@ -1146,7 +1146,7 @@
     "item": "Tattered Tapestry Scrap (Location Picture)",
     "rarity": "Blue",
     "location": "East of the Leyawiin city, over the bridge and then to the right side, next to a skeleton and a backpack",
-    "type": "Blackwood Tapestry (Picture)",
+    "type": "Blackwood Tapestry",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": ""
@@ -1155,7 +1155,7 @@
     "item": "Threadbare Tapestry Scrap (Location Picture)",
     "rarity": "Blue",
     "location": "South of Glenbridge next to a tent, a bit off the road",
-    "type": "Blackwood Tapestry (Picture)",
+    "type": "Blackwood Tapestry",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": ""
@@ -1164,13 +1164,13 @@
     "item": "Torn Tapestry Scrap (Location Picture)",
     "rarity": "Blue",
     "location": "South of “The Shattered Xanmeer” Boss.",
-    "type": "Blackwood Tapestry (Picture)",
+    "type": "Blackwood Tapestry",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": ""
   },
   {
-    "item": "Warm Asymmetrical Ruby (Mythic Item)",
+    "item": "Warm Asymmetrical Ruby",
     "rarity": "Gold",
     "location": "Oblivion Portal final Chest",
     "type": "Death Dealer’s Fete part",
@@ -1179,7 +1179,7 @@
     "image_path": ""
   },
   {
-    "item": "Weighted Spiked Bridge (Mythic Item)",
+    "item": "Weighted Spiked Bridge",
     "rarity": "Gold",
     "location": "Cyrodiil Rewards from the Worthy Mail Box",
     "type": "Death Dealer’s Fete part",
@@ -1188,7 +1188,7 @@
     "image_path": ""
   },
   {
-    "item": "Z’en Idol (Picture)",
+    "item": "Z’en Idol",
     "rarity": "Purple",
     "location": "Chests, Safeboxes, Thieves Troves, Public and Delve Dungeons, World Bosses, Harvesting Nodes",
     "type": "Furnishing",
@@ -1215,7 +1215,7 @@
     "image_path": ""
   },
   {
-    "item": "Auri-El Metal Carvings (Mythic Item)",
+    "item": "Auri-El Metal Carvings",
     "rarity": "Gold",
     "location": "Random Monsters",
     "type": "Snow Treaders Part",
@@ -1224,7 +1224,7 @@
     "image_path": ""
   },
   {
-    "item": "Brazier of Frozen Flame (Picture)",
+    "item": "Brazier of Frozen Flame",
     "rarity": "Gold",
     "location": "Random Monsters",
     "type": "Furnishing",
@@ -1251,7 +1251,7 @@
     "image_path": ""
   },
   {
-    "item": "Ruby Dragon Skull (Picture)",
+    "item": "Ruby Dragon Skull",
     "rarity": "Purple",
     "location": "Treasure Chest, Nodes, Thieves Troves, Random Monsters",
     "type": "Furnishing",
@@ -1287,7 +1287,7 @@
     "image_path": ""
   },
   {
-    "item": "Mnemonic Star-Sphere (Picture)",
+    "item": "Mnemonic Star-Sphere",
     "rarity": "Gold",
     "location": "Foul Bait Fishing",
     "type": "Furnishing",
@@ -1305,7 +1305,7 @@
     "image_path": ""
   },
   {
-    "item": "Chain of the Bone Goliath (Mythic Item)",
+    "item": "Chain of the Bone Goliath",
     "rarity": "Gold",
     "location": "Vaults of Madness Dungeon last boss",
     "type": "Shapeshifter’s Chain part",
@@ -1314,7 +1314,7 @@
     "image_path": ""
   },
   {
-    "item": "Daedric Pillar of Torment (Picture)",
+    "item": "Daedric Pillar of Torment",
     "rarity": "Purple",
     "location": "Chest, Nodes, Village of the Lost Public Dungeon Bosses, World Bosses, Vaults of Madness Monsters",
     "type": "Furnishing",
@@ -1326,7 +1326,7 @@
     "item": "Ebony-Forged Dwarven Limbs",
     "rarity": "Purple",
     "location": "World Bosses",
-    "type": "Ebon Dwarven Wolf Part (Picture)",
+    "type": "Ebon Dwarven Wolf Part",
     "difficulty": "Advanced",
     "drop_area": "Coldharbour",
     "image_path": ""
@@ -1341,7 +1341,7 @@
     "image_path": ""
   },
   {
-    "item": "Magicka-Imbued Metal Plates (Mythic Item)",
+    "item": "Magicka-Imbued Metal Plates",
     "rarity": "Gold",
     "location": "Raelynne Ahham Boss in Underpall Cave, Cyrodiil.",
     "type": "Snow Treaders Part",
@@ -1350,7 +1350,7 @@
     "image_path": ""
   },
   {
-    "item": "Sanguine Doublet (Mythic Item)",
+    "item": "Sanguine Doublet",
     "rarity": "Gold",
     "location": "Public Dungeon Boss Village of the Lost",
     "type": "Bloodlord’s Embrace Part",
@@ -1377,7 +1377,7 @@
     "image_path": ""
   },
   {
-    "item": "Void-Crystal Anomaly (Picture)",
+    "item": "Void-Crystal Anomaly",
     "rarity": "Gold",
     "location": "Nodes",
     "type": "Furnishing",
@@ -1389,13 +1389,13 @@
     "item": "Aetherquartz Tonal Resonator (Location)",
     "rarity": "Gold",
     "location": "Mtharnaz Group Delve – Boss The Brass Hatchling",
-    "type": "Ebon Dwarven Wolf Part (Picture)",
+    "type": "Ebon Dwarven Wolf Part",
     "difficulty": "Master",
     "drop_area": "Craglorn",
     "image_path": ""
   },
   {
-    "item": "Altar of Celestial Convergence (Picture)",
+    "item": "Altar of Celestial Convergence",
     "rarity": "Gold",
     "location": "Final Boss of Craglorn Trials",
     "type": "Furnishing",
@@ -1404,7 +1404,7 @@
     "image_path": ""
   },
   {
-    "item": "Chain of the Werewolf (Mythic Item)",
+    "item": "Chain of the Werewolf",
     "rarity": "Gold",
     "location": "Hircine’s Haunt delve, all bosses",
     "type": "Shapeshifter’s Chain part",
@@ -1425,7 +1425,7 @@
     "item": "Ebon Dwarven Wolf Head (Location)",
     "rarity": "Gold",
     "location": "Rkundzelft Group Delve – Mzeklok Boss",
-    "type": "Ebon Dwarven Wolf Part (Picture)",
+    "type": "Ebon Dwarven Wolf Part",
     "difficulty": "Master",
     "drop_area": "Craglorn",
     "image_path": ""
@@ -1434,7 +1434,7 @@
     "item": "Large Aetherium Lenses (Location)",
     "rarity": "Gold",
     "location": "Rkhardahrk Group Delve – The Last Sentinel Boss",
-    "type": "Ebon Dwarven Wolf Part (Picture)",
+    "type": "Ebon Dwarven Wolf Part",
     "difficulty": "Master",
     "drop_area": "Craglorn",
     "image_path": ""
@@ -1449,7 +1449,7 @@
     "image_path": ""
   },
   {
-    "item": "Spellscar Shard (Picture)",
+    "item": "Spellscar Shard",
     "rarity": "Purple",
     "location": "Treasure Chest, Random Monsters, Chest Event in Skyreach, Thieve Troves",
     "type": "Furnishing",
@@ -1458,7 +1458,7 @@
     "image_path": ""
   },
   {
-    "item": "Sturdy Silver Prongs (Mythic Item)",
+    "item": "Sturdy Silver Prongs",
     "rarity": "Gold",
     "location": "Dragonstar Arena last chest after endboss",
     "type": "Death Dealer’s Fete part",
@@ -1467,7 +1467,7 @@
     "image_path": ""
   },
   {
-    "item": "Torc Throat Guards (Mythic Item)",
+    "item": "Torc Throat Guards",
     "rarity": "Gold",
     "location": "Anka’Ra Crucible World Boss Event, Chests Near World Boss Event",
     "type": "Torc of Tonal Constancy Part",
@@ -1485,7 +1485,7 @@
     "image_path": ""
   },
   {
-    "item": "Wide Barbed Shank (Mythic Item)",
+    "item": "Wide Barbed Shank",
     "rarity": "Gold",
     "location": "Anomalies in Craglorn in the reward treasure chest, Nirncrux Mines",
     "type": "Death Dealer’s Fete part",
@@ -1737,7 +1737,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Deshaan (Picture)",
+    "item": "Antique Map of Deshaan",
     "rarity": "Green",
     "location": "Found in Mournhold at the “The Flaming Nix” Inn (Need Pathfinder Achievement)",
     "type": "Furnishing",
@@ -1746,7 +1746,7 @@
     "image_path": ""
   },
   {
-    "item": "Blessed Dais of Almalexia (Picture)",
+    "item": "Blessed Dais of Almalexia",
     "rarity": "Gold",
     "location": "Safebox in any zone",
     "type": "Furnishing",
@@ -1776,7 +1776,7 @@
     "item": "Dwarven Articulated Paws",
     "rarity": "Gold",
     "location": "Darkshade Caverns Boss Sentinel of Rkugamz",
-    "type": "Ebon Dwarven Wolf Part (Picture)",
+    "type": "Ebon Dwarven Wolf Part",
     "difficulty": "Master",
     "drop_area": "Deshaan",
     "image_path": ""
@@ -1785,13 +1785,13 @@
     "item": "Dwarven Horngrip",
     "rarity": "Gold",
     "location": "Dark Shade Caverns Boss Engine Guardian Boss",
-    "type": "Ebon Dwarven Wolf Part (Picture)",
+    "type": "Ebon Dwarven Wolf Part",
     "difficulty": "Master",
     "drop_area": "Deshaan",
     "image_path": ""
   },
   {
-    "item": "Niss’wo Sacramental Wraps (Mythic Item)",
+    "item": "Niss’wo Sacramental Wraps",
     "rarity": "Gold",
     "location": "Public Dungeon Forgotten Crypt, The Silent Colossus Boss (Group Event)",
     "type": "Gaze of Sithis part",
@@ -1800,7 +1800,7 @@
     "image_path": ""
   },
   {
-    "item": "Torc Strand of Power (Mythic Item)",
+    "item": "Torc Strand of Power",
     "rarity": "Gold",
     "location": "World Bosses",
     "type": "Torc of Tonal Constancy",
@@ -1821,7 +1821,7 @@
     "item": "Aligned Dwarven Plates",
     "rarity": "Purple",
     "location": "Mzulft Normal Monsters",
-    "type": "Ebon Dwarven Wolf Part (Picture)",
+    "type": "Ebon Dwarven Wolf Part",
     "difficulty": "Advanced",
     "drop_area": "Eastmarch",
     "image_path": ""
@@ -1845,7 +1845,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Eastmarch (Picture)",
+    "item": "Antique Map of Eastmarch",
     "rarity": "Green",
     "location": "Found in Windhelm at the “Cold Moon” Inn (Pathfinder Achievement)",
     "type": "Furnishing",
@@ -1854,7 +1854,7 @@
     "image_path": ""
   },
   {
-    "item": "Carved Whale Totem (Picture)",
+    "item": "Carved Whale Totem",
     "rarity": "Gold",
     "location": "Random Monsters",
     "type": "Furnishing",
@@ -1881,7 +1881,7 @@
     "image_path": ""
   },
   {
-    "item": "Sacred Chalice of Ysgramor (Picture)",
+    "item": "Sacred Chalice of Ysgramor",
     "rarity": "Purple",
     "location": "Public Dungeon Boss in Hall of the Dead, World Bosses, Nodes",
     "type": "Furnishing",
@@ -1890,7 +1890,7 @@
     "image_path": ""
   },
   {
-    "item": "Snowy Sabre Cat Fur Strip (Mythic Item)",
+    "item": "Snowy Sabre Cat Fur Strip",
     "rarity": "Gold",
     "location": "Normal or Veteran Direfrost Keep (Drodda of Icereach)",
     "type": "Snow Treaders Part",
@@ -1926,7 +1926,7 @@
     "image_path": ""
   },
   {
-    "item": "Sticky Integument Leather (Mythic Item)",
+    "item": "Sticky Integument Leather",
     "rarity": "Gold",
     "location": "SUMMERSET or ARTAEUM Psijic Portal (Only dig site is in Eyevea)",
     "type": "Thrassian Strangler Part",
@@ -2313,7 +2313,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Glenumbra (Picture)",
+    "item": "Antique Map of Glenumbra",
     "rarity": "Green",
     "location": "Found in Daggerfall City at the “The Rosy Lion” Inn (Pathfinder Achievement)",
     "type": "Furnishing",
@@ -2322,7 +2322,7 @@
     "image_path": ""
   },
   {
-    "item": "Band of Water (Mythic Item)",
+    "item": "Band of Water",
     "rarity": "Gold",
     "location": "Public Dungeon Boss Bad Man’s Hallow",
     "type": "Ring of the Wild Hunt Part",
@@ -2331,7 +2331,7 @@
     "image_path": ""
   },
   {
-    "item": "Goblet Gorget (Mythic Item)",
+    "item": "Goblet Gorget",
     "rarity": "Gold",
     "location": "Spindleclutch (The Whisperer)",
     "type": "Bloodlord’s Embrace Part",
@@ -2340,7 +2340,7 @@
     "image_path": ""
   },
   {
-    "item": "Jeweled Skull of Ayleid Kings (Picture)",
+    "item": "Jeweled Skull of Ayleid Kings",
     "rarity": "Purple",
     "location": "Lead drops in Cyrodiil Treasure Chests or Heavy Sacks, Wood Harvesting Node (Random Monster, Imperial City upper District Bosses (Only dig site is in Glenumbra)",
     "type": "Furnishing",
@@ -2349,7 +2349,7 @@
     "image_path": ""
   },
   {
-    "item": "Kingmaker’s Trove (Picture)",
+    "item": "Kingmaker’s Trove",
     "rarity": "Gold",
     "location": "Treasure Chest",
     "type": "Furnishing",
@@ -2358,7 +2358,7 @@
     "image_path": ""
   },
   {
-    "item": "Length of Sharpened Spikes (Mythic Item)",
+    "item": "Length of Sharpened Spikes",
     "rarity": "Gold",
     "location": "Spindleclutch 2 Dungeon last boss",
     "type": "Shapeshifter’s Chain part",
@@ -2376,7 +2376,7 @@
     "image_path": ""
   },
   {
-    "item": "Order-Etched Gallery Rail (Mythic Item)",
+    "item": "Order-Etched Gallery Rail",
     "rarity": "Gold",
     "location": "Bad Man’s Hallow, any Monster",
     "type": "Ring of the Pale Order Part",
@@ -2403,7 +2403,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of the Gold Coast (Picture)",
+    "item": "Antique Map of the Gold Coast",
     "rarity": "Green",
     "location": "Found in Anvil City at the “Mudcrab and Suds” Inn (Pathfinder Achievement)",
     "type": "Furnishing",
@@ -2421,7 +2421,7 @@
     "image_path": ""
   },
   {
-    "item": "Golden Idol of Morihaus (Picture)",
+    "item": "Golden Idol of Morihaus",
     "rarity": "Gold",
     "location": "Any Minotaur Monster (For Example Bloodroot Forge & Falkreath Hold Dungeon, Gold Coast Zone)",
     "type": "Furnishing",
@@ -2430,7 +2430,7 @@
     "image_path": ""
   },
   {
-    "item": "Meridian Sconce (Picture)",
+    "item": "Meridian Sconce",
     "rarity": "Gold",
     "location": "Depths of Malatar Last Boss Symphony of Blades",
     "type": "Furnishing",
@@ -2475,7 +2475,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Grahtwood (Picture)",
+    "item": "Antique Map of Grahtwood",
     "rarity": "Green",
     "location": "Found in Elden Root City at the “Outside” Inn (Pathfinder Achievement)",
     "type": "Furnishing",
@@ -2502,7 +2502,7 @@
     "image_path": ""
   },
   {
-    "item": "Coral Clasp (Mythic Item)",
+    "item": "Coral Clasp",
     "rarity": "Gold",
     "location": "Public Dungeon Bosses",
     "type": "Pearls of Ehlnofey Part",
@@ -2511,7 +2511,7 @@
     "image_path": ""
   },
   {
-    "item": "Eight-Star Chandelier (Picture)",
+    "item": "Eight-Star Chandelier",
     "rarity": "Purple",
     "location": "Treasure Chest, Public Dungeon Root Sunder Ruins, Nodes, Random Urn in Elden Root Town, Safeboxes, Elden Hollow Dungeon",
     "type": "Furnishing",
@@ -2547,7 +2547,7 @@
     "image_path": ""
   },
   {
-    "item": "St. Alessia, Paravant (Picture)",
+    "item": "St. Alessia, Paravant",
     "rarity": "Gold",
     "location": "Battlegrounds Reward",
     "type": "Furnishing",
@@ -2583,7 +2583,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Greenshade (Picture)",
+    "item": "Antique Map of Greenshade",
     "rarity": "Green",
     "location": "Found in Marbruk City at the “The Parchment & Horn” Inn (Pathfinder Achievement)",
     "type": "Furnishing",
@@ -2592,7 +2592,7 @@
     "image_path": ""
   },
   {
-    "item": "Branch of Falinesti (Picture)",
+    "item": "Branch of Falinesti",
     "rarity": "Gold",
     "location": "Nodes",
     "type": "Furnishing",
@@ -2610,7 +2610,7 @@
     "image_path": ""
   },
   {
-    "item": "Greensong Gathering Circle (Picture)",
+    "item": "Greensong Gathering Circle",
     "rarity": "Purple",
     "location": "Public Dungeon Boss Rulanyil’s Fall, Thieves Trove, Chests, Safeboxes, MoS monsters",
     "type": "Furnishing",
@@ -2628,7 +2628,7 @@
     "image_path": ""
   },
   {
-    "item": "Symbol of Y’ffre (Mythic Item)",
+    "item": "Symbol of Y’ffre",
     "rarity": "Gold",
     "location": "World Bosses",
     "type": "Ring of the Wild Hunt Part",
@@ -2637,7 +2637,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Hew’s Bane (Picture)",
+    "item": "Antique Map of Hew’s Bane",
     "rarity": "Green",
     "location": "Found in Abah’s Landing City at the “The Serpent and the Senche” Inn (Pathfinder Achievement)",
     "type": "Furnishing",
@@ -2664,7 +2664,7 @@
     "image_path": ""
   },
   {
-    "item": "Morwha’s Blessing (Picture)",
+    "item": "Morwha’s Blessing",
     "rarity": "Gold",
     "location": "Reward for completing a Heist. Tip Board Daily Quest in the Thieves Den.",
     "type": "Furnishing",
@@ -2682,7 +2682,7 @@
     "image_path": ""
   },
   {
-    "item": "Yokudan Skystone Scabbard (Picture)",
+    "item": "Yokudan Skystone Scabbard",
     "rarity": "Purple",
     "location": "Safebox in Abah’s Landing, Treasure Map, Chests",
     "type": "Furnishing",
@@ -3123,7 +3123,7 @@
     "image_path": ""
   },
   {
-    "item": "Cat’s Eye Prism (Picture)",
+    "item": "Cat’s Eye Prism",
     "rarity": "Gold",
     "location": "Psijic Portal, Nodes",
     "type": "Furnishing",
@@ -3132,7 +3132,7 @@
     "image_path": ""
   },
   {
-    "item": "Hecatomb Tassets (Mythic Item)",
+    "item": "Hecatomb Tassets",
     "rarity": "Gold",
     "location": "Lead drops in IMPERIAL CITY from General Kryozote, Zamachar, Ebral & Krosogar, Imperial City Sewers, Emperor Leovic Boss (Only the dig site is in Khenarthi’s Roost)",
     "type": "Bloodlord’s Embrace Part",
@@ -3159,7 +3159,7 @@
     "image_path": ""
   },
   {
-    "item": "Sweet Khenarthi’s Song (Picture)",
+    "item": "Sweet Khenarthi’s Song",
     "rarity": "Purple",
     "location": "Thieves Trove, Treasure Map, Kwama Worker Random Monster, Chest, Enchanting & Cloth Node",
     "type": "Furnishing",
@@ -3186,7 +3186,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Malabal Tor (Picture)",
+    "item": "Antique Map of Malabal Tor",
     "rarity": "Green",
     "location": "Found in Baandari Trading Post at the “Silver Moons” Inn (Pathfinder Achievement)",
     "type": "Furnishing",
@@ -3195,7 +3195,7 @@
     "image_path": ""
   },
   {
-    "item": "Face of the Wolf Beast (Mythic Item)",
+    "item": "Face of the Wolf Beast",
     "rarity": "Gold",
     "location": "World Bosses",
     "type": "Ring of the Wild Hunt Part",
@@ -3204,7 +3204,7 @@
     "image_path": ""
   },
   {
-    "item": "Hollowbone Wind Chimes (Picture)",
+    "item": "Hollowbone Wind Chimes",
     "rarity": "Purple",
     "location": "Public Dungeon Bosses, World Bosses, Chest, Fighter’s Guild Daedra Warp, Thieve Troves, Backpacks",
     "type": "Furnishing",
@@ -3231,7 +3231,7 @@
     "image_path": ""
   },
   {
-    "item": "Silvenari Sap-Stone (Picture)",
+    "item": "Silvenari Sap-Stone",
     "rarity": "Purple",
     "location": "Thieves Trove, Treasure Map Chests, Safebox, Crafting Nodes",
     "type": "Furnishing",
@@ -3249,7 +3249,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Murkmire (Picture)",
+    "item": "Antique Map of Murkmire",
     "rarity": "Green",
     "location": "Found in Lilmoth City at the “The Lusty Argonian Footman” Inn (Pathfinder Achievement)",
     "type": "Furnishing",
@@ -3258,7 +3258,7 @@
     "image_path": ""
   },
   {
-    "item": "Charm of the Shapeless (Mythic Item)",
+    "item": "Charm of the Shapeless",
     "rarity": "Gold",
     "location": "World Bosses + Any Boss in Delves",
     "type": "Ring of the Wild Hunt Part",
@@ -3276,7 +3276,7 @@
     "image_path": ""
   },
   {
-    "item": "Nisswo’s Soul Tender (Picture)",
+    "item": "Nisswo’s Soul Tender",
     "rarity": "Purple",
     "location": "Safebox at the armorer in Lilmoth, Treasure Map, World Boss Bok-Xul, Any Boss in Cavern Delve",
     "type": "Furnishing",
@@ -3303,7 +3303,7 @@
     "image_path": ""
   },
   {
-    "item": "Wolf-Tail Sash (Mythic Item)",
+    "item": "Wolf-Tail Sash",
     "rarity": "Gold",
     "location": "Murkmire Foul Fishing Spots",
     "type": "Harpooner’s Wading Kilt part",
@@ -3312,7 +3312,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Northern Elsweyr (Picture)",
+    "item": "Antique Map of Northern Elsweyr",
     "rarity": "Green",
     "location": "Found in Rimmen City at the “The Sugar Bowl” Inn (Pathfinder Achievement)",
     "type": "Furnishing",
@@ -3348,7 +3348,7 @@
     "image_path": ""
   },
   {
-    "item": "Moth Priest’s Cleansing Bowl (Picture)",
+    "item": "Moth Priest’s Cleansing Bowl",
     "rarity": "Purple",
     "location": "Imperial Sewer Bosses, Imperial Sewers Monsters, Imperial City Boss Volghass, Imperial Sewer General Malvicus (Story quest of Imperial City), Backpacks in Imperial City",
     "type": "Furnishing",
@@ -3357,7 +3357,7 @@
     "image_path": ""
   },
   {
-    "item": "Stained Glass of the Lunar Phases (Picture)",
+    "item": "Stained Glass of the Lunar Phases",
     "rarity": "Gold",
     "location": "Any Dragon Boss Fight",
     "type": "Furnishing",
@@ -3384,7 +3384,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Reaper’s March (Picture)",
+    "item": "Antique Map of Reaper’s March",
     "rarity": "Green",
     "location": "Found in Rawl’Kha City at the “The Waxing Crescent” Inn (Pathfinder Achievement)",
     "type": "Furnishing",
@@ -3402,7 +3402,7 @@
     "image_path": ""
   },
   {
-    "item": "Malacath’s Brutal Ritual Dust (Mythic Item)",
+    "item": "Malacath’s Brutal Ritual Dust",
     "rarity": "Gold",
     "location": "World Bosses",
     "type": "Malacath’s Band of Brutality Part",
@@ -3420,7 +3420,7 @@
     "image_path": ""
   },
   {
-    "item": "Moonlight Mirror (Picture)",
+    "item": "Moonlight Mirror",
     "rarity": "Gold",
     "location": "Safebox",
     "type": "Furnishing",
@@ -3438,7 +3438,7 @@
     "image_path": ""
   },
   {
-    "item": "Sorcerer-King’s Blade (Picture)",
+    "item": "Sorcerer-King’s Blade",
     "rarity": "Gold",
     "location": "Cheydinhal + Vlastrus Quest Reward",
     "type": "Furnishing",
@@ -3474,7 +3474,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Rivenspire (Picture)",
+    "item": "Antique Map of Rivenspire",
     "rarity": "Green",
     "location": "Found in Shornhelm at the “Dead Wolf” Inn (Pathfinder Achievement)",
     "type": "Furnishing",
@@ -3483,7 +3483,7 @@
     "image_path": ""
   },
   {
-    "item": "Great Eltheric Pearl (Mythic Item)",
+    "item": "Great Eltheric Pearl",
     "rarity": "Gold",
     "location": "Crypt of Hearts 2 Last Boss",
     "type": "Pearls of Ehlnofey Part",
@@ -3510,7 +3510,7 @@
     "image_path": ""
   },
   {
-    "item": "Remnant of the False Tower (Picture)",
+    "item": "Remnant of the False Tower",
     "rarity": "Gold",
     "location": "Nodes",
     "type": "Furnishing",
@@ -3519,7 +3519,7 @@
     "image_path": ""
   },
   {
-    "item": "Riven King’s Throne (Picture)",
+    "item": "Riven King’s Throne",
     "rarity": "Purple",
     "location": "Safebox, Daedric Incursion Random World Event, Wood Node, Thieves Trove, Chests",
     "type": "Furnishing",
@@ -3537,7 +3537,7 @@
     "image_path": ""
   },
   {
-    "item": "Thirsting Girdle (Mythic Item)",
+    "item": "Thirsting Girdle",
     "rarity": "Gold",
     "location": "Last Boss Boss Crypts of Hearts 1",
     "type": "Bloodlord’s Embrace Part",
@@ -3564,7 +3564,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Shadowfen (Picture)",
+    "item": "Antique Map of Shadowfen",
     "rarity": "Green",
     "location": "Found in Stormhold City at the “Coin Brothers’ Cornerclub Inn (Pathfinder Achievement)",
     "type": "Furnishing",
@@ -3573,7 +3573,7 @@
     "image_path": ""
   },
   {
-    "item": "Bog-Blue Jasper Fetish (Mythic Item)",
+    "item": "Bog-Blue Jasper Fetish",
     "rarity": "Gold",
     "location": "Ruins of Mazzatun Dungeon last boss",
     "type": "Harpooner’s Wading Kilt part",
@@ -3591,7 +3591,7 @@
     "image_path": ""
   },
   {
-    "item": "Fanged Cuirass (Mythic Item)",
+    "item": "Fanged Cuirass",
     "rarity": "Gold",
     "location": "Public Dungeon Boss (Sanguine’s Demense)",
     "type": "Bloodlord’s Embrace Part",
@@ -3600,7 +3600,7 @@
     "image_path": ""
   },
   {
-    "item": "Nest of Shadows (Picture)",
+    "item": "Nest of Shadows",
     "rarity": "Gold",
     "location": "Arx Corinium",
     "type": "Furnishing",
@@ -3618,7 +3618,7 @@
     "image_path": ""
   },
   {
-    "item": "Pad-Sa Shark Teeth (Mythic Item)",
+    "item": "Pad-Sa Shark Teeth",
     "rarity": "Gold",
     "location": "Delve Onkobra Kwama Mine, Delve Boss in Atanaz Ruins",
     "type": "Gaze of Sithis part",
@@ -3627,7 +3627,7 @@
     "image_path": ""
   },
   {
-    "item": "Ritual Circlet (Mythic Item)",
+    "item": "Ritual Circlet",
     "rarity": "Gold",
     "location": "Cradle of Shadows last boss",
     "type": "Gaze of Sithis part",
@@ -3645,7 +3645,7 @@
     "image_path": ""
   },
   {
-    "item": "Tide-Glass Beads (Mythic Item)",
+    "item": "Tide-Glass Beads",
     "rarity": "Gold",
     "location": "All water and alchemy nodes",
     "type": "Harpooner’s Wading Kilt part",
@@ -3663,7 +3663,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Southern Elsweyr (Picture)",
+    "item": "Antique Map of Southern Elsweyr",
     "rarity": "Green",
     "location": "Found in Senchal City at the “The Sweet Breezes” Inn (Pathfinder Achievement)",
     "type": "Furnishing",
@@ -3681,7 +3681,7 @@
     "image_path": ""
   },
   {
-    "item": "Moons-Blessed Ceremonial Pool (Picture)",
+    "item": "Moons-Blessed Ceremonial Pool",
     "rarity": "Gold",
     "location": "Backpack in Moonlit Cove, Urn in Moonlit Cove, Urn in Senchal, Backpack in Senchal, Backpack in Forsaken Citadel",
     "type": "Furnishing",
@@ -3690,7 +3690,7 @@
     "image_path": ""
   },
   {
-    "item": "Shrine of Boethra (Picture)",
+    "item": "Shrine of Boethra",
     "rarity": "Gold",
     "location": "World Boss Dragon",
     "type": "Furnishing",
@@ -3726,7 +3726,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Stonefalls (Picture)",
+    "item": "Antique Map of Stonefalls",
     "rarity": "Green",
     "location": "Found in Davon’s Watch city at the “The Watch House” Inn (Pathfinder Achievement)",
     "type": "Furnishing",
@@ -3735,7 +3735,7 @@
     "image_path": ""
   },
   {
-    "item": "Ashen Infernace Gate (Picture)",
+    "item": "Ashen Infernace Gate",
     "rarity": "Purple",
     "location": "Safebox, Random Monsters, Treasure Chest, Crow’s Wood Public Dungeon",
     "type": "Furnishing",
@@ -3765,7 +3765,7 @@
     "item": "Dwarven Steam Conduit",
     "rarity": "Blue",
     "location": "Delve Boss Inner Sea Armature",
-    "type": "Ebon Dwarven Wolf Part (Picture)",
+    "type": "Ebon Dwarven Wolf Part",
     "difficulty": "Intermediate",
     "drop_area": "Stonefalls",
     "image_path": ""
@@ -3789,7 +3789,7 @@
     "image_path": ""
   },
   {
-    "item": "Torc Tonal Focus (Mythic Item)",
+    "item": "Torc Tonal Focus",
     "rarity": "Gold",
     "location": "All Bosses in Crow’s Wood",
     "type": "Torc of Tonal Constancy Part",
@@ -3816,7 +3816,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Stormhaven (Picture)",
+    "item": "Antique Map of Stormhaven",
     "rarity": "Green",
     "location": "Found in Wayrest City at the “Cloudy Dregs” Inn (Pathfinder Achievement)",
     "type": "Furnishing",
@@ -3825,7 +3825,7 @@
     "image_path": ""
   },
   {
-    "item": "Beacon of Tower Zero (Picture)",
+    "item": "Beacon of Tower Zero",
     "rarity": "Gold",
     "location": "Psijic Portals, Nodes",
     "type": "Furnishing",
@@ -3852,7 +3852,7 @@
     "image_path": ""
   },
   {
-    "item": "Malacath’s Brutal Ritual Oil (Mythic Item)",
+    "item": "Malacath’s Brutal Ritual Oil",
     "rarity": "Gold",
     "location": "Public Dungeon Boss (Bonesnap Ruins)",
     "type": "Malacath’s Band of Brutality Part",
@@ -3906,7 +3906,7 @@
     "image_path": ""
   },
   {
-    "item": "Bouyant Steel (Mythic Item)",
+    "item": "Bouyant Steel",
     "rarity": "Gold",
     "location": "Fishing (Saltwater)",
     "type": "Thrassian Strangler Part",
@@ -3915,7 +3915,7 @@
     "image_path": ""
   },
   {
-    "item": "Dwarven Puzzle Box (Picture)",
+    "item": "Dwarven Puzzle Box",
     "rarity": "Purple",
     "location": "Safebox, Thieves Trove, Chest, Random Monsters, Nodes",
     "type": "Furnishing",
@@ -3933,7 +3933,7 @@
     "image_path": ""
   },
   {
-    "item": "Dwemer Star Chart (Picture)",
+    "item": "Dwemer Star Chart",
     "rarity": "Gold",
     "location": "Chest, Any random Monster in the zone",
     "type": "Furnishing",
@@ -3963,7 +3963,7 @@
     "item": "Worn Dwarven Gears",
     "rarity": "Blue",
     "location": "Wolves outside Bthzark, Dwarven Spider inside Ruins, Assassin Beetle Monster",
-    "type": "Ebon Dwarven Wolf Part (Picture)",
+    "type": "Ebon Dwarven Wolf Part",
     "difficulty": "Intermediate",
     "drop_area": "Stros M’kai",
     "image_path": ""
@@ -3978,7 +3978,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Summerset (Picture)",
+    "item": "Antique Map of Summerset",
     "rarity": "Green",
     "location": "Found at the Inn (Pathfinder Achievement)",
     "type": "Furnishing",
@@ -4023,7 +4023,7 @@
     "image_path": ""
   },
   {
-    "item": "Nautilus Shell Guards (Mythic Item)",
+    "item": "Nautilus Shell Guards",
     "rarity": "Gold",
     "location": "Bosses in Karnwasten Public Dungeon, All World Bosses",
     "type": "Thrassian Stranglers Part",
@@ -4032,7 +4032,7 @@
     "image_path": ""
   },
   {
-    "item": "Prismatic Sunbird Feather (Picture)",
+    "item": "Prismatic Sunbird Feather",
     "rarity": "Gold",
     "location": "Gryphon Monsters",
     "type": "Furnishing",
@@ -4662,7 +4662,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of The Reach (Picture)",
+    "item": "Antique Map of The Reach",
     "rarity": "Green",
     "location": "Innkeeper in Markarth (need Pathfinder Achievement)",
     "type": "Furnishing",
@@ -4683,7 +4683,7 @@
     "item": "Dwarven Internal Machinery",
     "rarity": "Gold",
     "location": "Bthar-Zel Monster (Blackreach: Arkthzand Cavern)",
-    "type": "Dwarven Scarab Pet (Picture)",
+    "type": "Dwarven Scarab Pet",
     "difficulty": "Master",
     "drop_area": "The Reach",
     "image_path": ""
@@ -4692,7 +4692,7 @@
     "item": "Dwarven Scarab Head",
     "rarity": "Gold",
     "location": "Bthar-Zel Monster (Blackreach: Arkthzand Cavern)",
-    "type": "Dwarven Scarab Pet (Picture)",
+    "type": "Dwarven Scarab Pet",
     "difficulty": "Master",
     "drop_area": "The Reach",
     "image_path": ""
@@ -4701,7 +4701,7 @@
     "item": "Dwarven Segmented Legs",
     "rarity": "Gold",
     "location": "Bthar-Zel Monster (Blackreach: Arkthzand Cavern)",
-    "type": "Dwarven Scarab Pet (Picture)",
+    "type": "Dwarven Scarab Pet",
     "difficulty": "Master",
     "drop_area": "The Reach",
     "image_path": ""
@@ -4710,7 +4710,7 @@
     "item": "Faceted Dwarven Wings",
     "rarity": "Gold",
     "location": "Bthar-Zel Monster (Blackreach: Arkthzand Cavern)",
-    "type": "Dwarven Scarab Pet (Picture)",
+    "type": "Dwarven Scarab Pet",
     "difficulty": "Master",
     "drop_area": "The Reach",
     "image_path": ""
@@ -4719,13 +4719,13 @@
     "item": "Golden Dwarven Thorax",
     "rarity": "Gold",
     "location": "Bthar-Zel Monster (Blackreach: Arkthzand Cavern)",
-    "type": "Dwarven Scarab Pet (Picture)",
+    "type": "Dwarven Scarab Pet",
     "difficulty": "Master",
     "drop_area": "The Reach",
     "image_path": ""
   },
   {
-    "item": "Pale Order’s Golden Band (Mythic Item)",
+    "item": "Pale Order’s Golden Band",
     "rarity": "Gold",
     "location": "Nighthollow Keep (Blackreach: Arkthzand Cavern, east side.) Follow the way, down the stairs on the right, read the “Ancient Text” paper on the table. (Long Respawn Time)",
     "type": "Ring of the Pale Order Part",
@@ -4743,7 +4743,7 @@
     "image_path": ""
   },
   {
-    "item": "Red Eagle Cave Painting (Picture)",
+    "item": "Red Eagle Cave Painting",
     "rarity": "Purple",
     "location": "Safebox, Thieve Troves, Backpacks, Chests, Monsters, Harrowstorms, Random Monsters",
     "type": "Furnishing",
@@ -4752,7 +4752,7 @@
     "image_path": ""
   },
   {
-    "item": "Silver Strand of Syrabane (Mythic Item)",
+    "item": "Silver Strand of Syrabane",
     "rarity": "Gold",
     "location": "Safeboxes",
     "type": "Pearls of Ehlnofey Part",
@@ -4764,7 +4764,7 @@
     "item": "Sloped Dwarven Stalks",
     "rarity": "Gold",
     "location": "Bthar-Zel Monster (Blackreach: Arkthzand Cavern)",
-    "type": "Dwarven Scarab Pet (Picture)",
+    "type": "Dwarven Scarab Pet",
     "difficulty": "Master",
     "drop_area": "The Reach",
     "image_path": ""
@@ -4782,13 +4782,13 @@
     "item": "Thin Dwarven Hinges",
     "rarity": "Gold",
     "location": "Bthar-Zel Monster (Blackreach: Arkthzand Cavern)",
-    "type": "Dwarven Scarab Pet (Picture)",
+    "type": "Dwarven Scarab Pet",
     "difficulty": "Master",
     "drop_area": "The Reach",
     "image_path": ""
   },
   {
-    "item": "Vampiric Stained Glass (Picture)",
+    "item": "Vampiric Stained Glass",
     "rarity": "Gold",
     "location": "Harrowstorm",
     "type": "Furnishing",
@@ -4824,7 +4824,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of The Rift (Picture)",
+    "item": "Antique Map of The Rift",
     "rarity": "Green",
     "location": "Found in Riften City at the “Shadehome” Inn (Pathfinder Achievement)",
     "type": "Furnishing",
@@ -4845,13 +4845,13 @@
     "item": "Cracked Dwarven Gear Shafts",
     "rarity": "Blue",
     "location": "Delve Boss Avanchzel",
-    "type": "Ebon Dwarven Wolf Part (Picture)",
+    "type": "Ebon Dwarven Wolf Part",
     "difficulty": "Intermediate",
     "drop_area": "The Rift",
     "image_path": ""
   },
   {
-    "item": "Ebony Fox Totem (Picture)",
+    "item": "Ebony Fox Totem",
     "rarity": "Purple",
     "location": "Safebox, Public Dungeon Boss The Lion’s Denn, Treasure Chest",
     "type": "Furnishing",
@@ -4869,7 +4869,7 @@
     "image_path": ""
   },
   {
-    "item": "Petrified Snow-Cedar (Mythic Item)",
+    "item": "Petrified Snow-Cedar",
     "rarity": "Gold",
     "location": "World Bosses",
     "type": "Snow Treaders Part",
@@ -4878,7 +4878,7 @@
     "image_path": ""
   },
   {
-    "item": "Rune-Carved Mammoth Skull (Picture)",
+    "item": "Rune-Carved Mammoth Skull",
     "rarity": "Gold",
     "location": "Mamoth Monster",
     "type": "Furnishing",
@@ -4887,7 +4887,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Vvardenfell (Picture)",
+    "item": "Antique Map of Vvardenfell",
     "rarity": "Green",
     "location": "Found at the Inn (Pathfinder Achievement)",
     "type": "Furnishing",
@@ -4914,7 +4914,7 @@
     "image_path": ""
   },
   {
-    "item": "Preserved Wraxu Feathers (Mythic Item)",
+    "item": "Preserved Wraxu Feathers",
     "rarity": "Gold",
     "location": "“Remains-Silent” NPC in any Outlaws Refugee. Pick: “Have any equipment today” option. Drop is RNG based. Need “Shadowy Supplier” passive unlocked from Dark Bortherhood Skillline. (Image)",
     "type": "Gaze of Sithis part",
@@ -4932,7 +4932,7 @@
     "image_path": ""
   },
   {
-    "item": "Sixth House Ritual Table (Picture)",
+    "item": "Sixth House Ritual Table",
     "rarity": "Purple",
     "location": "Treasure Chest, Group Boss in Nchuleftingth Public Dungeon, Group Challenge Boss Forgotten Wastes, Delve Khartag Point",
     "type": "Furnishing",
@@ -4941,7 +4941,7 @@
     "image_path": ""
   },
   {
-    "item": "St. Nerevar, Moon-And-Star (Picture)",
+    "item": "St. Nerevar, Moon-And-Star",
     "rarity": "Gold",
     "location": "Daily Reward Box in Vvardenfell",
     "type": "Furnishing",
@@ -5004,7 +5004,7 @@
     "image_path": ""
   },
   {
-    "item": "Font of Auri-El (Picture)",
+    "item": "Font of Auri-El",
     "rarity": "Gold",
     "location": "Any Monster in Blackreach, Trash Monsters in Kyne’s Aegis Trial, Castle Thorn & Stone Garden Dungeon",
     "type": "Furnishing",
@@ -5013,7 +5013,7 @@
     "image_path": ""
   },
   {
-    "item": "Glacial Metal Rivets (Mythic Item)",
+    "item": "Glacial Metal Rivets",
     "rarity": "Gold",
     "location": "Blackmaw Boss in Labyrinthian (Probably any boss in that dungeon)",
     "type": "Snow Treaders Part",
@@ -5025,7 +5025,7 @@
     "item": "Inclined Dwarven Paneling",
     "rarity": "Purple",
     "location": "Bosses in Nchuthnkarst (Excluding Group Event Boss)",
-    "type": "Ebon Dwarven Wolf Part (Picture)",
+    "type": "Ebon Dwarven Wolf Part",
     "difficulty": "Advanced",
     "drop_area": "Western Skyrim",
     "image_path": ""
@@ -5049,7 +5049,7 @@
     "image_path": ""
   },
   {
-    "item": "Seat of the Snow Prince (Picture)",
+    "item": "Seat of the Snow Prince",
     "rarity": "Purple",
     "location": "Pentarch Khorb during the Main quest in Kagnthamz, World Bosses, Safe Box, Nchuthnkarst Boss",
     "type": "Furnishing",
@@ -5085,7 +5085,7 @@
     "image_path": ""
   },
   {
-    "item": "Antique Map of Wrothgar (Picture)",
+    "item": "Antique Map of Wrothgar",
     "rarity": "Green",
     "location": "Found at the Inn (Pathfinder Achievement)",
     "type": "Furnishing",
@@ -5094,7 +5094,7 @@
     "image_path": ""
   },
   {
-    "item": "Anvil of Old Orsinium (Picture)",
+    "item": "Anvil of Old Orsinium",
     "rarity": "Gold",
     "location": "Public Dungeon Old Orsinium Monsters & Bosses",
     "type": "Furnishing",
@@ -5112,7 +5112,7 @@
     "image_path": ""
   },
   {
-    "item": "Malacath’s Brutal Might Loop (Mythic Item)",
+    "item": "Malacath’s Brutal Might Loop",
     "rarity": "Gold",
     "location": "Public Dungeon Boss Old Orsinium",
     "type": "Malacath’s Band of Brutality Part",
@@ -5121,7 +5121,7 @@
     "image_path": ""
   },
   {
-    "item": "Onyx Accent Stones Wrothgar (Mythic Item)",
+    "item": "Onyx Accent Stones Wrothgar",
     "rarity": "Gold",
     "location": "World Bosses",
     "type": "Ring of the Pale Order Part",
@@ -5139,7 +5139,7 @@
     "image_path": ""
   },
   {
-    "item": "Tusks of the Orc-Father (Picture)",
+    "item": "Tusks of the Orc-Father",
     "rarity": "Purple",
     "location": "Treasure Chests, Public Dungeon Bosses, Monsters, Urns",
     "type": "Furnishing",
