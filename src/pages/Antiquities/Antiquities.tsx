@@ -16,16 +16,20 @@ export function Antiquities() {
               <AccordionLabel label={location.name} avatar={location.avatar} />
             </Accordion.Control>
             <Accordion.Panel>
+            <Accordion>
               {location.areas.map((area) => (
                 <Accordion.Item key={area.name} value={area.name}>
                   <Accordion.Control>
                     <AccordionLabel label={area.name} avatar={area.avatar} />
                   </Accordion.Control>
                   <Accordion.Panel>
+                    <Accordion>
                     <Text>Content</Text>
+                    </Accordion>
                   </Accordion.Panel>
                 </Accordion.Item>
               ))}
+            </Accordion>
             </Accordion.Panel>
           </Accordion.Item>
         ))}
