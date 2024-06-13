@@ -117,6 +117,15 @@
     "image_path": "/images/antiquities-icons/ON-icon-style_material-Dwemer_Scrap.png"
   },
   {
+    "item": "Stone Relief, Yokudan",
+    "rarity": "Purple",
+    "location": "Alik’r Desert zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture",
+    "difficulty": "Advanced",
+    "drop_area": "Alik’r Desert",
+    "image_path": "https://images/antiquities-icons.uesp.net/c/c4/ON-icon-lead-Stone_Relief%2C_Yokudan.png"
+  },
+  {
     "item": "Ancestor Silk Ribbon",
     "type": "Mythic Item Fragment (Torc of the Last Ayleid King)",
     "rarity": "Gold",
@@ -234,15 +243,6 @@
     "image_path": "https://images/antiquities-icons.uesp.net/1/1a/ON-icon-furnishing-Archival_Light_Diffuser.png"
   },
   {
-    "item": "Breton Well, Storm Grey",
-    "rarity": "Purple",
-    "location": "Glenumbra zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
-    "type": "Furniture",
-    "difficulty": "Advanced",
-    "drop_area": "Glenumbra",
-    "image_path": "https://images/antiquities-icons.uesp.net/4/40/ON-icon-lead-Breton_Well%2C_Storm_Grey.png"
-  },
-  {
     "item": "Carved Mora Treadles",
     "rarity": "Gold",
     "location": "Can be found in the Endless Archive (Location)",
@@ -250,24 +250,6 @@
     "difficulty": "Master",
     "drop_area": "Apocrypha",
     "image_path": "https://images/antiquities-icons.uesp.net/5/5e/ON-icon-furnishing-Deadlands_Grate%2C_Large.png"
-  },
-  {
-    "item": "Clockwork Wall Gears",
-    "rarity": "Purple",
-    "location": "Clockwork City zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
-    "type": "Furniture",
-    "difficulty": "Advanced",
-    "drop_area": "Clockwork City",
-    "image_path": "https://images/antiquities-icons.uesp.net/4/46/ON-Clockwork-Wall-Gears.png"
-  },
-  {
-    "item": "Dark Elf Altar, Ceremonial",
-    "rarity": "Purple",
-    "location": "Deshaan zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
-    "type": "Furniture",
-    "difficulty": "Advanced",
-    "drop_area": "Deshaan",
-    "image_path": "https://images/antiquities-icons.uesp.net/e/ed/ON-icon-lead-Dark_Elf_Altar%2C_Ceremonial.png"
   },
   {
     "item": "Endless Apocryphal Light",
@@ -315,15 +297,6 @@
     "image_path": "https://images/antiquities-icons.uesp.net/e/ee/ON-icon-style_material-Glass_Eye_of_Mora.png"
   },
   {
-    "item": "High Elf Altar, Crystal",
-    "rarity": "Purple",
-    "location": "Summerset zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
-    "type": "Furniture",
-    "difficulty": "Advanced",
-    "drop_area": "Summerset",
-    "image_path": "https://images/antiquities-icons.uesp.net/2/24/ON-icon-lead-High_Elf_Altar%2C_Crystal.png"
-  },
-  {
     "item": "Infinite Table of Contents",
     "rarity": "Gold",
     "location": "Can be found in the Endless Archive (Location)",
@@ -351,33 +324,6 @@
     "image_path": "https://images/antiquities-icons.uesp.net/5/5d/ON-icon-stolen-Manual.png"
   },
   {
-    "item": "Khajiiti Arch, Rising",
-    "rarity": "Purple",
-    "location": "Reaper’s March zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
-    "type": "Furniture",
-    "difficulty": "Advanced",
-    "drop_area": "Reaper’s March",
-    "image_path": "https://images/antiquities-icons.uesp.net/9/92/ON-icon-lead-Khajiiti_Arch%2C_Rising.png"
-  },
-  {
-    "item": "Khajiiti Water Vessel, Large",
-    "rarity": "Purple",
-    "location": "Northern Elsweyr zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
-    "type": "Furniture",
-    "difficulty": "Advanced",
-    "drop_area": "Northern Elsweyr",
-    "image_path": "https://images/antiquities-icons.uesp.net/6/6c/ON-icon-lead-Khajiiti_Water_Vessel%2C_Large.png"
-  },
-  {
-    "item": "Khajiiti Well",
-    "rarity": "Purple",
-    "location": "Southern Elsweyr zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
-    "type": "Furniture",
-    "difficulty": "Advanced",
-    "drop_area": "Southern Elsweyr",
-    "image_path": "https://images/antiquities-icons.uesp.net/3/31/ON-icon-lead-Khajiiti_Well.png"
-  },
-  {
     "item": "Meteoric Iron Triquetra",
     "rarity": "Gold",
     "location": "Infinite Archive Chests",
@@ -385,15 +331,6 @@
     "difficulty": "Master",
     "drop_area": "Apocrypha",
     "image_path": "https://images/antiquities-icons.uesp.net/5/5c/ON-icon-fragment-Meteoric_Iron_Triquetra.png"
-  },
-  {
-    "item": "Painted Stone Frog",
-    "rarity": "Purple",
-    "location": "Shadowfen zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
-    "type": "Furniture",
-    "difficulty": "Advanced",
-    "drop_area": "Shadowfen",
-    "image_path": "https://images/antiquities-icons.uesp.net/9/92/ON-icon-lead-Painted_Stone_Frog.png"
   },
   {
     "item": "Palladium Talon",
@@ -439,33 +376,6 @@
     "difficulty": "Simple",
     "drop_area": "Apocrypha",
     "image_path": "https://images/antiquities-icons.uesp.net/0/09/ON-icon-furnishing-Seeker_Claw_Quill.png"
-  },
-  {
-    "item": "Shelf, Black Soul Gems",
-    "rarity": "Purple",
-    "location": "Deadlands zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
-    "type": "Furniture",
-    "difficulty": "Advanced",
-    "drop_area": "Deadlands",
-    "image_path": "https://images/antiquities-icons.uesp.net/8/8f/ON-icon-lead-Shelf%2C_Black_Soul_Gems.png"
-  },
-  {
-    "item": "Shrine to Dibella",
-    "rarity": "Purple",
-    "location": "Gold Coast zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
-    "type": "Furniture",
-    "difficulty": "Advanced",
-    "drop_area": "Gold Coast",
-    "image_path": "https://images/antiquities-icons.uesp.net/c/cf/ON-icon-lead-Shrine_to_Dibella.png"
-  },
-  {
-    "item": "Stone Relief, Yokudan",
-    "rarity": "Purple",
-    "location": "Alik’r Desert zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
-    "type": "Furniture",
-    "difficulty": "Advanced",
-    "drop_area": "Alik’r Desert",
-    "image_path": "https://images/antiquities-icons.uesp.net/c/c4/ON-icon-lead-Stone_Relief%2C_Yokudan.png"
   },
   {
     "item": "Structural Tentacle Arch",
@@ -1404,6 +1314,15 @@
     "image_path": "https://images/antiquities-icons.uesp.net/b/b8/ON-icon-stolen-Stick_with_String.png"
   },
   {
+    "item": "Clockwork Wall Gears",
+    "rarity": "Purple",
+    "location": "Clockwork City zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture",
+    "difficulty": "Advanced",
+    "drop_area": "Clockwork City",
+    "image_path": "https://images/antiquities-icons.uesp.net/4/46/ON-Clockwork-Wall-Gears.png"
+  },
+  {
     "item": "Elegiac Vessel",
     "rarity": "Purple",
     "location": "Reward for excavating Eligiac Vessel",
@@ -1521,15 +1440,6 @@
     "image_path": "https://images/antiquities-icons.uesp.net/a/a5/ON-icon-furnishing-Void-Crystal_Anomaly.png"
   },
   {
-    "item": "Antique Map of Craglorn",
-    "rarity": "Green",
-    "location": "General Goods Merchant",
-    "type": "Furniture",
-    "difficulty": "Simple",
-    "drop_area": "Craglorn",
-    "image_path": "https://images/antiquities-icons.uesp.net/b/b1/ON-icon-furnishing-Craglorn_Map.png"
-  },
-  {
     "item": "Aetherquartz Tonal Resonator",
     "rarity": "Gold",
     "location": "Mtharnaz Group Delve – Boss The Brass Hatchling",
@@ -1546,6 +1456,15 @@
     "difficulty": "Master",
     "drop_area": "Craglorn",
     "image_path": "https://images/antiquities-icons.uesp.net/5/5d/ON-icon-furnishing-Altar_of_Celestial_Convergence.png"
+  },
+  {
+    "item": "Antique Map of Craglorn",
+    "rarity": "Green",
+    "location": "General Goods Merchant",
+    "type": "Furniture",
+    "difficulty": "Simple",
+    "drop_area": "Craglorn",
+    "image_path": "https://images/antiquities-icons.uesp.net/b/b1/ON-icon-furnishing-Craglorn_Map.png"
   },
   {
     "item": "Chain of the Werewolf",
@@ -1935,6 +1854,15 @@
     "image_path": "https://images/antiquities-icons.uesp.net/c/c5/ON-icon-quest-Gemstone_Tear_Red.png"
   },
   {
+    "item": "Shelf, Black Soul Gems",
+    "rarity": "Purple",
+    "location": "Deadlands zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture",
+    "difficulty": "Advanced",
+    "drop_area": "Deadlands",
+    "image_path": "https://images/antiquities-icons.uesp.net/8/8f/ON-icon-lead-Shelf%2C_Black_Soul_Gems.png"
+  },
+  {
     "item": "Spell-Scorched Table",
     "rarity": "Gold",
     "location": "Safeboxes in the Fargrave zone",
@@ -2032,6 +1960,15 @@
     "difficulty": "Simple",
     "drop_area": "Deshaan",
     "image_path": "https://images/antiquities-icons.uesp.net/5/59/ON-icon-stolen-Holder.png"
+  },
+  {
+    "item": "Dark Elf Altar, Ceremonial",
+    "rarity": "Purple",
+    "location": "Deshaan zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture",
+    "difficulty": "Advanced",
+    "drop_area": "Deshaan",
+    "image_path": "https://images/antiquities-icons.uesp.net/e/ed/ON-icon-lead-Dark_Elf_Altar%2C_Ceremonial.png"
   },
   {
     "item": "Dwarven Articulated Paws",
@@ -2592,6 +2529,15 @@
     "image_path": "https://images/antiquities-icons.uesp.net/f/f1/ON-icon-stolen-Ring.png"
   },
   {
+    "item": "Breton Well, Storm Grey",
+    "rarity": "Purple",
+    "location": "Glenumbra zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture",
+    "difficulty": "Advanced",
+    "drop_area": "Glenumbra",
+    "image_path": "https://images/antiquities-icons.uesp.net/4/40/ON-icon-lead-Breton_Well%2C_Storm_Grey.png"
+  },
+  {
     "item": "Goblet Gorget",
     "rarity": "Gold",
     "location": "Spindleclutch (The Whisperer)",
@@ -2707,6 +2653,15 @@
     "difficulty": "Simple",
     "drop_area": "Gold Coast",
     "image_path": "https://images/antiquities-icons.uesp.net/f/f1/ON-icon-stolen-Ring.png"
+  },
+  {
+    "item": "Shrine to Dibella",
+    "rarity": "Purple",
+    "location": "Gold Coast zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture",
+    "difficulty": "Advanced",
+    "drop_area": "Gold Coast",
+    "image_path": "https://images/antiquities-icons.uesp.net/c/cf/ON-icon-lead-Shrine_to_Dibella.png"
   },
   {
     "item": "Water-worn Anvil Bust",
@@ -3726,6 +3681,15 @@
     "image_path": "https://images/antiquities-icons.uesp.net/f/f6/ON-icon-stolen-Wraps.png"
   },
   {
+    "item": "Khajiiti Water Vessel, Large",
+    "rarity": "Purple",
+    "location": "Northern Elsweyr zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture",
+    "difficulty": "Advanced",
+    "drop_area": "Northern Elsweyr",
+    "image_path": "https://images/antiquities-icons.uesp.net/6/6c/ON-icon-lead-Khajiiti_Water_Vessel%2C_Large.png"
+  },
+  {
     "item": "Moth Priest’s Cleansing Bowl",
     "rarity": "Purple",
     "location": "Imperial Sewer Bosses, Imperial Sewers Monsters, Imperial City Boss Volghass, Imperial Sewer General Malvicus (Story quest of Imperial City), Backpacks in Imperial City",
@@ -3778,6 +3742,15 @@
     "difficulty": "Intermediate",
     "drop_area": "Reaper’s March",
     "image_path": "https://images/antiquities-icons.uesp.net/b/bb/ON-icon-stolen-Blade.png"
+  },
+  {
+    "item": "Khajiiti Arch, Rising",
+    "rarity": "Purple",
+    "location": "Reaper’s March zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture",
+    "difficulty": "Advanced",
+    "drop_area": "Reaper’s March",
+    "image_path": "https://images/antiquities-icons.uesp.net/9/92/ON-icon-lead-Khajiiti_Arch%2C_Rising.png"
   },
   {
     "item": "Malacath’s Brutal Ritual Dust",
@@ -4005,6 +3978,15 @@
     "image_path": "https://images/antiquities-icons.uesp.net/2/24/ON-icon-fragment-Pad-Sa_Shark_Teeth.png"
   },
   {
+    "item": "Painted Stone Frog",
+    "rarity": "Purple",
+    "location": "Shadowfen zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture",
+    "difficulty": "Advanced",
+    "drop_area": "Shadowfen",
+    "image_path": "https://images/antiquities-icons.uesp.net/9/92/ON-icon-lead-Painted_Stone_Frog.png"
+  },
+  {
     "item": "Ritual Circlet",
     "rarity": "Gold",
     "location": "Cradle of Shadows last boss",
@@ -4048,6 +4030,15 @@
     "difficulty": "Simple",
     "drop_area": "Southern Elsweyr",
     "image_path": "https://images/antiquities-icons.uesp.net/d/d2/ON-icon-furnishing-Southern_Elsweyr_Map_02.png"
+  },
+  {
+    "item": "Khajiiti Well",
+    "rarity": "Purple",
+    "location": "Southern Elsweyr zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture",
+    "difficulty": "Advanced",
+    "drop_area": "Southern Elsweyr",
+    "image_path": "https://images/antiquities-icons.uesp.net/3/31/ON-icon-lead-Khajiiti_Well.png"
   },
   {
     "item": "Meteoric-Iron Pravise",
@@ -4372,6 +4363,15 @@
     "difficulty": "Simple",
     "drop_area": "Summerset",
     "image_path": "https://images/antiquities-icons.uesp.net/c/c3/ON-icon-stolen-Pitcher.png"
+  },
+  {
+    "item": "High Elf Altar, Crystal",
+    "rarity": "Purple",
+    "location": "Summerset zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "type": "Furniture",
+    "difficulty": "Advanced",
+    "drop_area": "Summerset",
+    "image_path": "https://images/antiquities-icons.uesp.net/2/24/ON-icon-lead-High_Elf_Altar%2C_Crystal.png"
   },
   {
     "item": "Jurisreeve’s Eye",
