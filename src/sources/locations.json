@@ -1,180 +1,180 @@
 [
-    {
-      "name": "Aldmeri Dominion",
-      "areas": [
-        {
-          "name": "Khenarthi's Roost"
-        },
-        {
-          "name": "Auridon"
-        },
-        {
-          "name": "Grahtwood"
-        },
-        {
-          "name": "Greenshade"
-        },
-        {
-          "name": "Malabal Tor"
-        },
-        {
-          "name": "Reaper's March"
-        }
-      ],
-      "avatar": "/images/location-icons/ON-icon-alliance-Aldmeri.png"
-    },
-    {
-      "name": "Daggerfall Covenant",
-      "areas": [
-        {
-          "name": "Stros M'Kai"
-        },
-        {
-          "name": "Betnikh"
-        },
-        {
-          "name": "Glenumbra"
-        },
-        {
-          "name": "Stormhaven"
-        },
-        {
-          "name": "Rivenspire"
-        },
-        {
-          "name": "Alik'r Desert"
-        },
-        {
-          "name": "Bangkorai"
-        }
-      ],
-      "avatar": "/images/location-icons/ON-icon-alliance-Daggerfall.png"
-    },
-    {
-      "name": "Ebonheart Pact",
-      "areas": [
-        {
-          "name": "Bleakrock Isle"
-        },
-        {
-          "name": "Bal Foyen"
-        },
-        {
-          "name": "Stonefalls"
-        },
-        {
-          "name": "Deshaan"
-        },
-        {
-          "name": "Shadowfen"
-        },
-        {
-          "name": "Eastmarch"
-        },
-        {
-          "name": "The Rift"
-        }
-      ],
-      "avatar": "/images/location-icons/ON-icon-alliance-Ebonheart.png"
-    },
-    {
-      "name": "Neutral",
-      "areas": [
-        {
-          "name": "Coldharbour",
-          "avatar": "/images/location-icons/ON-icon-alliance-Coldharbour.png"
-        },
-        {
-          "name": "Craglorn",
-          "avatar": "/images/location-icons/ON-icon-Craglorn.png"
-        },
-        {
-          "name": "Cyrodiil",
-          "avatar": "/images/location-icons/ON-mapicon-Battle.png"
-        },
-        {
-          "name": "Eyevea",
-          "avatar": "/images/location-icons/ON-icon-MagesGuild.png"
-        }
-      ],
-      "avatar": "/images/location-icons/ON-icon-Voip_Area.png"
-    },
-    {
-      "name": "DLC Areas",
-      "areas": [
-        {
-          "name": "Wrothgar",
-          "avatar": "/images/location-icons/ON-icon-store-Orsinium.png"
-        },
-        {
-          "name": "Hew's Bane",
-          "avatar": "/images/location-icons/ON-icon-Thieves_Guild.png"
-        },
-        {
-          "name": "Gold Coast",
-          "avatar": "/images/location-icons/ON-icon-Dark_Brotherhood.png"
-        },
-        {
-          "name": "Vvardenfell",
-          "avatar": "/images/location-icons/ON-icon-alliance-Vivec.png"
-        },
-        {
-          "name": "Clockwork City",
-          "avatar": "/images/location-icons/ON-icon-Sotha_Sil.png"
-        },
-        {
-          "name": "Summerset",
-          "avatar": "/images/location-icons/ON-icon-alliance-Alinor.png"
-        },
-        {
-          "name": "Artaeum",
-          "avatar": "/images/location-icons/ON-icon-Psijic_Order.png"
-        },
-        {
-          "name": "Murkmire",
-          "avatar": "/images/location-icons/ON-icon-store-Murkmire.png"
-        },
-        {
-          "name": "Northern Elsweyr",
-          "avatar": "/images/location-icons/ON-icon-alliance-Elsweyr.png"
-        },
-        {
-          "name": "Southern Elsweyr",
-          "avatar": "/images/location-icons/ON-icon-store-Dragonhold.png"
-        },
-        {
-          "name": "Western Skyrim",
-          "avatar": "/images/location-icons/ON-icon-alliance-Solitude.png"
-        },
-        {
-          "name": "The Reach",
-          "avatar": "/images/location-icons/ON-icon-store-Markarth.png"
-        },
-        {
-          "name": "Blackwood",
-          "avatar": "/images/location-icons/20210704171201%21ON-icon-Blackwood_02.png"
-        },
-        {
-          "name": "Deadlands",
-          "avatar": "/images/location-icons/ON-icon-store-Deadlands.png"
-        },
-        {
-          "name": "High Isle",
-          "avatar": "/images/location-icons/ON-icon-High_Isle_02.png"
-        },
-        {
-          "name": "Galen",
-          "avatar": "/images/location-icons/ON-icon-store-Firesong.png"
-        },
-        {
-          "name": "Telvanni Peninsula",
-          "avatar": "/images/location-icons/ON-icon-alliance-Necrom.png"
-        },
-        {
-          "name": "Apocrypha",
-          "avatar": "/images/location-icons/ON-icon-alliance-Apocrypha.png"
-        }
-      ],
-      "avatar": "/images/location-icons/ON-icon-Zone_DLC.png"
-    }
-  ]
+  {
+    "name": "Aldmeri Dominion",
+    "areas": [
+      {
+        "name": "Khenarthi's Roost"
+      },
+      {
+        "name": "Auridon"
+      },
+      {
+        "name": "Grahtwood"
+      },
+      {
+        "name": "Greenshade"
+      },
+      {
+        "name": "Malabal Tor"
+      },
+      {
+        "name": "Reaper's March"
+      }
+    ],
+    "avatar": "src/public/images/location-icons/ON-icon-alliance-Aldmeri.png"
+  },
+  {
+    "name": "Daggerfall Covenant",
+    "areas": [
+      {
+        "name": "Stros M'Kai"
+      },
+      {
+        "name": "Betnikh"
+      },
+      {
+        "name": "Glenumbra"
+      },
+      {
+        "name": "Stormhaven"
+      },
+      {
+        "name": "Rivenspire"
+      },
+      {
+        "name": "Alik'r Desert"
+      },
+      {
+        "name": "Bangkorai"
+      }
+    ],
+    "avatar": "src/public/images/location-icons/ON-icon-alliance-Daggerfall.png"
+  },
+  {
+    "name": "Ebonheart Pact",
+    "areas": [
+      {
+        "name": "Bleakrock Isle"
+      },
+      {
+        "name": "Bal Foyen"
+      },
+      {
+        "name": "Stonefalls"
+      },
+      {
+        "name": "Deshaan"
+      },
+      {
+        "name": "Shadowfen"
+      },
+      {
+        "name": "Eastmarch"
+      },
+      {
+        "name": "The Rift"
+      }
+    ],
+    "avatar": "src/public/images/location-icons/ON-icon-alliance-Ebonheart.png"
+  },
+  {
+    "name": "Neutral",
+    "areas": [
+      {
+        "name": "Coldharbour",
+        "avatar": "src/public/images/location-icons/ON-icon-alliance-Coldharbour.png"
+      },
+      {
+        "name": "Craglorn",
+        "avatar": "src/public/images/location-icons/ON-icon-Craglorn.png"
+      },
+      {
+        "name": "Cyrodiil",
+        "avatar": "src/public/images/location-icons/ON-mapicon-Battle.png"
+      },
+      {
+        "name": "Eyevea",
+        "avatar": "src/public/images/location-icons/ON-icon-MagesGuild.png"
+      }
+    ],
+    "avatar": "src/public/images/location-icons/ON-icon-Voip_Area.png"
+  },
+  {
+    "name": "DLC Areas",
+    "areas": [
+      {
+        "name": "Wrothgar",
+        "avatar": "src/public/images/location-icons/ON-icon-store-Orsinium.png"
+      },
+      {
+        "name": "Hew's Bane",
+        "avatar": "src/public/images/location-icons/ON-icon-Thieves_Guild.png"
+      },
+      {
+        "name": "Gold Coast",
+        "avatar": "src/public/images/location-icons/ON-icon-Dark_Brotherhood.png"
+      },
+      {
+        "name": "Vvardenfell",
+        "avatar": "src/public/images/location-icons/ON-icon-alliance-Vivec.png"
+      },
+      {
+        "name": "Clockwork City",
+        "avatar": "src/public/images/location-icons/ON-icon-Sotha_Sil.png"
+      },
+      {
+        "name": "Summerset",
+        "avatar": "src/public/images/location-icons/ON-icon-alliance-Alinor.png"
+      },
+      {
+        "name": "Artaeum",
+        "avatar": "src/public/images/location-icons/ON-icon-Psijic_Order.png"
+      },
+      {
+        "name": "Murkmire",
+        "avatar": "src/public/images/location-icons/ON-icon-store-Murkmire.png"
+      },
+      {
+        "name": "Northern Elsweyr",
+        "avatar": "src/public/images/location-icons/ON-icon-alliance-Elsweyr.png"
+      },
+      {
+        "name": "Southern Elsweyr",
+        "avatar": "src/public/images/location-icons/ON-icon-store-Dragonhold.png"
+      },
+      {
+        "name": "Western Skyrim",
+        "avatar": "src/public/images/location-icons/ON-icon-alliance-Solitude.png"
+      },
+      {
+        "name": "The Reach",
+        "avatar": "src/public/images/location-icons/ON-icon-store-Markarth.png"
+      },
+      {
+        "name": "Blackwood",
+        "avatar": "src/public/images/location-icons/ON-icon-Blackwood_02.png"
+      },
+      {
+        "name": "Deadlands",
+        "avatar": "src/public/images/location-icons/ON-icon-store-Deadlands.png"
+      },
+      {
+        "name": "High Isle",
+        "avatar": "src/public/images/location-icons/ON-icon-High_Isle_02.png"
+      },
+      {
+        "name": "Galen",
+        "avatar": "src/public/images/location-icons/ON-icon-store-Firesong.png"
+      },
+      {
+        "name": "Telvanni Peninsula",
+        "avatar": "src/public/images/location-icons/ON-icon-alliance-Necrom.png"
+      },
+      {
+        "name": "Apocrypha",
+        "avatar": "src/public/images/location-icons/ON-icon-alliance-Apocrypha.png"
+      }
+    ],
+    "avatar": "src/public/images/location-icons/ON-icon-Zone_DLC.png"
+  }
+]

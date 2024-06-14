@@ -19,4 +19,3 @@ export interface Antiquity {
   drop_area: string;
   image_path: string;
 }
-

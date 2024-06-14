@@ -1,13 +1,14 @@
 import React from 'react';
 import { Accordion, Avatar, Container, Group, Text, Title } from '@mantine/core';
-import locations  from '@sources/locations.json';
-import antiquities from '@sources/antiquities.json';
+import locationsJson from '@sources/locations.json';
+import antiquitiesJson from '@sources/antiquities.json';
 import classes from './Antiquities.css';
 import { AntiquityCard } from '@/components/AntiquityCard/AntiquityCard';
 import { Antiquity, Location } from '@/@typings/database-types';
 
 export function Antiquities() {
-  const locationsArea: Location[] = locations;
+  const locations: Location[] = locationsJson;
+  const antiquities: Antiquity[] = antiquitiesJson;
 
   return (
     <Container size="sm" className={classes.container}>
@@ -15,7 +16,7 @@ export function Antiquities() {
         Antiquities
       </Title>
       <Accordion>
-        {locationsArea.map((location) => (
+        {locations.map((location) => (
           <Accordion.Item key={location.name} value={location.name}>
             <Accordion.Control>
               <AccordionLabel label={location.name} avatar={location.avatar} />
@@ -60,6 +61,7 @@ export function Antiquities() {
     </Container>
   );
 }
+
 function AccordionLabel({ label, avatar }: { label: string; avatar?: string }) {
   return (
     <Group wrap="nowrap">
@@ -70,19 +72,3 @@ function AccordionLabel({ label, avatar }: { label: string; avatar?: string }) {
     </Group>
   );
 }
-
-function isValidAntiquity(item: any): item is Antiquity {
-  return (
-    typeof item.item === 'string' &&
-    typeof item.rarity === 'string' &&
-    typeof item.location === 'string' &&
-    typeof item.type === 'string' &&
-    typeof item.difficulty === 'string' &&
-    typeof item.drop_area === 'string' &&
-    typeof item.image_path === 'string'
-  );
-}
-
-const invalidItems: any[] = antiquities.filter((item) => !isValidAntiquity(item));
-
-if (invalidItems) console.log('Invalid Items:', invalidItems);
