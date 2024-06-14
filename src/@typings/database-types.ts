@@ -1,3 +1,14 @@
+export type Location = {
+  name: string;
+  areas: ChapterArea[];
+  avatar: string;
+};
+
+type ChapterArea = {
+  name: string;
+  avatar?: string;
+};
+
 export interface Antiquity {
   item: string;
   rarity: string;
@@ -8,3 +19,4 @@ export interface Antiquity {
   drop_area: string;
   image_path: string;
 }
+

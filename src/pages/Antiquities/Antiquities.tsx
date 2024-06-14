@@ -1,19 +1,21 @@
 import React from 'react';
 import { Accordion, Avatar, Container, Group, Text, Title } from '@mantine/core';
-import { locations } from '../../utils/recordMaps';
-import antiquities from '../../sources/antiquities.json';
+import locations  from '@sources/locations.json';
+import antiquities from '@sources/antiquities.json';
 import classes from './Antiquities.css';
 import { AntiquityCard } from '@/components/AntiquityCard/AntiquityCard';
-import { Antiquity } from '@/@typings/database-types';
+import { Antiquity, Location } from '@/@typings/database-types';
 
 export function Antiquities() {
+  const locationsArea: Location[] = locations;
+
   return (
     <Container size="sm" className={classes.container}>
       <Title order={1} className={classes.title}>
         Antiquities
       </Title>
       <Accordion>
-        {locations.map((location) => (
+        {locationsArea.map((location) => (
           <Accordion.Item key={location.name} value={location.name}>
             <Accordion.Control>
               <AccordionLabel label={location.name} avatar={location.avatar} />
@@ -83,4 +85,4 @@ function isValidAntiquity(item: any): item is Antiquity {
 
 const invalidItems: any[] = antiquities.filter((item) => !isValidAntiquity(item));
 
-console.log('Invalid Items:', invalidItems);
+if (invalidItems) console.log('Invalid Items:', invalidItems);
