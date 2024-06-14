@@ -18,7 +18,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
-    "item": "Antique Map of The Alik’r Desert",
+    "item": "Antique Map of The Alik'r Desert",
     "rarity": "Green",
     "location": "Found at the Inn (Requires Pathfinder Achievement)",
     "type": "Furnishing",
@@ -119,10 +119,10 @@
   {
     "item": "Stone Relief, Yokudan",
     "rarity": "Purple",
-    "location": "Alik’r Desert zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "location": "Alik'r Desert zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
     "type": "Furniture",
     "difficulty": "Advanced",
-    "drop_area": "Alik’r Desert",
+    "drop_area": "Alik'r Desert",
     "image_path": "src/public/images/location-icons/ON-icon-lead-Stone_Relief%2C_Yokudan.png"
   },
   {
@@ -441,7 +441,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Book_02.png"
   },
   {
-    "item": "Ritemaster’s Slate",
+    "item": "Ritemaster's Slate",
     "rarity": "Purple",
     "location": "Reward for excavating Warped Scrying Dipper",
     "type": "Treasure",
@@ -603,10 +603,10 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Goblet.png"
   },
   {
-    "item": "Malacath’s Brutal Rune Core",
+    "item": "Malacath's Brutal Rune Core",
     "rarity": "Gold",
     "location": "IMPERIAL CITY – Upper District Bosses (Dig Site in Bal Foyen)",
-    "type": "Malacath’s Band of Brutality Part",
+    "type": "Malacath's Band of Brutality Part",
     "difficulty": "Master",
     "drop_area": "Bal Foyen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-style_material-Manganese.png"
@@ -624,7 +624,7 @@
     "item": "Silverweave Cord",
     "rarity": "Gold",
     "location": "Covenant Enemies, most likely all enemies",
-    "type": "Harpooner’s Wading Kilt part",
+    "type": "Harpooner's Wading Kilt part",
     "difficulty": "Master",
     "drop_area": "Bal Foyen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Silverweave_Cord.png"
@@ -704,7 +704,7 @@
   {
     "item": "Frost Lancer",
     "rarity": "Purple",
-    "location": "Gladiator’s Rucksack from Cyrodiil Daily Quest",
+    "location": "Gladiator's Rucksack from Cyrodiil Daily Quest",
     "type": "Container",
     "difficulty": "Advanced",
     "drop_area": "Bangkorai",
@@ -713,14 +713,14 @@
   {
     "item": "Sloped Dwarven Guards",
     "rarity": "Purple",
-    "location": "Any Boss in Razak’s Wheel Public Dungeon",
+    "location": "Any Boss in Razak's Wheel Public Dungeon",
     "type": "Ebon Dwarven Wolf Part",
     "difficulty": "Advanced",
     "drop_area": "Bangkorai",
     "image_path": "src/public/images/antiquities-icons/ON-icon-style_material-Dwemer_Frame.png"
   },
   {
-    "item": "St. Pelin’s Cod",
+    "item": "St. Pelin's Cod",
     "rarity": "Green",
     "location": "Freebie Starter Lead",
     "type": "Treasure",
@@ -729,9 +729,9 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-trait_material-Carnelian_2.png"
   },
   {
-    "item": "Tall Papa’s Lamp",
+    "item": "Tall Papa's Lamp",
     "rarity": "Purple",
-    "location": "Safeboxes, Thieves Trove, World Bosses, Public Dungeon Bosses, Nightstand in Anchor’s Point Inn, Evermore, Klathzgar Delve Boss",
+    "location": "Safeboxes, Thieves Trove, World Bosses, Public Dungeon Bosses, Nightstand in Anchor's Point Inn, Evermore, Klathzgar Delve Boss",
     "type": "Furnishing",
     "difficulty": "Advanced",
     "drop_area": "Bangkorai",
@@ -801,10 +801,10 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Rough_Block%2C_Dark_Stone.png"
   },
   {
-    "item": "Malacath’s Brutal Scourge Hoop",
+    "item": "Malacath's Brutal Scourge Hoop",
     "rarity": "Gold",
     "location": "Random Monster",
-    "type": "Malacath’s Band of Brutality Part",
+    "type": "Malacath's Band of Brutality Part",
     "difficulty": "Master",
     "drop_area": "Betnikh",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Spriggan_Hoop.png"
@@ -819,7 +819,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Corkscrew.png"
   },
   {
-    "item": "Warcaller’s Painted Drum",
+    "item": "Warcaller's Painted Drum",
     "rarity": "Gold",
     "location": "Random Monster",
     "type": "Furnishing",
@@ -984,7 +984,7 @@
     "item": "Carved Signet Base",
     "rarity": "Gold",
     "location": "Imperial City Upstair Bosses",
-    "type": "Death Dealer’s Fete part",
+    "type": "Death Dealer's Fete part",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Carved_Signet_Base.png"
@@ -993,7 +993,7 @@
     "item": "Chain of the Vampire",
     "rarity": "Gold",
     "location": "Harrowstorms in The Reach",
-    "type": "Shapeshifter’s Chain part",
+    "type": "Shapeshifter's Chain part",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Chain_of_the_Vampire.png"
@@ -1001,8 +1001,8 @@
   {
     "item": "Chain of the Werewolf",
     "rarity": "Gold",
-    "location": "Hircine’s Haunt delve, all bosses",
-    "type": "Shapeshifter’s Chain part",
+    "location": "Hircine's Haunt delve, all bosses",
+    "type": "Shapeshifter's Chain part",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Chain_of_the_Werewolf.png"
@@ -1010,7 +1010,7 @@
   {
     "item": "Dusty Tapestry Scrap",
     "rarity": "Blue",
-    "location": "South East of the Xeemhok’s Lagoon World Boss, destroyed hut next to a Skeleton",
+    "location": "South East of the Xeemhok's Lagoon World Boss, destroyed hut next to a Skeleton",
     "type": "Blackwood Tapestry",
     "difficulty": "Master",
     "drop_area": "Blackwood",
@@ -1037,7 +1037,7 @@
   {
     "item": "Glass Skeletal Visage",
     "rarity": "Gold",
-    "location": "Public Dungeon Zenithar’s Abbey, any boss",
+    "location": "Public Dungeon Zenithar's Abbey, any boss",
     "type": "Gaze of Sithis part",
     "difficulty": "Master",
     "drop_area": "Blackwood",
@@ -1055,14 +1055,14 @@
   {
     "item": "Holey Tapestry Scrap",
     "rarity": "Blue",
-    "location": "Close to Gideon town, inside Duchess’s Private Study hideout, inside the broken wall.",
+    "location": "Close to Gideon town, inside Duchess's Private Study hideout, inside the broken wall.",
     "type": "Blackwood Tapestry",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Holey_Tapestry_Scrap.png"
   },
   {
-    "item": "Imperial Legionary’s Spade",
+    "item": "Imperial Legionary's Spade",
     "rarity": "Green",
     "location": "Freebie Starter Lead",
     "type": "Treasure",
@@ -1083,7 +1083,7 @@
     "item": "Kothringi-Cut Leather",
     "rarity": "Gold",
     "location": "World Bosses",
-    "type": "Harpooner’s Wading Kilt part",
+    "type": "Harpooner's Wading Kilt part",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Kothringi-Cut_Leather.png"
@@ -1118,8 +1118,8 @@
   {
     "item": "Reinforced Clasp Anchor",
     "rarity": "Gold",
-    "location": "Public Dungeon Silent Hall, Wootwhisperer Boss, Vor’Chul The Beastbreaker Boss",
-    "type": "Shapeshifter’s Chain part",
+    "location": "Public Dungeon Silent Hall, Wootwhisperer Boss, Vor'Chul The Beastbreaker Boss",
+    "type": "Shapeshifter's Chain part",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Reinforced_Clasp_Anchor.png"
@@ -1134,7 +1134,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Ripped_Tapestry_Scrap.png"
   },
   {
-    "item": "Saint Kaladas’s Plumb Bob",
+    "item": "Saint Kaladas's Plumb Bob",
     "rarity": "Purple",
     "location": "Reward for excavating Shattered Ayleid Cloak Clasp",
     "type": "Treasure",
@@ -1209,7 +1209,7 @@
     "item": "Warm Asymmetrical Ruby",
     "rarity": "Gold",
     "location": "Oblivion Portal final Chest",
-    "type": "Death Dealer’s Fete part",
+    "type": "Death Dealer's Fete part",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Warm_Asymmetrical_Ruby.png"
@@ -1218,13 +1218,13 @@
     "item": "Weighted Spiked Bridge",
     "rarity": "Gold",
     "location": "Cyrodiil Rewards from the Worthy Mail Box",
-    "type": "Death Dealer’s Fete part",
+    "type": "Death Dealer's Fete part",
     "difficulty": "Master",
     "drop_area": "Blackwood",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Weighted_Spiked_Bridge.png"
   },
   {
-    "item": "Z’en Idol",
+    "item": "Z'en Idol",
     "rarity": "Purple",
     "location": "Chests, Safeboxes, Thieves Troves, Public and Delve Dungeons, World Bosses, Harvesting Nodes",
     "type": "Furnishing",
@@ -1305,7 +1305,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-misc-Wand1.png"
   },
   {
-    "item": "Apostle’s Scourge",
+    "item": "Apostle's Scourge",
     "rarity": "Blue",
     "location": "Reward for excavating Series Tweo Animo Core",
     "type": "Treasure",
@@ -1362,7 +1362,7 @@
     "item": "Chain of the Bone Goliath",
     "rarity": "Gold",
     "location": "Vaults of Madness Dungeon last boss",
-    "type": "Shapeshifter’s Chain part",
+    "type": "Shapeshifter's Chain part",
     "difficulty": "Master",
     "drop_area": "Coldharbour",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Chain_of_the_Bone_Goliath.png"
@@ -1407,7 +1407,7 @@
     "item": "Sanguine Doublet",
     "rarity": "Gold",
     "location": "Public Dungeon Boss Village of the Lost",
-    "type": "Bloodlord’s Embrace Part",
+    "type": "Bloodlord's Embrace Part",
     "difficulty": "Master",
     "drop_area": "Coldharbour",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Vest.png"
@@ -1422,7 +1422,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Obsidian_Pieces.png"
   },
   {
-    "item": "Tormentor’s Roller",
+    "item": "Tormentor's Roller",
     "rarity": "Green",
     "location": "Freebie Starter Lead",
     "type": "Treasure",
@@ -1469,8 +1469,8 @@
   {
     "item": "Chain of the Werewolf",
     "rarity": "Gold",
-    "location": "Hircine’s Haunt delve, all bosses",
-    "type": "Shapeshifter’s Chain part",
+    "location": "Hircine's Haunt delve, all bosses",
+    "type": "Shapeshifter's Chain part",
     "difficulty": "Master",
     "drop_area": "Craglorn",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Chain_of_the_Werewolf.png"
@@ -1478,7 +1478,7 @@
   {
     "item": "Cracked Serpent Pendant",
     "rarity": "Blue",
-    "location": "Reward for excavating Watcher’s Ritual Stole",
+    "location": "Reward for excavating Watcher's Ritual Stole",
     "type": "Treasure",
     "difficulty": "Intermediate",
     "drop_area": "Craglorn",
@@ -1524,7 +1524,7 @@
     "item": "Sturdy Silver Prongs",
     "rarity": "Gold",
     "location": "Dragonstar Arena last chest after endboss",
-    "type": "Death Dealer’s Fete part",
+    "type": "Death Dealer's Fete part",
     "difficulty": "Master",
     "drop_area": "Craglorn",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Sturdy_Silver_Prongs.png"
@@ -1532,14 +1532,14 @@
   {
     "item": "Torc Throat Guards",
     "rarity": "Gold",
-    "location": "Anka’Ra Crucible World Boss Event, Chests Near World Boss Event",
+    "location": "Anka'Ra Crucible World Boss Event, Chests Near World Boss Event",
     "type": "Torc of Tonal Constancy Part",
     "difficulty": "Master",
     "drop_area": "Craglorn",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Dwarven_Part_02.png"
   },
   {
-    "item": "Watcher’s Ritual Stole",
+    "item": "Watcher's Ritual Stole",
     "rarity": "Green",
     "location": "Freebie Starter Lead",
     "type": "Treasure",
@@ -1551,7 +1551,7 @@
     "item": "Wide Barbed Shank",
     "rarity": "Gold",
     "location": "Anomalies in Craglorn in the reward treasure chest, Nirncrux Mines",
-    "type": "Death Dealer’s Fete part",
+    "type": "Death Dealer's Fete part",
     "difficulty": "Master",
     "drop_area": "Craglorn",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Wide_Barbed_Shank.png"
@@ -1559,8 +1559,8 @@
   {
     "item": "Alessian Sacramental Oil",
     "rarity": "Gold",
-    "location": "Limenauruus Boss at Tribune’s Folley in the Gold Coast zone (Likely all bosses in that zone)",
-    "type": "Belharza’s Band Mythic",
+    "location": "Limenauruus Boss at Tribune's Folley in the Gold Coast zone (Likely all bosses in that zone)",
+    "type": "Belharza's Band Mythic",
     "difficulty": "Master",
     "drop_area": "Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Alessian_Sacramental_Oil.png"
@@ -1719,10 +1719,10 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Ampoule.png"
   },
   {
-    "item": "Bull’s Head Gallery Rail",
+    "item": "Bull's Head Gallery Rail",
     "rarity": "Gold",
     "location": "Deadlands Daily Reward Coffers",
-    "type": "Belharza’s Band Mythic",
+    "type": "Belharza's Band Mythic",
     "difficulty": "Master",
     "drop_area": "Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-armor-Ring_of_the_Pale_Order.png"
@@ -1740,7 +1740,7 @@
     "item": "Crimson Diamond",
     "rarity": "Gold",
     "location": "Falkreath Hold Dungeon chests",
-    "type": "Belharza’s Band Mythic",
+    "type": "Belharza's Band Mythic",
     "difficulty": "Master",
     "drop_area": "Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-misc-Ruby.png"
@@ -1755,7 +1755,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Daedric_Enchanting_Apparatus.png"
   },
   {
-    "item": "Dagon’s Scalding Gibbet",
+    "item": "Dagon's Scalding Gibbet",
     "rarity": "Gold",
     "location": "Wandering Bosses in the Deadlands zone",
     "type": "Furnishing",
@@ -1767,7 +1767,7 @@
     "item": "Etched Silver Horns",
     "rarity": "Gold",
     "location": "Treasure Chest in the Gold Coast",
-    "type": "Belharza’s Band Mythic",
+    "type": "Belharza's Band Mythic",
     "difficulty": "Master",
     "drop_area": "Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Etched_Silver_Horns.png"
@@ -1791,7 +1791,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-hat-Ironclad_Sarcoshroud.png"
   },
   {
-    "item": "Kynreeve’s Law-Cane",
+    "item": "Kynreeve's Law-Cane",
     "rarity": "Green",
     "location": "Zone Starter Lead",
     "type": "Treasure",
@@ -1802,7 +1802,7 @@
   {
     "item": "Mindcleaver Clan Banner",
     "rarity": "Blue",
-    "location": "Reward for excavating the Kynreeve’s Law-Cane lead",
+    "location": "Reward for excavating the Kynreeve's Law-Cane lead",
     "type": "Treasure",
     "difficulty": "Intermediate",
     "drop_area": "Deadlands",
@@ -1875,7 +1875,7 @@
     "item": "Stainless Imperial Band",
     "rarity": "Gold",
     "location": "Any monster in the Black Drake Villa dungeon",
-    "type": "Belharza’s Band Mythic",
+    "type": "Belharza's Band Mythic",
     "difficulty": "Master",
     "drop_area": "Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-minor_adornment-Ring.png"
@@ -1989,7 +1989,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Kwama_Pedestal_Key_Crank_01.png"
   },
   {
-    "item": "Niss’wo Sacramental Wraps",
+    "item": "Niss'wo Sacramental Wraps",
     "rarity": "Gold",
     "location": "Public Dungeon Forgotten Crypt, The Silent Colossus Boss (Group Event)",
     "type": "Gaze of Sithis part",
@@ -2142,10 +2142,10 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Trinkets.png"
   },
   {
-    "item": "Admiral’s Carved Trestle Base",
+    "item": "Admiral's Carved Trestle Base",
     "rarity": "Gold",
     "location": "Galen Daily Reward Coffer",
-    "type": "Shipbuilder’s Drafting Table",
+    "type": "Shipbuilder's Drafting Table",
     "difficulty": "Master",
     "drop_area": "Galen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Admiral%27s_Carved_Trestle_Base.png"
@@ -2181,7 +2181,7 @@
     "item": "Braided Blessed Brambles",
     "rarity": "Gold",
     "location": "Group Event Boss inToothmaul Gully Public Dungeon, Auridon zone",
-    "type": "Stormweaver’s Cavort Mythic",
+    "type": "Stormweaver's Cavort Mythic",
     "difficulty": "Master",
     "drop_area": "Galen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Vines%2C_Thornpinch.png"
@@ -2234,7 +2234,7 @@
   {
     "item": "Druidic Music Box Drum",
     "rarity": "Gold",
-    "location": "Desuuga the Siren, World Boss at Siren’s Cove, North side in the Rivenspire zone",
+    "location": "Desuuga the Siren, World Boss at Siren's Cove, North side in the Rivenspire zone",
     "type": "Music Box, Blessings of Stone",
     "difficulty": "Master",
     "drop_area": "Galen",
@@ -2252,7 +2252,7 @@
   {
     "item": "Druidic Music Box Turnstile",
     "rarity": "Gold",
-    "location": "Bosses in Lost City of the Na-Totambu Public Dungeon in Alik’r Desert zone. Volcanic Vents in Galen zone. And Volcanic Vents in Galen",
+    "location": "Bosses in Lost City of the Na-Totambu Public Dungeon in Alik'r Desert zone. Volcanic Vents in Galen zone. And Volcanic Vents in Galen",
     "type": "Music Box, Blessings of Stone",
     "difficulty": "Master",
     "drop_area": "Galen",
@@ -2271,7 +2271,7 @@
     "item": "Frog Metal Buckle",
     "rarity": "Gold",
     "location": "Inside Blacksmithing Crate from Blacksmithing Writ Dailies",
-    "type": "Syrabane’s Ward Mythic",
+    "type": "Syrabane's Ward Mythic",
     "difficulty": "Master",
     "drop_area": "Galen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-armor-Sash-Sul-Xan.png"
@@ -2289,7 +2289,7 @@
     "item": "Hartlord Hide Singlet",
     "rarity": "Gold",
     "location": "Faun Falls World Boss in High Isle",
-    "type": "Faun’s Lark Cladding Mythic",
+    "type": "Faun's Lark Cladding Mythic",
     "difficulty": "Master",
     "drop_area": "Galen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Hartlord_Hide_Singlet.png"
@@ -2298,7 +2298,7 @@
     "item": "Indrik-hide Strap",
     "rarity": "Gold",
     "location": "Indrik Frolic World Boss in Summerset",
-    "type": "Syrabane’s Ward Mythic",
+    "type": "Syrabane's Ward Mythic",
     "difficulty": "Master",
     "drop_area": "Galen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Asp-Leather_Strap.png"
@@ -2307,7 +2307,7 @@
     "item": "Iridescent Pearlwater Wash",
     "rarity": "Gold",
     "location": "Drops from fishing in any water in Galen and High Isle zone",
-    "type": "Syrabane’s Ward Mythic",
+    "type": "Syrabane's Ward Mythic",
     "difficulty": "Master",
     "drop_area": "Galen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-solvent-Purified_Water.png"
@@ -2325,7 +2325,7 @@
     "item": "Lustrous Prong Clasps",
     "rarity": "Gold",
     "location": "Wood Nodes in Galen and High Isle zone",
-    "type": "Faun’s Lark Cladding Mythic",
+    "type": "Faun's Lark Cladding Mythic",
     "difficulty": "Master",
     "drop_area": "Galen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-minor_adornment-Magicka_Ear_Clasps.png"
@@ -2334,7 +2334,7 @@
     "item": "Mark of the Faun Lord",
     "rarity": "Gold",
     "location": "Thieves Troves and Safeboxes in Galen and High Isle",
-    "type": "Faun’s Lark Cladding Mythic",
+    "type": "Faun's Lark Cladding Mythic",
     "difficulty": "Master",
     "drop_area": "Galen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Mark_of_the_Faun_Lord.png"
@@ -2352,7 +2352,7 @@
     "item": "Panels of the Earthbones",
     "rarity": "Gold",
     "location": "Valley of the Watcher Worldboss in Galen",
-    "type": "Stormweaver’s Cavort Mythic",
+    "type": "Stormweaver's Cavort Mythic",
     "difficulty": "Master",
     "drop_area": "Galen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-misc-Taproot.png"
@@ -2388,7 +2388,7 @@
     "item": "Promise of the Circles Leather",
     "rarity": "Gold",
     "location": "Lava Vent & Delve Daily Coffer in Galen",
-    "type": "Stormweaver’s Cavort Mythic",
+    "type": "Stormweaver's Cavort Mythic",
     "difficulty": "Master",
     "drop_area": "Galen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Promise_of_the_Circles_Leather.png"
@@ -2396,8 +2396,8 @@
   {
     "item": "Rune-scribed Braces",
     "rarity": "Gold",
-    "location": "Last boss of Shipwright’s Regret (dungeon)",
-    "type": "Syrabane’s Ward Mythic",
+    "location": "Last boss of Shipwright's Regret (dungeon)",
+    "type": "Syrabane's Ward Mythic",
     "difficulty": "Master",
     "drop_area": "Galen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-minor_adornment-Two-Loop_Earrings.png"
@@ -2415,7 +2415,7 @@
     "item": "Silverthread Stitching",
     "rarity": "Gold",
     "location": "Banished Cells 2 Endboss, Auridion zone",
-    "type": "Syrabane’s Ward Mythic",
+    "type": "Syrabane's Ward Mythic",
     "difficulty": "Master",
     "drop_area": "Galen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Silverthread_Stitching.png"
@@ -2424,7 +2424,7 @@
     "item": "Storm-Weathered Drafting Top",
     "rarity": "Gold",
     "location": "Group event boss in the Ghost Haven Bay Public Dungeon",
-    "type": "Shipbuilder’s Drafting Table",
+    "type": "Shipbuilder's Drafting Table",
     "difficulty": "Master",
     "drop_area": "Galen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Storm-Weathered_Drafting_Top.png"
@@ -2442,7 +2442,7 @@
     "item": "Tool Grooved Wooden Tray",
     "rarity": "Gold",
     "location": "Endboss in Wayrest Sewers 2",
-    "type": "Shipbuilder’s Drafting Table",
+    "type": "Shipbuilder's Drafting Table",
     "difficulty": "Master",
     "drop_area": "Galen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Grooved_Wooden_Tray.png"
@@ -2451,7 +2451,7 @@
     "item": "True Way Clay Dials",
     "rarity": "Gold",
     "location": "Volcanic Vents World Event in Galen",
-    "type": "Stormweaver’s Cavort Mythic",
+    "type": "Stormweaver's Cavort Mythic",
     "difficulty": "Master",
     "drop_area": "Galen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-True_Way_Clay_Dials.png"
@@ -2460,16 +2460,16 @@
     "item": "Twice-harvested Knot Rope",
     "rarity": "Gold",
     "location": "Clothing Nodes in Galen and High Isle zone",
-    "type": "Stormweaver’s Cavort Mythic",
+    "type": "Stormweaver's Cavort Mythic",
     "difficulty": "Master",
     "drop_area": "Galen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Rope.png"
   },
   {
-    "item": "Winter’s Pelt Lining",
+    "item": "Winter's Pelt Lining",
     "rarity": "Gold",
-    "location": "Hunter NPC’s and Boss in Whalefall Delve in High Isle",
-    "type": "Faun’s Lark Cladding Mythic",
+    "location": "Hunter NPC's and Boss in Whalefall Delve in High Isle",
+    "type": "Faun's Lark Cladding Mythic",
     "difficulty": "Master",
     "drop_area": "Galen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Solitude_Rug%2C_Cowhide.png"
@@ -2478,7 +2478,7 @@
     "item": "Withered Garlic Gorget",
     "rarity": "Gold",
     "location": "All Bosses in Obsidian Scar Public Dungeon, Rivenspire zone",
-    "type": "Faun’s Lark Cladding Mythic",
+    "type": "Faun's Lark Cladding Mythic",
     "difficulty": "Master",
     "drop_area": "Galen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Withered_Garlic_Gorget.png"
@@ -2486,7 +2486,7 @@
   {
     "item": "Writhing Vine Mass",
     "rarity": "Gold",
-    "location": "Fauns’ Thicket Delve Boss in Galen",
+    "location": "Fauns' Thicket Delve Boss in Galen",
     "type": "Barkroot Blessing Skin",
     "difficulty": "Master",
     "drop_area": "Galen",
@@ -2522,7 +2522,7 @@
   {
     "item": "Band of Water",
     "rarity": "Gold",
-    "location": "Public Dungeon Boss Bad Man’s Hallow",
+    "location": "Public Dungeon Boss Bad Man's Hallow",
     "type": "Ring of the Wild Hunt Part",
     "difficulty": "Master",
     "drop_area": "Glenumbra",
@@ -2541,7 +2541,7 @@
     "item": "Goblet Gorget",
     "rarity": "Gold",
     "location": "Spindleclutch (The Whisperer)",
-    "type": "Bloodlord’s Embrace Part",
+    "type": "Bloodlord's Embrace Part",
     "difficulty": "Master",
     "drop_area": "Glenumbra",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Pendant.png"
@@ -2556,7 +2556,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Jeweled_Skull_of_Ayleid_Kings.png"
   },
   {
-    "item": "Kingmaker’s Trove",
+    "item": "Kingmaker's Trove",
     "rarity": "Gold",
     "location": "Treasure Chest",
     "type": "Furnishing",
@@ -2568,7 +2568,7 @@
     "item": "Length of Sharpened Spikes",
     "rarity": "Gold",
     "location": "Spindleclutch 2 Dungeon last boss",
-    "type": "Shapeshifter’s Chain part",
+    "type": "Shapeshifter's Chain part",
     "difficulty": "Master",
     "drop_area": "Glenumbra",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Length_of_Sharpened_Spikes.png"
@@ -2585,7 +2585,7 @@
   {
     "item": "Order-Etched Gallery Rail",
     "rarity": "Gold",
-    "location": "Bad Man’s Hallow, any Monster",
+    "location": "Bad Man's Hallow, any Monster",
     "type": "Ring of the Pale Order Part",
     "difficulty": "Master",
     "drop_area": "Glenumbra",
@@ -2828,7 +2828,7 @@
   {
     "item": "Greensong Gathering Circle",
     "rarity": "Purple",
-    "location": "Public Dungeon Boss Rulanyil’s Fall, Thieves Trove, Chests, Safeboxes, MoS monsters",
+    "location": "Public Dungeon Boss Rulanyil's Fall, Thieves Trove, Chests, Safeboxes, MoS monsters",
     "type": "Furnishing",
     "difficulty": "Advanced",
     "drop_area": "Greenshade",
@@ -2844,7 +2844,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Tablet_01.png"
   },
   {
-    "item": "Symbol of Y’ffre",
+    "item": "Symbol of Y'ffre",
     "rarity": "Gold",
     "location": "World Bosses",
     "type": "Ring of the Wild Hunt Part",
@@ -2853,39 +2853,39 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-minor_adornment-Star_Ring.png"
   },
   {
-    "item": "Antique Map of Hew’s Bane",
+    "item": "Antique Map of Hew's Bane",
     "rarity": "Green",
-    "location": "Found in Abah’s Landing City at the “The Serpent and the Senche” Inn (Pathfinder Achievement)",
+    "location": "Found in Abah's Landing City at the “The Serpent and the Senche” Inn (Pathfinder Achievement)",
     "type": "Furnishing",
     "difficulty": "Simple",
-    "drop_area": "Hew’s Bane",
+    "drop_area": "Hew's Bane",
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Hew%27s_Bane_Map.png"
   },
   {
     "item": "Coiled Serpent Lock",
     "rarity": "Blue",
-    "location": "Reward for excavating Halved Lion Mane’s Wig Piece",
+    "location": "Reward for excavating Halved Lion Mane's Wig Piece",
     "type": "Treasure",
     "difficulty": "Intermediate",
-    "drop_area": "Hew’s Bane",
+    "drop_area": "Hew's Bane",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Dwarven_Part_02.png"
   },
   {
-    "item": "Halved Lion Mane’s Wig Piece",
+    "item": "Halved Lion Mane's Wig Piece",
     "rarity": "Green",
     "location": "Freebie Starter Lead",
     "type": "Treasure",
     "difficulty": "Simple",
-    "drop_area": "Hew’s Bane",
+    "drop_area": "Hew's Bane",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Wig.png"
   },
   {
-    "item": "Morwha’s Blessing",
+    "item": "Morwha's Blessing",
     "rarity": "Gold",
     "location": "Reward for completing a Heist. Tip Board Daily Quest in the Thieves Den.",
     "type": "Furnishing",
     "difficulty": "Master",
-    "drop_area": "Hew’s Bane",
+    "drop_area": "Hew's Bane",
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Morwha%27s_Blessing.png"
   },
   {
@@ -2894,16 +2894,16 @@
     "location": "Reward for excavating Coiled Serpent Lock",
     "type": "Treasure",
     "difficulty": "Advanced",
-    "drop_area": "Hew’s Bane",
+    "drop_area": "Hew's Bane",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Female_Portrait.png"
   },
   {
     "item": "Yokudan Skystone Scabbard",
     "rarity": "Purple",
-    "location": "Safebox in Abah’s Landing, Treasure Map, Chests",
+    "location": "Safebox in Abah's Landing, Treasure Map, Chests",
     "type": "Furnishing",
     "difficulty": "Advanced",
-    "drop_area": "Hew’s Bane",
+    "drop_area": "Hew's Bane",
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Yokudan_Skystone_Scabbard.png"
   },
   {
@@ -3033,7 +3033,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
-    "item": "Ancient Mariner’s Sextant",
+    "item": "Ancient Mariner's Sextant",
     "rarity": "Green",
     "location": "Zone Starter Lead",
     "type": "Treasure",
@@ -3054,7 +3054,7 @@
     "item": "Asp-Leather Strap",
     "rarity": "Gold",
     "location": "Lesser Sea Adders in Summerset and High Isle, they can be found along the coast.",
-    "type": "Lefthander’s War Girdle Mythic",
+    "type": "Lefthander's War Girdle Mythic",
     "difficulty": "Master",
     "drop_area": "High Isle",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Asp-Leather_Strap.png"
@@ -3063,7 +3063,7 @@
     "item": "Black Eltheric Pearls",
     "rarity": "Gold",
     "location": "Giant Clam node close to water in the High Isle zone",
-    "type": "Sea-Serpent’s Coil Mythic",
+    "type": "Sea-Serpent's Coil Mythic",
     "difficulty": "Master",
     "drop_area": "High Isle",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Black_Eltheric_Pearls.png"
@@ -3081,7 +3081,7 @@
     "item": "Bloodshot Oculus",
     "rarity": "Gold",
     "location": "any Watcher monster (confirmed drops in Atoll of Immolation from Deadlands Portal and the Cauldron dungeon)",
-    "type": "Mora’s Whisperers Mythic",
+    "type": "Mora's Whisperers Mythic",
     "difficulty": "Master",
     "drop_area": "High Isle",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Bloodshot_Oculus.png"
@@ -3089,7 +3089,7 @@
   {
     "item": "Clay Cooling Pitcher",
     "rarity": "Gold",
-    "location": "At the beach close to a tree. West of the Spriggan’s Crown location in the south side of the High Isle Zone",
+    "location": "At the beach close to a tree. West of the Spriggan's Crown location in the south side of the High Isle Zone",
     "type": "Druidic Provisioning Station Furnishing",
     "difficulty": "Advanced",
     "drop_area": "High Isle",
@@ -3180,7 +3180,7 @@
     "item": "Frigid Sapphire",
     "rarity": "Gold",
     "location": "Frozen Ruins World Boss in “The Rift” zone, west side of the zone",
-    "type": "Sea-Serpent’s Coil Mythic",
+    "type": "Sea-Serpent's Coil Mythic",
     "difficulty": "Master",
     "drop_area": "High Isle",
     "image_path": "src/public/images/antiquities-icons/ON-icon-trait_material-Sapphire.png"
@@ -3189,7 +3189,7 @@
     "item": "Gilded Disk",
     "rarity": "Gold",
     "location": "Mornard Falls World Boss in the High Isle and Amenos zone, on the Amenos island.",
-    "type": "Lefthander’s War Girdle Mythic",
+    "type": "Lefthander's War Girdle Mythic",
     "difficulty": "Master",
     "drop_area": "High Isle",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Gilded_Disk.png"
@@ -3198,7 +3198,7 @@
     "item": "Grand Hattu Onyx",
     "rarity": "Gold",
     "location": "Jewelry Crafting Writs (Crafting Writs Guide)",
-    "type": "Lefthander’s War Girdle Mythic",
+    "type": "Lefthander's War Girdle Mythic",
     "difficulty": "Master",
     "drop_area": "High Isle",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Grand_Hattu_Onyx.png"
@@ -3224,8 +3224,8 @@
   {
     "item": "Lurker-skin Sheath",
     "rarity": "Gold",
-    "location": "Treasure Chests inside the Vile Manse Public Dungeon in Reaper’s March ",
-    "type": "Mora’s Whisperers Mythic",
+    "location": "Treasure Chests inside the Vile Manse Public Dungeon in Reaper's March ",
+    "type": "Mora's Whisperers Mythic",
     "difficulty": "Master",
     "drop_area": "High Isle",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Lurker-skin_Sheath.png"
@@ -3234,13 +3234,13 @@
     "item": "Meteoric Beads",
     "rarity": "Gold",
     "location": "Mages Guild daily quest reward coffer ",
-    "type": "Sea-Serpent’s Coil Mythic",
+    "type": "Sea-Serpent's Coil Mythic",
     "difficulty": "Master",
     "drop_area": "High Isle",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Meteoric_Beads.png"
   },
   {
-    "item": "Nighthunter’s Cowl",
+    "item": "Nighthunter's Cowl",
     "rarity": "Purple",
     "location": "North-East of Banished Refuge (Striking Locale) on a cliff right next to a waterfall, the Lead is in a pile of Druidic Arrows on the ground. When you reach the waterfall, walk up the little cliff to the right. ",
     "type": "Hat",
@@ -3269,7 +3269,7 @@
   {
     "item": "Petrified Oak Loop",
     "rarity": "Gold",
-    "location": "Safeboxes & Thieves Troves in the Murkmire zone (Please turn off Auto-loot, so Safebox doesn’t disappear)",
+    "location": "Safeboxes & Thieves Troves in the Murkmire zone (Please turn off Auto-loot, so Safebox doesn't disappear)",
     "type": "Oakensoul Ring Mythic",
     "difficulty": "Master",
     "drop_area": "High Isle",
@@ -3297,7 +3297,7 @@
     "item": "Sclerotic Tentacle",
     "rarity": "Gold",
     "location": "Watchlings inside Oblivion Portals (inside Atoll of Immolation) in the the Deadlands zone.. Also drops from Watchlings in the Deadland zone itself.",
-    "type": "Mora’s Whisperers Mythic",
+    "type": "Mora's Whisperers Mythic",
     "difficulty": "Master",
     "drop_area": "High Isle",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Sclerotic_Tentacle.png"
@@ -3315,7 +3315,7 @@
     "item": "Sea Silver Chain",
     "rarity": "Gold",
     "location": "Jewelry Survey in any zone",
-    "type": "Sea-Serpent’s Coil Mythic",
+    "type": "Sea-Serpent's Coil Mythic",
     "difficulty": "Master",
     "drop_area": "High Isle",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Sea_Silver_Chain.png"
@@ -3324,7 +3324,7 @@
     "item": "Seeker-sinew Thread",
     "rarity": "Gold",
     "location": "Clothing Nodes (Torn Cloth) in the Deadlands zone",
-    "type": "Mora’s Whisperers Mythic",
+    "type": "Mora's Whisperers Mythic",
     "difficulty": "Master",
     "drop_area": "High Isle",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Seeker-sinew_Thread.png"
@@ -3332,8 +3332,8 @@
   {
     "item": "Singersteel Clasp",
     "rarity": "Gold",
-    "location": "Treasure Chests in the Alik’r Desert zone",
-    "type": "Lefthander’s War Girdle Mythic",
+    "location": "Treasure Chests in the Alik'r Desert zone",
+    "type": "Lefthander's War Girdle Mythic",
     "difficulty": "Master",
     "drop_area": "High Isle",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Singersteel_Clasp.png"
@@ -3351,7 +3351,7 @@
     "item": "Steel Serpent Fangs",
     "rarity": "Gold",
     "location": "Serpent Bog World Boss in High Isle zone",
-    "type": "Sea-Serpent’s Coil Mythic",
+    "type": "Sea-Serpent's Coil Mythic",
     "difficulty": "Master",
     "drop_area": "High Isle",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Steel_Serpent_Fangs.png"
@@ -3368,7 +3368,7 @@
   {
     "item": "Stonelore Circle Effigy",
     "rarity": "Blue",
-    "location": "Reward for excavating the Ancient Mariner’s Sextant lead",
+    "location": "Reward for excavating the Ancient Mariner's Sextant lead",
     "type": "Treasure",
     "difficulty": "Advanced",
     "drop_area": "High Isle",
@@ -3378,7 +3378,7 @@
     "item": "Totambu Chrysocollas",
     "rarity": "Gold",
     "location": "Found in Shell Trove from Geysers in the Summerset zone",
-    "type": "Lefthander’s War Girdle Mythic",
+    "type": "Lefthander's War Girdle Mythic",
     "difficulty": "Master",
     "drop_area": "High Isle",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Totambu_Chrysocollas.png"
@@ -3387,7 +3387,7 @@
     "item": "Twitching Eyeball",
     "rarity": "Gold",
     "location": "Watcher Boss in Imperial City Prison Dungeon",
-    "type": "Mora’s Whisperers Mythic",
+    "type": "Mora's Whisperers Mythic",
     "difficulty": "Master",
     "drop_area": "High Isle",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Twitching_Eyeball.png"
@@ -3416,7 +3416,7 @@
     "location": "Treasure Map Chest",
     "type": "Motif",
     "difficulty": "Simple",
-    "drop_area": "Khenarthi’s Roost",
+    "drop_area": "Khenarthi's Roost",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -3425,7 +3425,7 @@
     "location": "Treasure Map Chest",
     "type": "Motif",
     "difficulty": "Simple",
-    "drop_area": "Khenarthi’s Roost",
+    "drop_area": "Khenarthi's Roost",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -3434,7 +3434,7 @@
     "location": "Treasure Map Chest",
     "type": "Motif",
     "difficulty": "Intermediate",
-    "drop_area": "Khenarthi’s Roost",
+    "drop_area": "Khenarthi's Roost",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -3443,7 +3443,7 @@
     "location": "Treasure Map Chest",
     "type": "Motif",
     "difficulty": "Intermediate",
-    "drop_area": "Khenarthi’s Roost",
+    "drop_area": "Khenarthi's Roost",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -3452,25 +3452,25 @@
     "location": "Reward for excavating Khenarthi Skooma Pipe",
     "type": "Treasure",
     "difficulty": "Intermediate",
-    "drop_area": "Khenarthi’s Roost",
+    "drop_area": "Khenarthi's Roost",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Stick_with_String.png"
   },
   {
-    "item": "Cat’s Eye Prism",
+    "item": "Cat's Eye Prism",
     "rarity": "Gold",
     "location": "Psijic Portal, Nodes",
     "type": "Furnishing",
     "difficulty": "Master",
-    "drop_area": "Khenarthi’s Roost",
+    "drop_area": "Khenarthi's Roost",
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Cat%27s_Eye_Prism.png"
   },
   {
     "item": "Hecatomb Tassets",
     "rarity": "Gold",
-    "location": "Lead drops in IMPERIAL CITY from General Kryozote, Zamachar, Ebral & Krosogar, Imperial City Sewers, Emperor Leovic Boss (Only the dig site is in Khenarthi’s Roost)",
-    "type": "Bloodlord’s Embrace Part",
+    "location": "Lead drops in IMPERIAL CITY from General Kryozote, Zamachar, Ebral & Krosogar, Imperial City Sewers, Emperor Leovic Boss (Only the dig site is in Khenarthi's Roost)",
+    "type": "Bloodlord's Embrace Part",
     "difficulty": "Master",
-    "drop_area": "Khenarthi’s Roost",
+    "drop_area": "Khenarthi's Roost",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Torn_Habit.png"
   },
   {
@@ -3479,25 +3479,25 @@
     "location": "Freebie Starter Lead",
     "type": "Treasure",
     "difficulty": "Simple",
-    "drop_area": "Khenarthi’s Roost",
+    "drop_area": "Khenarthi's Roost",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Pipe.png"
   },
   {
-    "item": "Pilazjo’s Training Blade",
+    "item": "Pilazjo's Training Blade",
     "rarity": "Purple",
     "location": "Reward for excavating Ancient Fishing Rod",
     "type": "Treasure",
     "difficulty": "Advanced",
-    "drop_area": "Khenarthi’s Roost",
+    "drop_area": "Khenarthi's Roost",
     "image_path": "src/public/images/antiquities-icons/ON-icon-misc-Sword_Blade.png"
   },
   {
-    "item": "Sweet Khenarthi’s Song",
+    "item": "Sweet Khenarthi's Song",
     "rarity": "Purple",
     "location": "Thieves Trove, Treasure Map, Kwama Worker Random Monster, Chest, Enchanting & Cloth Node",
     "type": "Furnishing",
     "difficulty": "Advanced",
-    "drop_area": "Khenarthi’s Roost",
+    "drop_area": "Khenarthi's Roost",
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Sweet_Khenarthi%27s_Song.png"
   },
   {
@@ -3539,7 +3539,7 @@
   {
     "item": "Hollowbone Wind Chimes",
     "rarity": "Purple",
-    "location": "Public Dungeon Bosses, World Bosses, Chest, Fighter’s Guild Daedra Warp, Thieve Troves, Backpacks",
+    "location": "Public Dungeon Bosses, World Bosses, Chest, Fighter's Guild Daedra Warp, Thieve Troves, Backpacks",
     "type": "Furnishing",
     "difficulty": "Advanced",
     "drop_area": "Malabal Tor",
@@ -3555,7 +3555,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-achievement-Wormcrusher.png"
   },
   {
-    "item": "Silvenar’s Scepter",
+    "item": "Silvenar's Scepter",
     "rarity": "Purple",
     "location": "Reward for excavating Jeweled Ayleid Scabbard",
     "type": "Treasure",
@@ -3573,7 +3573,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Silvenari_Sap-Stone.png"
   },
   {
-    "item": "Spinner’s Singing Bone",
+    "item": "Spinner's Singing Bone",
     "rarity": "Green",
     "location": "Freebie Starter Lead",
     "type": "Treasure",
@@ -3609,7 +3609,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Contraption.png"
   },
   {
-    "item": "Nisswo’s Soul Tender",
+    "item": "Nisswo's Soul Tender",
     "rarity": "Purple",
     "location": "Safebox at the armorer in Lilmoth, Treasure Map, World Boss Bok-Xul, Any Boss in Cavern Delve",
     "type": "Furnishing",
@@ -3618,7 +3618,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Nisswo%27s_Soul_Tender.png"
   },
   {
-    "item": "Stone-Chief’s Xul-Vaat",
+    "item": "Stone-Chief's Xul-Vaat",
     "rarity": "Blue",
     "location": "Reward for excavating Naga Skull-Trap",
     "type": "Treasure",
@@ -3629,7 +3629,7 @@
   {
     "item": "Vakka Bok Sun Bowl",
     "rarity": "Purple",
-    "location": "Reward for excavating Stone- Chief’s Xul-Vaat",
+    "location": "Reward for excavating Stone- Chief's Xul-Vaat",
     "type": "Treasure",
     "difficulty": "Advanced",
     "drop_area": "Murkmire",
@@ -3639,7 +3639,7 @@
     "item": "Wolf-Tail Sash",
     "rarity": "Gold",
     "location": "Murkmire Foul Fishing Spots",
-    "type": "Harpooner’s Wading Kilt part",
+    "type": "Harpooner's Wading Kilt part",
     "difficulty": "Master",
     "drop_area": "Murkmire",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Wolf-Tail_Sash.png"
@@ -3690,7 +3690,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-lead-Khajiiti_Water_Vessel%2C_Large.png"
   },
   {
-    "item": "Moth Priest’s Cleansing Bowl",
+    "item": "Moth Priest's Cleansing Bowl",
     "rarity": "Purple",
     "location": "Imperial Sewer Bosses, Imperial Sewers Monsters, Imperial City Boss Volghass, Imperial Sewer General Malvicus (Story quest of Imperial City), Backpacks in Imperial City",
     "type": "Furnishing",
@@ -3713,7 +3713,7 @@
     "location": "Treasure Map Chest",
     "type": "Motif",
     "difficulty": "Simple",
-    "drop_area": "Reaper’s March",
+    "drop_area": "Reaper's March",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -3722,52 +3722,52 @@
     "location": "Treasure Map Chest",
     "type": "Motif",
     "difficulty": "Advanced",
-    "drop_area": "Reaper’s March",
+    "drop_area": "Reaper's March",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
-    "item": "Antique Map of Reaper’s March",
+    "item": "Antique Map of Reaper's March",
     "rarity": "Green",
-    "location": "Found in Rawl’Kha City at the “The Waxing Crescent” Inn (Pathfinder Achievement)",
+    "location": "Found in Rawl'Kha City at the “The Waxing Crescent” Inn (Pathfinder Achievement)",
     "type": "Furnishing",
     "difficulty": "Simple",
-    "drop_area": "Reaper’s March",
+    "drop_area": "Reaper's March",
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Reaper%27s_March_Map_02.png"
   },
   {
-    "item": "Hunt-Lord’s Djerid",
+    "item": "Hunt-Lord's Djerid",
     "rarity": "Blue",
     "location": "Reward for excavating Two Moons Censer",
     "type": "Treasure",
     "difficulty": "Intermediate",
-    "drop_area": "Reaper’s March",
+    "drop_area": "Reaper's March",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Blade.png"
   },
   {
     "item": "Khajiiti Arch, Rising",
     "rarity": "Purple",
-    "location": "Reaper’s March zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "location": "Reaper's March zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
     "type": "Furniture",
     "difficulty": "Advanced",
-    "drop_area": "Reaper’s March",
+    "drop_area": "Reaper's March",
     "image_path": "src/public/images/antiquities-icons/ON-icon-lead-Khajiiti_Arch%2C_Rising.png"
   },
   {
-    "item": "Malacath’s Brutal Ritual Dust",
+    "item": "Malacath's Brutal Ritual Dust",
     "rarity": "Gold",
     "location": "World Bosses",
-    "type": "Malacath’s Band of Brutality Part",
+    "type": "Malacath's Band of Brutality Part",
     "difficulty": "Master",
-    "drop_area": "Reaper’s March",
+    "drop_area": "Reaper's March",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Satchel.png"
   },
   {
-    "item": "Mane’s Frayed Crown",
+    "item": "Mane's Frayed Crown",
     "rarity": "Purple",
-    "location": "Reward for excavating Hunt-Lord’s Djerid",
+    "location": "Reward for excavating Hunt-Lord's Djerid",
     "type": "Treasure",
     "difficulty": "Advanced",
-    "drop_area": "Reaper’s March",
+    "drop_area": "Reaper's March",
     "image_path": "src/public/images/antiquities-icons/ON-icon-misc-Broken_Crown.png"
   },
   {
@@ -3776,25 +3776,25 @@
     "location": "Safebox",
     "type": "Furnishing",
     "difficulty": "Ultimate",
-    "drop_area": "Reaper’s March",
+    "drop_area": "Reaper's March",
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Moonlight_Mirror.png"
   },
   {
     "item": "Shock Lancer",
     "rarity": "Purple",
-    "location": "Gladiator’s Rucksack from Cyrodiil Daily Quest",
+    "location": "Gladiator's Rucksack from Cyrodiil Daily Quest",
     "type": "Container",
     "difficulty": "Advanced",
-    "drop_area": "Reaper’s March",
+    "drop_area": "Reaper's March",
     "image_path": "src/public/images/antiquities-icons/ON-icon-misc-Crate.png"
   },
   {
-    "item": "Sorcerer-King’s Blade",
+    "item": "Sorcerer-King's Blade",
     "rarity": "Gold",
     "location": "Cheydinhal + Vlastrus Quest Reward",
     "type": "Furnishing",
     "difficulty": "Master",
-    "drop_area": "Reaper’s March",
+    "drop_area": "Reaper's March",
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Sorcerer-King%27s_Blade.png"
   },
   {
@@ -3803,7 +3803,7 @@
     "location": "Freebie Starter Lead",
     "type": "Treasure",
     "difficulty": "Simple",
-    "drop_area": "Reaper’s March",
+    "drop_area": "Reaper's March",
     "image_path": "src/public/images/antiquities-icons/ON-icon-food-Fondue.png"
   },
   {
@@ -3870,7 +3870,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Remnant_of_the_False_Tower.png"
   },
   {
-    "item": "Riven King’s Throne",
+    "item": "Riven King's Throne",
     "rarity": "Purple",
     "location": "Safebox, Daedric Incursion Random World Event, Wood Node, Thieves Trove, Chests",
     "type": "Furnishing",
@@ -3891,7 +3891,7 @@
     "item": "Thirsting Girdle",
     "rarity": "Gold",
     "location": "Last Boss Boss Crypts of Hearts 1",
-    "type": "Bloodlord’s Embrace Part",
+    "type": "Bloodlord's Embrace Part",
     "difficulty": "Master",
     "drop_area": "Rivenspire",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Cartographer%27s_Belt.png"
@@ -3917,7 +3917,7 @@
   {
     "item": "Antique Map of Shadowfen",
     "rarity": "Green",
-    "location": "Found in Stormhold City at the “Coin Brothers’ Cornerclub Inn (Pathfinder Achievement)",
+    "location": "Found in Stormhold City at the “Coin Brothers' Cornerclub Inn (Pathfinder Achievement)",
     "type": "Furnishing",
     "difficulty": "Simple",
     "drop_area": "Shadowfen",
@@ -3927,13 +3927,13 @@
     "item": "Bog-Blue Jasper Fetish",
     "rarity": "Gold",
     "location": "Ruins of Mazzatun Dungeon last boss",
-    "type": "Harpooner’s Wading Kilt part",
+    "type": "Harpooner's Wading Kilt part",
     "difficulty": "Master",
     "drop_area": "Shadowfen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Bog-Blue_Jasper_Fetish.png"
   },
   {
-    "item": "Child’s Ragged Tree Doll",
+    "item": "Child's Ragged Tree Doll",
     "rarity": "Green",
     "location": "Freebie Starter Lead",
     "type": "Treasure",
@@ -3944,8 +3944,8 @@
   {
     "item": "Fanged Cuirass",
     "rarity": "Gold",
-    "location": "Public Dungeon Boss (Sanguine’s Demense)",
-    "type": "Bloodlord’s Embrace Part",
+    "location": "Public Dungeon Boss (Sanguine's Demense)",
+    "type": "Bloodlord's Embrace Part",
     "difficulty": "Master",
     "drop_area": "Shadowfen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Heater.png"
@@ -3998,7 +3998,7 @@
   {
     "item": "Silver Wish Medallion",
     "rarity": "Blue",
-    "location": "Reward for excavating Child’s Ragged Tree Doll",
+    "location": "Reward for excavating Child's Ragged Tree Doll",
     "type": "Treasure",
     "difficulty": "Intermediate",
     "drop_area": "Shadowfen",
@@ -4008,7 +4008,7 @@
     "item": "Tide-Glass Beads",
     "rarity": "Gold",
     "location": "All water and alchemy nodes",
-    "type": "Harpooner’s Wading Kilt part",
+    "type": "Harpooner's Wading Kilt part",
     "difficulty": "Master",
     "drop_area": "Shadowfen",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Tide-Glass_Beads.png"
@@ -4097,7 +4097,7 @@
   {
     "item": "Antique Map of Stonefalls",
     "rarity": "Green",
-    "location": "Found in Davon’s Watch city at the “The Watch House” Inn (Pathfinder Achievement)",
+    "location": "Found in Davon's Watch city at the “The Watch House” Inn (Pathfinder Achievement)",
     "type": "Furnishing",
     "difficulty": "Simple",
     "drop_area": "Stonefalls",
@@ -4106,7 +4106,7 @@
   {
     "item": "Ashen Infernace Gate",
     "rarity": "Purple",
-    "location": "Safebox, Random Monsters, Treasure Chest, Crow’s Wood Public Dungeon",
+    "location": "Safebox, Random Monsters, Treasure Chest, Crow's Wood Public Dungeon",
     "type": "Furnishing",
     "difficulty": "Advanced",
     "drop_area": "Stonefalls",
@@ -4142,7 +4142,7 @@
   {
     "item": "Fire Lancer",
     "rarity": "Purple",
-    "location": "Gladiator’s Rucksack from Cyrodiil Daily Quest",
+    "location": "Gladiator's Rucksack from Cyrodiil Daily Quest",
     "type": "Container",
     "difficulty": "Advanced",
     "drop_area": "Stonefalls",
@@ -4160,7 +4160,7 @@
   {
     "item": "Torc Tonal Focus",
     "rarity": "Gold",
-    "location": "All Bosses in Crow’s Wood",
+    "location": "All Bosses in Crow's Wood",
     "type": "Torc of Tonal Constancy Part",
     "difficulty": "Master",
     "drop_area": "Stonefalls",
@@ -4214,17 +4214,17 @@
   {
     "item": "Dwarven Breastguard",
     "rarity": "Purple",
-    "location": "Earthforge Pressure Room 3, Curious Dwemer Rubble near the Orgnum’s Scale Clother Station",
+    "location": "Earthforge Pressure Room 3, Curious Dwemer Rubble near the Orgnum's Scale Clother Station",
     "type": "Ebon Dwarven Wolf Part",
     "difficulty": "Advanced",
     "drop_area": "Stormhaven",
     "image_path": "src/public/images/antiquities-icons/ON-icon-style_material-Dwemer_Scrap.png"
   },
   {
-    "item": "Malacath’s Brutal Ritual Oil",
+    "item": "Malacath's Brutal Ritual Oil",
     "rarity": "Gold",
     "location": "Public Dungeon Boss (Bonesnap Ruins)",
-    "type": "Malacath’s Band of Brutality Part",
+    "type": "Malacath's Band of Brutality Part",
     "difficulty": "Master",
     "drop_area": "Stormhaven",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Vase.png"
@@ -4239,7 +4239,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Figurine.png"
   },
   {
-    "item": "Noble Knight’s Rest",
+    "item": "Noble Knight's Rest",
     "rarity": "Purple",
     "location": "Treasure Map Chest, Public Dungeon Boss Bonesnap Ruins",
     "type": "Furnishing",
@@ -4262,7 +4262,7 @@
     "location": "Treasure Map Chest",
     "type": "Motif",
     "difficulty": "Simple",
-    "drop_area": "Stros M’kai",
+    "drop_area": "Stros M'kai",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -4271,7 +4271,7 @@
     "location": "Treasure Map Chest",
     "type": "Motif",
     "difficulty": "Intermediate",
-    "drop_area": "Stros M’kai",
+    "drop_area": "Stros M'kai",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -4280,7 +4280,7 @@
     "location": "Fishing (Saltwater)",
     "type": "Thrassian Strangler Part",
     "difficulty": "Master",
-    "drop_area": "Stros M’kai",
+    "drop_area": "Stros M'kai",
     "image_path": "src/public/images/antiquities-icons/ON-icon-style_material-Raw_Platinum.png"
   },
   {
@@ -4289,7 +4289,7 @@
     "location": "Safebox, Thieves Trove, Chest, Random Monsters, Nodes",
     "type": "Furnishing",
     "difficulty": "Advanced",
-    "drop_area": "Stros M’kai",
+    "drop_area": "Stros M'kai",
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Dwarven_Puzzle_Box.png"
   },
   {
@@ -4298,7 +4298,7 @@
     "location": "Reward for excavating Goblin Steam Mill",
     "type": "Treasure",
     "difficulty": "Advanced",
-    "drop_area": "Stros M’kai",
+    "drop_area": "Stros M'kai",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Book_Plate.png"
   },
   {
@@ -4307,7 +4307,7 @@
     "location": "Chest, Any random Monster in the zone",
     "type": "Furnishing",
     "difficulty": "Master",
-    "drop_area": "Stros M’kai",
+    "drop_area": "Stros M'kai",
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Dwemer_Star_Chart.png"
   },
   {
@@ -4316,7 +4316,7 @@
     "location": "Reward for excavating Hunding Sextant",
     "type": "Treasure",
     "difficulty": "Intermediate",
-    "drop_area": "Stros M’kai",
+    "drop_area": "Stros M'kai",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Contraption.png"
   },
   {
@@ -4325,7 +4325,7 @@
     "location": "Freebie Starter Lead",
     "type": "Treasure",
     "difficulty": "Simple",
-    "drop_area": "Stros M’kai",
+    "drop_area": "Stros M'kai",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Sextant.png"
   },
   {
@@ -4334,7 +4334,7 @@
     "location": "Wolves outside Bthzark, Dwarven Spider inside Ruins, Assassin Beetle Monster",
     "type": "Ebon Dwarven Wolf Part",
     "difficulty": "Intermediate",
-    "drop_area": "Stros M’kai",
+    "drop_area": "Stros M'kai",
     "image_path": "src/public/images/antiquities-icons/ON-icon-style_material-Dwemer_Scrap.png"
   },
   {
@@ -4374,7 +4374,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-lead-High_Elf_Altar%2C_Crystal.png"
   },
   {
-    "item": "Jurisreeve’s Eye",
+    "item": "Jurisreeve's Eye",
     "rarity": "Blue",
     "location": "Reward for excavating Apraxic Decanter",
     "type": "Treasure",
@@ -4383,9 +4383,9 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Cross.png"
   },
   {
-    "item": "Kinlord’s Tree of Aldmeris",
+    "item": "Kinlord's Tree of Aldmeris",
     "rarity": "Purple",
-    "location": "Reward for excavating Jurisreeve’s Eye",
+    "location": "Reward for excavating Jurisreeve's Eye",
     "type": "Treasure",
     "difficulty": "Advanced",
     "drop_area": "Summerset",
@@ -4583,7 +4583,7 @@
   {
     "item": "Darklight Gemstone",
     "rarity": "Gold",
-    "location": "Fathom’s Drift Delve, Lightkeeper Boss",
+    "location": "Fathom's Drift Delve, Lightkeeper Boss",
     "type": "Music Box, Glyphic Secrets",
     "difficulty": "Master",
     "drop_area": "Telvanni Peninsula",
@@ -4611,7 +4611,7 @@
     "item": "Ebony Crossed-Sword Chain",
     "rarity": "Gold",
     "location": "World Boss Daily Coffers in the Vvardenfell zone (Daily Location Info)",
-    "type": "Velothi Ur-Mage’s Amulet (Mythic)",
+    "type": "Velothi Ur-Mage's Amulet (Mythic)",
     "difficulty": "Master",
     "drop_area": "Telvanni Peninsula",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Ebony_Crossed-Sword_Chain.png"
@@ -4619,8 +4619,8 @@
   {
     "item": "Ebony Shalk Mounting",
     "rarity": "Gold",
-    "location": "Runemaster’s Acropolis World Boss",
-    "type": "Velothi Ur-Mage’s Amulet",
+    "location": "Runemaster's Acropolis World Boss",
+    "type": "Velothi Ur-Mage's Amulet",
     "difficulty": "Master",
     "drop_area": "Telvanni Peninsula",
     "image_path": "src/public/images/antiquities-icons/ON-icon-pet-Blue_Cloisonne_Clockwork_Shalk.png"
@@ -4674,7 +4674,7 @@
     "item": "Gold Mandibular Cradle",
     "rarity": "Gold",
     "location": "Boss in the Cammonnaruhn delve in the Telvanni Peninsula zone",
-    "type": "Velothi Ur-Mage’s Amulet",
+    "type": "Velothi Ur-Mage's Amulet",
     "difficulty": "Master",
     "drop_area": "Telvanni Peninsula",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Gold_Mandibular_Cradle.png"
@@ -4682,8 +4682,8 @@
   {
     "item": "Gold Shalk Clasp",
     "rarity": "Gold",
-    "location": "Scrivener’s Hall Dungeon Trophy Room Chests",
-    "type": "Velothi Ur-Mage’s Amulet",
+    "location": "Scrivener's Hall Dungeon Trophy Room Chests",
+    "type": "Velothi Ur-Mage's Amulet",
     "difficulty": "Master",
     "drop_area": "Telvanni Peninsula",
     "image_path": "src/public/images/antiquities-icons/ON-icon-pet-Firebelly_Shalk.png"
@@ -4746,7 +4746,7 @@
     "item": "Lucent Cabochon",
     "rarity": "Gold",
     "location": "Underweave Public Dungeon from any boss, Apocrypha zone",
-    "type": "Velothi Ur-Mage’s Amulet",
+    "type": "Velothi Ur-Mage's Amulet",
     "difficulty": "Master",
     "drop_area": "Telvanni Peninsula",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Lucent_Cabochon.png"
@@ -4905,7 +4905,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-reagent-Clam_Gall.png"
   },
   {
-    "item": "Sporecrafter’s Grinding Stone",
+    "item": "Sporecrafter's Grinding Stone",
     "rarity": "Gold",
     "location": "Bastion Nymic World Event Chests in Apocrypha and Telvanni Peninsula zones",
     "type": "Spore Savant Face Marks",
@@ -4914,7 +4914,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Reach_Grinding_Stones%2C_Nirncrux.png"
   },
   {
-    "item": "Sporecrafter’s Press",
+    "item": "Sporecrafter's Press",
     "rarity": "Gold",
     "location": "Runestones and Alchemy nodes (likely all resource nodes) in the Telvanni Peninsula zone",
     "type": "Spore Savant Body Marks",
@@ -4923,7 +4923,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Sporecrafter%27s_Mushroom_Stamp.png"
   },
   {
-    "item": "Sporecrafter’s Purse",
+    "item": "Sporecrafter's Purse",
     "rarity": "Gold",
     "location": "Daily Reward Coffer in the Telvanni Peninsula zone",
     "type": "Spore Savant Face Marks",
@@ -5220,7 +5220,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-style_material-Dwemer_Scrap.png"
   },
   {
-    "item": "Pale Order’s Golden Band",
+    "item": "Pale Order's Golden Band",
     "rarity": "Gold",
     "location": "Nighthollow Keep (Blackreach: Arkthzand Cavern, east side.) Follow the way, down the stairs on the right, read the “Ancient Text” paper on the table. (Long Respawn Time)",
     "type": "Ring of the Pale Order Part",
@@ -5292,9 +5292,9 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Vampiric_Stained_Glass.png"
   },
   {
-    "item": "Akaviri Lord’s Banner",
+    "item": "Akaviri Lord's Banner",
     "rarity": "Blue",
-    "location": "Reward for excavating Augur’s Bones",
+    "location": "Reward for excavating Augur's Bones",
     "type": "Treasure",
     "difficulty": "Intermediate",
     "drop_area": "The Rift",
@@ -5328,7 +5328,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-The_Rift_Map_02.png"
   },
   {
-    "item": "Augur’s Bones",
+    "item": "Augur's Bones",
     "rarity": "Green",
     "location": "Freebie Starter Lead",
     "type": "Treasure",
@@ -5348,16 +5348,16 @@
   {
     "item": "Ebony Fox Totem",
     "rarity": "Purple",
-    "location": "Safebox, Public Dungeon Boss The Lion’s Denn, Treasure Chest",
+    "location": "Safebox, Public Dungeon Boss The Lion's Denn, Treasure Chest",
     "type": "Furnishing",
     "difficulty": "Advanced",
     "drop_area": "The Rift",
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Ebony_Fox_Totem.png"
   },
   {
-    "item": "Giant Chieftain’s Crown",
+    "item": "Giant Chieftain's Crown",
     "rarity": "Purple",
-    "location": "Reward for excavating Akaviri Lord’s Banner",
+    "location": "Reward for excavating Akaviri Lord's Banner",
     "type": "Treasure",
     "difficulty": "Advanced",
     "drop_area": "The Rift",
@@ -5463,9 +5463,9 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Blackwood_Map.png"
   },
   {
-    "item": "Companion’s Coronet",
+    "item": "Companion's Coronet",
     "rarity": "Purple",
-    "location": "High king’s Chamber, Blue Palace",
+    "location": "High king's Chamber, Blue Palace",
     "type": "Major Adornment",
     "difficulty": "Advanced",
     "drop_area": "Western Skyrim",
@@ -5501,7 +5501,7 @@
   {
     "item": "Font of Auri-El",
     "rarity": "Gold",
-    "location": "Any Monster in Blackreach, Trash Monsters in Kyne’s Aegis Trial, Castle Thorn & Stone Garden Dungeon",
+    "location": "Any Monster in Blackreach, Trash Monsters in Kyne's Aegis Trial, Castle Thorn & Stone Garden Dungeon",
     "type": "Furnishing",
     "difficulty": "Master",
     "drop_area": "Western Skyrim",
@@ -5526,7 +5526,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-style_material-Dwemer_Scrap.png"
   },
   {
-    "item": "King’s Belt Plate",
+    "item": "King's Belt Plate",
     "rarity": "Purple",
     "location": "Reward for excavating Silvered Nord Drinking Horn",
     "type": "Treasure",
@@ -5562,7 +5562,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Horn.png"
   },
   {
-    "item": "Ysgramor’s Chosen Body Marking",
+    "item": "Ysgramor's Chosen Body Marking",
     "rarity": "Blue",
     "location": "At the end of Morthal Barrow from the Danger in the Holds Main Quest",
     "type": "Body Marking",
@@ -5571,7 +5571,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-body_marking-Ysgramor%27s_Chosen_Body_Marking.png"
   },
   {
-    "item": "Ysgramor’s Chosen Face Marking",
+    "item": "Ysgramor's Chosen Face Marking",
     "rarity": "Blue",
     "location": "Undearneath the Dragon Bridge",
     "type": "Head Marking",
@@ -5607,10 +5607,10 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Figurine.png"
   },
   {
-    "item": "Malacath’s Brutal Might Loop",
+    "item": "Malacath's Brutal Might Loop",
     "rarity": "Gold",
     "location": "Public Dungeon Boss Old Orsinium",
-    "type": "Malacath’s Band of Brutality Part",
+    "type": "Malacath's Band of Brutality Part",
     "difficulty": "Master",
     "drop_area": "Wrothgar",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Ring.png"
