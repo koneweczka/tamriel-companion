@@ -29,27 +29,13 @@ export function Antiquities() {
                       <AccordionLabel label={area.name} avatar={area.avatar} />
                     </Accordion.Control>
                     <Accordion.Panel>
-                      <Accordion>
-                        {location.areas.map((antiquityArea) => {
-                          const filteredAntiquities = antiquities.filter(
-                            (antiquity) => antiquity.drop_area === antiquityArea.name
-                          );
-
-                          return (
-                            <Accordion.Item key={antiquityArea.name} value={antiquityArea.name}>
-                              <Accordion.Control>
-                                {filteredAntiquities.length > 0 ? (
-                                  filteredAntiquities.map((antiquity) => (
-                                    <AntiquityCard key={antiquity.item} antiquity={antiquity} />
-                                  ))
-                                ) : (
-                                  <Text>No antiquities found for this area.</Text>
-                                )}
-                              </Accordion.Control>
-                            </Accordion.Item>
-                          );
-                        })}
-                      </Accordion>
+                      {antiquities
+                        .filter((antiquity) => antiquity.drop_area === area.name)
+                        .map((antiquity) => (
+                          <AntiquityCard key={antiquity.item} antiquity={antiquity} />
+                        ))}
+                      {antiquities.filter((antiquity) => antiquity.drop_area === area.name)
+                        .length === 0 && <Text>No antiquities found for this area.</Text>}
                     </Accordion.Panel>
                   </Accordion.Item>
                 ))}

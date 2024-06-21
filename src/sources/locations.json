@@ -82,15 +82,11 @@
     "areas": [
       {
         "name": "Coldharbour",
-        "avatar": "src/public/images/location-icons/ON-icon-alliance-Coldharbour.png"
+        "avatar": "src/public/images/location-icons/ON-icon-misc-Coldharbour.png"
       },
       {
         "name": "Craglorn",
-        "avatar": "src/public/images/location-icons/ON-icon-Craglorn.png"
-      },
-      {
-        "name": "Cyrodiil",
-        "avatar": "src/public/images/location-icons/ON-mapicon-Battle.png"
+        "avatar": "src/public/images/location-icons/ON-icon-misc-Craglorn.png"
       },
       {
         "name": "Eyevea",
@@ -103,76 +99,80 @@
     "name": "DLC Areas",
     "areas": [
       {
-        "name": "Wrothgar",
-        "avatar": "src/public/images/location-icons/ON-icon-store-Orsinium.png"
+        "name": "Artaeum",
+        "avatar": "src/public/images/location-icons/ON-icon-Psijic_Order.png"
       },
       {
-        "name": "Hew's Bane",
-        "avatar": "src/public/images/location-icons/ON-icon-Thieves_Guild.png"
+        "name": "Apocrypha",
+        "avatar": "src/public/images/location-icons/ON-icon-alliance-Apocrypha.png"
+      },
+      {
+        "name": "Blackwood",
+        "avatar": "src/public/images/location-icons/ON-icon-Blackwood.png"
+      },
+      {
+        "name": "Clockwork City",
+        "avatar": "src/public/images/location-icons/ON-icon-Clockwork_City.png"
+      },
+      {
+        "name": "The Deadlands",
+        "avatar": "src/public/images/location-icons/ON-icon-the_Deadlands.png"
+      },
+      {
+        "name": "Galen",
+        "avatar": "src/public/images/location-icons/ON-icon-pet-Phoenix_Moth.png"
       },
       {
         "name": "Gold Coast",
         "avatar": "src/public/images/location-icons/ON-icon-Dark_Brotherhood.png"
       },
       {
-        "name": "Vvardenfell",
-        "avatar": "src/public/images/location-icons/ON-icon-alliance-Vivec.png"
-      },
-      {
-        "name": "Clockwork City",
-        "avatar": "src/public/images/location-icons/ON-icon-Sotha_Sil.png"
-      },
-      {
-        "name": "Summerset",
-        "avatar": "src/public/images/location-icons/ON-icon-alliance-Alinor.png"
-      },
-      {
-        "name": "Artaeum",
-        "avatar": "src/public/images/location-icons/ON-icon-Psijic_Order.png"
-      },
-      {
-        "name": "Murkmire",
-        "avatar": "src/public/images/location-icons/ON-icon-store-Murkmire.png"
-      },
-      {
-        "name": "Northern Elsweyr",
-        "avatar": "src/public/images/location-icons/ON-icon-alliance-Elsweyr.png"
-      },
-      {
-        "name": "Southern Elsweyr",
-        "avatar": "src/public/images/location-icons/ON-icon-store-Dragonhold.png"
-      },
-      {
-        "name": "Western Skyrim",
-        "avatar": "src/public/images/location-icons/ON-icon-alliance-Solitude.png"
-      },
-      {
-        "name": "The Reach",
-        "avatar": "src/public/images/location-icons/ON-icon-store-Markarth.png"
-      },
-      {
-        "name": "Blackwood",
-        "avatar": "src/public/images/location-icons/ON-icon-Blackwood_02.png"
-      },
-      {
-        "name": "Deadlands",
-        "avatar": "src/public/images/location-icons/ON-icon-store-Deadlands.png"
+        "name": "Hew's Bane",
+        "avatar": "src/public/images/location-icons/ON-icon-Thieves_Guild.png"
       },
       {
         "name": "High Isle",
-        "avatar": "src/public/images/location-icons/ON-icon-High_Isle_02.png"
+        "avatar": "src/public/images/location-icons/ON-icon-High_Isle.png"
       },
       {
-        "name": "Galen",
-        "avatar": "src/public/images/location-icons/ON-icon-store-Firesong.png"
+        "name": "Murkmire",
+        "avatar": "src/public/images/location-icons/ON-icon-Murkmire.png"
+      },
+      {
+        "name": "Northern Elsweyr",
+        "avatar": "src/public/images/location-icons/ON-icon-store-Elsweyr.png"
+      },
+      {
+        "name": "The Reach",
+        "avatar": "src/public/images/location-icons/400px-ON-icon-Markarth.png"
+      },
+      {
+        "name": "Southern Elsweyr",
+        "avatar": "src/public/images/location-icons/ON-icon-Dragonhold.png"
+      },
+      {
+        "name": "Summerset",
+        "avatar": "src/public/images/location-icons/400px-ON-icon-Summerset.png"
       },
       {
         "name": "Telvanni Peninsula",
         "avatar": "src/public/images/location-icons/ON-icon-alliance-Necrom.png"
       },
       {
-        "name": "Apocrypha",
-        "avatar": "src/public/images/location-icons/ON-icon-alliance-Apocrypha.png"
+        "name": "Vvardenfell",
+        "avatar": "src/public/images/location-icons/400px-ON-icon-Morrowind.png"
+      },
+      {
+        "name": "Western Skyrim",
+        "avatar": "src/public/images/location-icons/ON-icon-Greymoor.png"
+      },
+      {
+        "name": "West Weald",
+        "avatar": "src/public/images/location-icons/ON-icon-Gold_Road.png"
+      },
+      {
+        "name": "Wrothgar",
+        "avatar": "src/public/images/location-icons/ON-icon-Orsinium.png"
       }
     ],
     "avatar": "src/public/images/location-icons/ON-icon-Zone_DLC.png"

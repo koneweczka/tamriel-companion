@@ -72,7 +72,7 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Stick_with_String.png"
   },
   {
-    "item": "Na-Totambu Two-Fingered Gauntlest",
+    "item": "Na-Totambu Two-Finger Gauntlet",
     "rarity": "Blue",
     "location": "Reward for excavating Satakal Skinrazer",
     "type": "Treasure",
@@ -123,7 +123,7 @@
     "type": "Furniture",
     "difficulty": "Advanced",
     "drop_area": "Alik'r Desert",
-    "image_path": "src/public/images/location-icons/ON-icon-lead-Stone_Relief%2C_Yokudan.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-lead-Stone_Relief%2C_Yokudan.png"
   },
   {
     "item": "Ancestor Silk Ribbon",
@@ -132,7 +132,7 @@
     "location": "Infinite Archive Chests",
     "difficulty": "Master",
     "drop_area": "Apocrypha",
-    "image_path": "src/public/images/location-icons/ON-icon-fragment-Ancestor_Silk_Ribbon.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Ancestor_Silk_Ribbon.png"
   },
   {
     "item": "Antique Cipher Vestments",
@@ -146,11 +146,11 @@
   {
     "item": "Apocrypha Fossil, Ribcage",
     "rarity": "Blue",
-    "location": "Can be found in the Endless Archive (Location)",
+    "location": "Can be found in the Endless Archive",
     "type": "Furniture",
     "difficulty": "Intermediate",
     "drop_area": "Apocrypha",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Apocrypha_Fossil%2C_Ribcage.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Apocrypha_Fossil,_Ribcage.png"
   },
   {
     "item": "Apocrypha Fossil, Slug",
@@ -159,7 +159,7 @@
     "type": "Furniture",
     "difficulty": "Intermediate",
     "drop_area": "Apocrypha",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Apocrypha_Fossil%2C_Slug.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Apocrypha_Fossil,_Slug.png"
   },
   {
     "item": "Apocrypha Fossil, Tree",
@@ -168,7 +168,7 @@
     "type": "Furniture",
     "difficulty": "Intermediate",
     "drop_area": "Apocrypha",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Apocrypha_Fossil%2C_Tree.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Apocrypha_Fossil,_Tree.png"
   },
   {
     "item": "Apocrypha Fossil, Wall Beast",
@@ -177,7 +177,7 @@
     "type": "Furniture",
     "difficulty": "Intermediate",
     "drop_area": "Apocrypha",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Apocrypha_Fossil%2C_Wall_Beast.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Apocrypha_Fossil,_Wall_Beast.png"
   },
   {
     "item": "Apocrypha Stone Base",
@@ -195,7 +195,7 @@
     "type": "Vision of Mora",
     "difficulty": "Master",
     "drop_area": "Apocrypha",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Statue%2C_Bronze_Tentacle.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Statue,_Bronze_Tentacle.png"
   },
   {
     "item": "Archival Fortune Pouch",
@@ -249,7 +249,7 @@
     "type": "Apocryphal Clothier Station",
     "difficulty": "Master",
     "drop_area": "Apocrypha",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Deadlands_Grate%2C_Large.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-The Deadlands_Grate,_Large.png"
   },
   {
     "item": "Endless Apocryphal Light",
@@ -357,7 +357,7 @@
     "type": "Furniture",
     "difficulty": "Advanced",
     "drop_area": "Apocrypha",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Scrying_Brazier%2C_Short.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Scrying_Brazier,_Short.png"
   },
   {
     "item": "Scrying Brazier, Tall",
@@ -366,7 +366,7 @@
     "type": "Furniture",
     "difficulty": "Advanced",
     "drop_area": "Apocrypha",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Scrying_Brazier%2C_Tall.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Scrying_Brazier,_Tall.png"
   },
   {
     "item": "Seeker Claw Quill",
@@ -393,7 +393,7 @@
     "type": "Treasure",
     "difficulty": "Intermediate",
     "drop_area": "Apocrypha",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Vial%2C_Delicate.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Vial,_Delicate.png"
   },
   {
     "item": "Watchful Light",
@@ -464,7 +464,7 @@
     "location": "Ondil Auridon Delve Boss",
     "type": "Pearls of Ehlnofey Part",
     "difficulty": "Master",
-    "drop_area": "Auridion",
+    "drop_area": "Auridon",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Beads.png"
   },
   {
@@ -473,7 +473,7 @@
     "location": "Thieves Troves in any zone",
     "type": "Aldmeri Symphonia part",
     "difficulty": "Advanced",
-    "drop_area": "Auridion",
+    "drop_area": "Auridon",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Golden_Seal.png"
   },
   {
@@ -482,7 +482,7 @@
     "location": "Treasure Map Chest",
     "type": "Motif",
     "difficulty": "Simple",
-    "drop_area": "Auridion",
+    "drop_area": "Auridon",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -491,7 +491,7 @@
     "location": "Treasure Map Chest",
     "type": "Motif",
     "difficulty": "Advanced",
-    "drop_area": "Auridion",
+    "drop_area": "Auridon",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -500,7 +500,7 @@
     "location": "Found in Firsthold City (up North) in the 'Overlook Inn' Barkeeper NPC (Requires Pathfinder Achievement)",
     "type": "Furnishing",
     "difficulty": "Simple",
-    "drop_area": "Auridion",
+    "drop_area": "Auridon",
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Auridon_Map_02.png"
   },
   {
@@ -509,7 +509,7 @@
     "location": "Reward for excavating Scale-Etched Slither Pipe",
     "type": "Treasure",
     "difficulty": "Advanced",
-    "drop_area": "Auridion",
+    "drop_area": "Auridon",
     "image_path": "src/public/images/antiquities-icons/ON-icon-misc-Diamond.png"
   },
   {
@@ -518,7 +518,7 @@
     "location": "Chests, Pack Merchants Bag",
     "type": "Furnishing",
     "difficulty": "Master",
-    "drop_area": "Auridion",
+    "drop_area": "Auridon",
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Echoes_of_Aldmeris.png"
   },
   {
@@ -527,7 +527,7 @@
     "location": "Freebie Starter Lead",
     "type": "Treasure",
     "difficulty": "Simple",
-    "drop_area": "Auridion",
+    "drop_area": "Auridon",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Token.png"
   },
   {
@@ -536,7 +536,7 @@
     "location": "All World Bosses",
     "type": "Thrassian Stranglers Part",
     "difficulty": "Master",
-    "drop_area": "Auridion",
+    "drop_area": "Auridon",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Inert_Anemone_Inlay.png"
   },
   {
@@ -545,7 +545,7 @@
     "location": "Safeboxes, Treasure Map Chests, Public Dungeon Boss, Random Monster, Thieves Troves",
     "type": "Furnishing",
     "difficulty": "Advanced",
-    "drop_area": "Auridion",
+    "drop_area": "Auridon",
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Maormeri_Serpent_Shrine.png"
   },
   {
@@ -554,7 +554,7 @@
     "location": "Banished Cells 1 Last Boss",
     "type": "Pearls of Ehlnofey Part",
     "difficulty": "Master",
-    "drop_area": "Auridion",
+    "drop_area": "Auridon",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Marbles.png"
   },
   {
@@ -563,7 +563,7 @@
     "location": "Reward for Excavating Festival of Defiance Token",
     "type": "Treasure",
     "difficulty": "Intermediate",
-    "drop_area": "Auridion",
+    "drop_area": "Auridon",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Pipe.png"
   },
   {
@@ -798,7 +798,7 @@
     "type": "Treasure",
     "difficulty": "Advanced",
     "drop_area": "Betnikh",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Rough_Block%2C_Dark_Stone.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Rough_Block,_Dark_Stone.png"
   },
   {
     "item": "Malacath's Brutal Scourge Hoop",
@@ -960,7 +960,7 @@
     "type": "Motif",
     "difficulty": "Simple",
     "drop_area": "Blackwood",
-    "image_path": ""
+    "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
     "item": "Antique Map of Blackwood",
@@ -1562,7 +1562,7 @@
     "location": "Limenauruus Boss at Tribune's Folley in the Gold Coast zone (Likely all bosses in that zone)",
     "type": "Belharza's Band Mythic",
     "difficulty": "Master",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Alessian_Sacramental_Oil.png"
   },
   {
@@ -1571,7 +1571,7 @@
     "location": "Treasure Map",
     "type": "Motif",
     "difficulty": "Simple",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -1580,7 +1580,7 @@
     "location": "Treasure Map",
     "type": "Motif",
     "difficulty": "Simple",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -1589,7 +1589,7 @@
     "location": "Treasure Map",
     "type": "Motif",
     "difficulty": "Simple",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -1598,7 +1598,7 @@
     "location": "Treasure Map",
     "type": "Motif",
     "difficulty": "Simple",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -1607,7 +1607,7 @@
     "location": "Treasure Map",
     "type": "Motif",
     "difficulty": "Advanced",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -1616,7 +1616,7 @@
     "location": "Treasure Map",
     "type": "Motif",
     "difficulty": "Simple",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -1625,7 +1625,7 @@
     "location": "Treasure Map",
     "type": "Motif",
     "difficulty": "Simple",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -1634,7 +1634,7 @@
     "location": "Treasure Map",
     "type": "Motif",
     "difficulty": "Intermediate",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -1643,7 +1643,7 @@
     "location": "Treasure Map",
     "type": "Motif",
     "difficulty": "Simple",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -1652,7 +1652,7 @@
     "location": "Treasure Map",
     "type": "Motif",
     "difficulty": "Intermediate",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -1661,7 +1661,7 @@
     "location": "Treasure Map",
     "type": "Motif",
     "difficulty": "Advanced",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -1670,7 +1670,7 @@
     "location": "Treasure Map",
     "type": "Motif",
     "difficulty": "Intermediate",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -1679,7 +1679,7 @@
     "location": "Treasure Map",
     "type": "Motif",
     "difficulty": "Intermediate",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -1688,7 +1688,7 @@
     "location": "Treasure Map",
     "type": "Motif",
     "difficulty": "Advanced",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -1697,16 +1697,16 @@
     "location": "Reward for excavating the Mindcleaver Clan Banner lead",
     "type": "Treasure",
     "difficulty": "Advanced",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Cleaver.png"
   },
   {
-    "item": "Antique Map of the Deadlands",
+    "item": "Antique Map of the The Deadlands",
     "rarity": "Purple",
-    "location": "Merchants walking around in the Deadlands zone",
+    "location": "Merchants walking around in the The Deadlands zone",
     "type": "Furnishing",
     "difficulty": "Advanced",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-The_Reach_Map_02.png"
   },
   {
@@ -1715,16 +1715,16 @@
     "location": "Shivering Shrine World Boss in Stonefalls",
     "type": "Spaulder of Ruin Mythic",
     "difficulty": "Master",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Ampoule.png"
   },
   {
     "item": "Bull's Head Gallery Rail",
     "rarity": "Gold",
-    "location": "Deadlands Daily Reward Coffers",
+    "location": "The Deadlands Daily Reward Coffers",
     "type": "Belharza's Band Mythic",
     "difficulty": "Master",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-armor-Ring_of_the_Pale_Order.png"
   },
   {
@@ -1733,7 +1733,7 @@
     "location": "Drops from Clannfears in any of the zones in ESO",
     "type": "Spaulder of Ruin Mythic",
     "difficulty": "Master",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Stole.png"
   },
   {
@@ -1742,7 +1742,7 @@
     "location": "Falkreath Hold Dungeon chests",
     "type": "Belharza's Band Mythic",
     "difficulty": "Master",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-misc-Ruby.png"
   },
   {
@@ -1751,16 +1751,16 @@
     "location": "Final boss Atoll of Immolation public dungeon (Oblivion Portal)",
     "type": "Daedric Enchanting Station",
     "difficulty": "Master",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Daedric_Enchanting_Apparatus.png"
   },
   {
     "item": "Dagon's Scalding Gibbet",
     "rarity": "Gold",
-    "location": "Wandering Bosses in the Deadlands zone",
+    "location": "Wandering Bosses in the The Deadlands zone",
     "type": "Furnishing",
     "difficulty": "Master",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Essence_Box.png"
   },
   {
@@ -1769,16 +1769,16 @@
     "location": "Treasure Chest in the Gold Coast",
     "type": "Belharza's Band Mythic",
     "difficulty": "Master",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Etched_Silver_Horns.png"
   },
   {
     "item": "Firescourge Band",
     "rarity": "Gold",
-    "location": "Deadlands Daily Reward Coffer",
+    "location": "The Deadlands Daily Reward Coffer",
     "type": "Markyn Ring of Majesty Mythic",
     "difficulty": "Master",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Ruby.png"
   },
   {
@@ -1787,7 +1787,7 @@
     "location": "Daedric stone near a dead tree north of the Wretched Spire Wayshrine",
     "type": "Cosmetic Hat",
     "difficulty": "Advanced",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-hat-Ironclad_Sarcoshroud.png"
   },
   {
@@ -1796,7 +1796,7 @@
     "location": "Zone Starter Lead",
     "type": "Treasure",
     "difficulty": "Simple",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Letter_Opener.png"
   },
   {
@@ -1805,16 +1805,16 @@
     "location": "Reward for excavating the Kynreeve's Law-Cane lead",
     "type": "Treasure",
     "difficulty": "Intermediate",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Red_Banner.png"
   },
   {
     "item": "Mindcleaver Loop",
     "rarity": "Gold",
-    "location": "Den of the Unmaker World Boss in the Deadlands Zone",
+    "location": "Den of the Unmaker World Boss in the The Deadlands Zone",
     "type": "Markyn Ring of Majesty Mythic",
     "difficulty": "Master",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Ring.png"
   },
   {
@@ -1823,16 +1823,16 @@
     "location": "Treasure Chests in Coldharbour zone",
     "type": "Markyn Ring of Majesty Mythic",
     "difficulty": "Master",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Morpholith_Shank.png"
   },
   {
     "item": "Petrified Daedroth Horn",
     "rarity": "Gold",
-    "location": "The Abomination Cradle World Boss in the Deadlands zone.",
+    "location": "The Abomination Cradle World Boss in the The Deadlands zone.",
     "type": "Spaulder of Ruin Mythic",
     "difficulty": "Master",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Horn.png"
   },
   {
@@ -1841,26 +1841,26 @@
     "location": "Trashmonsters in Banished Cells 1 and 2",
     "type": "Markyn Ring of Majesty Mythic",
     "difficulty": "Master",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Ruinblood_Coil.png"
   },
   {
     "item": "Searing Gem",
     "rarity": "Gold",
-    "location": "Deadrat mobs in Deadlands",
+    "location": "Deadrat mobs in The Deadlands",
     "type": "Markyn Ring of Majesty Mythic",
     "difficulty": "Master",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Gemstone_Tear_Red.png"
   },
   {
     "item": "Shelf, Black Soul Gems",
     "rarity": "Purple",
-    "location": "Deadlands zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
+    "location": "The Deadlands zone: Drops from all Loot Tables (Example: Monsters, Treasure Chests, Safeboxes etc.)",
     "type": "Furniture",
     "difficulty": "Advanced",
-    "drop_area": "Deadlands",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-lead-Shelf%2C_Black_Soul_Gems.png"
+    "drop_area": "The Deadlands",
+    "image_path": "src/public/images/antiquities-icons/ON-icon-lead-Shelf,_Black_Soul_Gems.png"
   },
   {
     "item": "Spell-Scorched Table",
@@ -1868,7 +1868,7 @@
     "location": "Safeboxes in the Fargrave zone",
     "type": "Daedric Enchanting Station",
     "difficulty": "Master",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Spell-Scorched_Table.png"
   },
   {
@@ -1877,16 +1877,16 @@
     "location": "Any monster in the Black Drake Villa dungeon",
     "type": "Belharza's Band Mythic",
     "difficulty": "Master",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-minor_adornment-Ring.png"
   },
   {
     "item": "Unhallowed Runic Tome",
     "rarity": "Gold",
-    "location": "Rune node in the Deadlands zone overland",
+    "location": "Rune node in the The Deadlands zone overland",
     "type": "Daedric Enchanting Station",
     "difficulty": "Master",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-book-Generic_211.png"
   },
   {
@@ -1895,7 +1895,7 @@
     "location": "Leyawiin safeboxes, Blackwood safeboxes",
     "type": "Spaulder of Ruin Mythic",
     "difficulty": "Master",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-fragment-Void_Alloy_Lame_Plates.png"
   },
   {
@@ -1904,7 +1904,7 @@
     "location": "Drops from any Dremora type monster in any of the zones in ESO",
     "type": "Spaulder of Ruin Mythic",
     "difficulty": "Master",
-    "drop_area": "Deadlands",
+    "drop_area": "The Deadlands",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Nail.png"
   },
   {
@@ -1968,7 +1968,7 @@
     "type": "Furniture",
     "difficulty": "Advanced",
     "drop_area": "Deshaan",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-lead-Dark_Elf_Altar%2C_Ceremonial.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-lead-Dark_Elf_Altar,_Ceremonial.png"
   },
   {
     "item": "Dwarven Articulated Paws",
@@ -2184,7 +2184,7 @@
     "type": "Stormweaver's Cavort Mythic",
     "difficulty": "Master",
     "drop_area": "Galen",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Vines%2C_Thornpinch.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Vines,_Thornpinch.png"
   },
   {
     "item": "Chimera-Hair Brush",
@@ -2414,7 +2414,7 @@
   {
     "item": "Silverthread Stitching",
     "rarity": "Gold",
-    "location": "Banished Cells 2 Endboss, Auridion zone",
+    "location": "Banished Cells 2 Endboss, Auridon zone",
     "type": "Syrabane's Ward Mythic",
     "difficulty": "Master",
     "drop_area": "Galen",
@@ -2472,7 +2472,7 @@
     "type": "Faun's Lark Cladding Mythic",
     "difficulty": "Master",
     "drop_area": "Galen",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Solitude_Rug%2C_Cowhide.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Solitude_Rug,_Cowhide.png"
   },
   {
     "item": "Withered Garlic Gorget",
@@ -2535,7 +2535,7 @@
     "type": "Furniture",
     "difficulty": "Advanced",
     "drop_area": "Glenumbra",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-lead-Breton_Well%2C_Storm_Grey.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-lead-Breton_Well,_Storm_Grey.png"
   },
   {
     "item": "Goblet Gorget",
@@ -2769,7 +2769,7 @@
     "type": "Furnishing",
     "difficulty": "Ultimate",
     "drop_area": "Grahtwood",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-St._Alessia%2C_Paravant.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-St._Alessia,_Paravant.png"
   },
   {
     "item": "Ancestral High Elf: Daggers",
@@ -3080,7 +3080,7 @@
   {
     "item": "Bloodshot Oculus",
     "rarity": "Gold",
-    "location": "any Watcher monster (confirmed drops in Atoll of Immolation from Deadlands Portal and the Cauldron dungeon)",
+    "location": "any Watcher monster (confirmed drops in Atoll of Immolation from The Deadlands Portal and the Cauldron dungeon)",
     "type": "Mora's Whisperers Mythic",
     "difficulty": "Master",
     "drop_area": "High Isle",
@@ -3296,7 +3296,7 @@
   {
     "item": "Sclerotic Tentacle",
     "rarity": "Gold",
-    "location": "Watchlings inside Oblivion Portals (inside Atoll of Immolation) in the the Deadlands zone.. Also drops from Watchlings in the Deadland zone itself.",
+    "location": "Watchlings inside Oblivion Portals (inside Atoll of Immolation) in the the The Deadlands zone.. Also drops from Watchlings in the Deadland zone itself.",
     "type": "Mora's Whisperers Mythic",
     "difficulty": "Master",
     "drop_area": "High Isle",
@@ -3323,7 +3323,7 @@
   {
     "item": "Seeker-sinew Thread",
     "rarity": "Gold",
-    "location": "Clothing Nodes (Torn Cloth) in the Deadlands zone",
+    "location": "Clothing Nodes (Torn Cloth) in the The Deadlands zone",
     "type": "Mora's Whisperers Mythic",
     "difficulty": "Master",
     "drop_area": "High Isle",
@@ -3687,7 +3687,7 @@
     "type": "Furniture",
     "difficulty": "Advanced",
     "drop_area": "Northern Elsweyr",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-lead-Khajiiti_Water_Vessel%2C_Large.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-lead-Khajiiti_Water_Vessel,_Large.png"
   },
   {
     "item": "Moth Priest's Cleansing Bowl",
@@ -3750,7 +3750,7 @@
     "type": "Furniture",
     "difficulty": "Advanced",
     "drop_area": "Reaper's March",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-lead-Khajiiti_Arch%2C_Rising.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-lead-Khajiiti_Arch,_Rising.png"
   },
   {
     "item": "Malacath's Brutal Ritual Dust",
@@ -4262,7 +4262,7 @@
     "location": "Treasure Map Chest",
     "type": "Motif",
     "difficulty": "Simple",
-    "drop_area": "Stros M'kai",
+    "drop_area": "Stros M'Kai",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -4271,7 +4271,7 @@
     "location": "Treasure Map Chest",
     "type": "Motif",
     "difficulty": "Intermediate",
-    "drop_area": "Stros M'kai",
+    "drop_area": "Stros M'Kai",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Letter_02.png"
   },
   {
@@ -4280,7 +4280,7 @@
     "location": "Fishing (Saltwater)",
     "type": "Thrassian Strangler Part",
     "difficulty": "Master",
-    "drop_area": "Stros M'kai",
+    "drop_area": "Stros M'Kai",
     "image_path": "src/public/images/antiquities-icons/ON-icon-style_material-Raw_Platinum.png"
   },
   {
@@ -4289,7 +4289,7 @@
     "location": "Safebox, Thieves Trove, Chest, Random Monsters, Nodes",
     "type": "Furnishing",
     "difficulty": "Advanced",
-    "drop_area": "Stros M'kai",
+    "drop_area": "Stros M'Kai",
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Dwarven_Puzzle_Box.png"
   },
   {
@@ -4298,7 +4298,7 @@
     "location": "Reward for excavating Goblin Steam Mill",
     "type": "Treasure",
     "difficulty": "Advanced",
-    "drop_area": "Stros M'kai",
+    "drop_area": "Stros M'Kai",
     "image_path": "src/public/images/antiquities-icons/ON-icon-quest-Book_Plate.png"
   },
   {
@@ -4307,7 +4307,7 @@
     "location": "Chest, Any random Monster in the zone",
     "type": "Furnishing",
     "difficulty": "Master",
-    "drop_area": "Stros M'kai",
+    "drop_area": "Stros M'Kai",
     "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Dwemer_Star_Chart.png"
   },
   {
@@ -4316,7 +4316,7 @@
     "location": "Reward for excavating Hunding Sextant",
     "type": "Treasure",
     "difficulty": "Intermediate",
-    "drop_area": "Stros M'kai",
+    "drop_area": "Stros M'Kai",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Contraption.png"
   },
   {
@@ -4325,7 +4325,7 @@
     "location": "Freebie Starter Lead",
     "type": "Treasure",
     "difficulty": "Simple",
-    "drop_area": "Stros M'kai",
+    "drop_area": "Stros M'Kai",
     "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Sextant.png"
   },
   {
@@ -4334,7 +4334,7 @@
     "location": "Wolves outside Bthzark, Dwarven Spider inside Ruins, Assassin Beetle Monster",
     "type": "Ebon Dwarven Wolf Part",
     "difficulty": "Intermediate",
-    "drop_area": "Stros M'kai",
+    "drop_area": "Stros M'Kai",
     "image_path": "src/public/images/antiquities-icons/ON-icon-style_material-Dwemer_Scrap.png"
   },
   {
@@ -4371,7 +4371,7 @@
     "type": "Furniture",
     "difficulty": "Advanced",
     "drop_area": "Summerset",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-lead-High_Elf_Altar%2C_Crystal.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-lead-High_Elf_Altar,_Crystal.png"
   },
   {
     "item": "Jurisreeve's Eye",
@@ -4479,7 +4479,7 @@
     "type": "Furnishing",
     "difficulty": "Simple",
     "drop_area": "Telvanni Peninsula",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Apocrypha_Fossil%2C_Arch.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Apocrypha_Fossil,_Arch.png"
   },
   {
     "item": "Apocrypha Fossil, Bones Large",
@@ -4488,7 +4488,7 @@
     "type": "Furnishing",
     "difficulty": "Intermediate",
     "drop_area": "Telvanni Peninsula",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Apocrypha_Fossil%2C_Bones_Large.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Apocrypha_Fossil,_Bones_Large.png"
   },
   {
     "item": "Apocrypha Fossil, Nautilus",
@@ -4497,7 +4497,7 @@
     "type": "Furnishing",
     "difficulty": "Intermediate",
     "drop_area": "Telvanni Peninsula",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Apocrypha_Fossil%2C_Nautilus.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Apocrypha_Fossil,_Nautilus.png"
   },
   {
     "item": "Apocrypha Fossil, Worm",
@@ -4506,7 +4506,7 @@
     "type": "Furnishing",
     "difficulty": "Simple",
     "drop_area": "Telvanni Peninsula",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Apocrypha_Fossil%2C_Worm.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Apocrypha_Fossil,_Worm.png"
   },
   {
     "item": "Arms of Glory",
@@ -4524,7 +4524,7 @@
     "type": "Spore Savant Body Marks",
     "difficulty": "Master",
     "drop_area": "Telvanni Peninsula",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Vial%2C_Delicate.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Vial,_Delicate.png"
   },
   {
     "item": "Biome-Proof Plating",
@@ -4542,7 +4542,7 @@
     "type": "Treasure",
     "difficulty": "Intermediate",
     "drop_area": "Telvanni Peninsula",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Alinor_Urn%2C_Stemmed.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Alinor_Urn,_Stemmed.png"
   },
   {
     "item": "Cliff Strider Skeleton Stand",
@@ -4587,7 +4587,7 @@
     "type": "Music Box, Glyphic Secrets",
     "difficulty": "Master",
     "drop_area": "Telvanni Peninsula",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Soul_Gem%2C_Single.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Soul_Gem,_Single.png"
   },
   {
     "item": "Dried Bloodtooth",
@@ -4722,7 +4722,7 @@
     "type": "Music Box, Glyphic Secrets",
     "difficulty": "Master",
     "drop_area": "Telvanni Peninsula",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Alinor_Jewelry_Box%2C_Polished.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Alinor_Jewelry_Box,_Polished.png"
   },
   {
     "item": "Intricate Winding Shaft",
@@ -4767,7 +4767,7 @@
     "type": "Telvanni Alchemy Station",
     "difficulty": "Master",
     "drop_area": "Telvanni Peninsula",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Alchemical_Apparatus%2C_Master.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Alchemical_Apparatus,_Master.png"
   },
   {
     "item": "Milkcap Mushroom Paint Stamps",
@@ -4830,7 +4830,7 @@
     "type": "Telvanni Alchemy Station",
     "difficulty": "Master",
     "drop_area": "Telvanni Peninsula",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Alchemy_Shelves%2C_Filled.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Alchemy_Shelves,_Filled.png"
   },
   {
     "item": "Ring of Stone",
@@ -4848,7 +4848,7 @@
     "type": "Music Box, Glyphic Secrets",
     "difficulty": "Master",
     "drop_area": "Telvanni Peninsula",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Clockwork_Piston%2C_Miniature.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Clockwork_Piston,_Miniature.png"
   },
   {
     "item": "Rune-Etched Cylinder",
@@ -4911,7 +4911,7 @@
     "type": "Spore Savant Face Marks",
     "difficulty": "Master",
     "drop_area": "Telvanni Peninsula",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Reach_Grinding_Stones%2C_Nirncrux.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Reach_Grinding_Stones,_Nirncrux.png"
   },
   {
     "item": "Sporecrafter's Press",
@@ -4938,7 +4938,7 @@
     "type": "Spore Savant Face Marks",
     "difficulty": "Master",
     "drop_area": "Telvanni Peninsula",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Stone_Carving%2C_Bird.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Stone_Carving,_Bird.png"
   },
   {
     "item": "Sturdy Crucible",
@@ -4947,7 +4947,7 @@
     "type": "Telvanni Alchemy Station",
     "difficulty": "Master",
     "drop_area": "Telvanni Peninsula",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Nord_Cauldron%2C_Glazed.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Nord_Cauldron,_Glazed.png"
   },
   {
     "item": "Tempered Brass Retort",
@@ -4974,7 +4974,7 @@
     "type": "Esoteric Environment Greaves",
     "difficulty": "Master",
     "drop_area": "Telvanni Peninsula",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Dwarven_Spider_Legs%2C_Inoperative.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Dwarven_Spider_Legs,_Inoperative.png"
   },
   {
     "item": "Tribunal Window, Stained Glass",
@@ -4983,7 +4983,7 @@
     "type": "Furnishing",
     "difficulty": "Advanced",
     "drop_area": "Telvanni Peninsula",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Tribunal_Window%2C_Stained_Glass.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Tribunal_Window,_Stained_Glass.png"
   },
   {
     "item": "Umbral Frame",
@@ -5001,7 +5001,7 @@
     "type": "Telvanni Alchemy Station",
     "difficulty": "Master",
     "drop_area": "Telvanni Peninsula",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Alchemical_Apparatus%2C_Condenser.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Alchemical_Apparatus,_Condenser.png"
   },
   {
     "item": "Vintage Necrom Votive",
@@ -5010,7 +5010,7 @@
     "type": "Treasure",
     "difficulty": "Simple",
     "drop_area": "Telvanni Peninsula",
-    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Dark_Elf_Decanter%2C_Glass.png"
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Dark_Elf_Decanter,_Glass.png"
   },
   {
     "item": "Volcanic Sand Bath",
