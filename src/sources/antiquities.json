@@ -5580,6 +5580,258 @@
     "image_path": "src/public/images/antiquities-icons/ON-icon-head_marking-Ysgramor%27s_Chosen_Face_Marking.png"
   },
   {
+    "item": "Ornate Alessian Decanter",
+    "rarity": "Green",
+    "location": "West Weald Zone: Starter Lead",
+    "type": "Treasure",
+    "difficulty": "Simple",
+    "drop_area": "West Weald",
+    "image_path": "src/public/images/antiquities-icons/ON-icon-stolen-Decanter.png"
+  },
+  {
+    "item": "Crystalcult Hand Mirror",
+    "rarity": "Blue",
+    "location": "Obtained after completing the Ornate Alessian Decanter lead",
+    "type": "Treasure",
+    "difficulty": "Intermediate",
+    "drop_area": "West Weald",
+    "image_path": "src/public/images/antiquities-icons/ON-icon-furnishing-Elsweyr_Hand_Mirror,_Bronze_Oval.png"
+  },
+  {
+    "item": "Gilded Legionary Scabbard",
+    "rarity": "Purple",
+    "location": "Obtained after completing the Crystalcult Mirror lead",
+    "type": "Treasure",
+    "difficulty": "Advanced",
+    "drop_area": "West Weald",
+    "image_path": "src/public/images/antiquities-icons/ON-icon-misc-All_Flags_Armada_Scabbard.png"
+  },
+  {
+    "item": "Antique Map of West Weald",
+    "rarity": "Green",
+    "location": "General Goods Merchants in the West Weald zone (requires Pathfinder achievement)",
+    "type": "Furniture",
+    "difficulty": "Simple",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Ayleid Arch, Wide",
+    "rarity": "Purple",
+    "location": "West Weald zone Treasure Map Chest",
+    "type": "Furniture",
+    "difficulty": "Advanced",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Ayleid Lens Array, Reassembled",
+    "rarity": "Purple",
+    "location": "West Weald zone Treasure Map Chest",
+    "type": "Furniture",
+    "difficulty": "Advanced",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Ayleid Sculpture, Complex Tree",
+    "rarity": "Blue",
+    "location": "West Weald zone Treasure Map Chest",
+    "type": "Furniture",
+    "difficulty": "Advanced",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Ayleid Sculpture, Simple Tree",
+    "rarity": "Blue",
+    "location": "West Weald zone Treasure Map Chest",
+    "type": "Furniture",
+    "difficulty": "Intermediate",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Ayleid Sculpture, Grand Tree",
+    "rarity": "Purple",
+    "location": "Drops from anything in the West Weald zone. (So far: Trash Lucent Citadel, Safeboxes)",
+    "type": "Furniture",
+    "difficulty": "Advanced",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Ayleid Window, Large",
+    "rarity": "Purple",
+    "location": "West Weald zone Treasure Map Chest",
+    "type": "Furniture",
+    "difficulty": "Advanced",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Bespoke Mirroretched Base",
+    "rarity": "Gold",
+    "location": "Mirrormoor Incursion Group Event in the West Weald zone",
+    "type": "Music Box: Lament for the Path Master",
+    "difficulty": "Master",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Colovian Tapestry, Fancy Gate",
+    "rarity": "Gold",
+    "location": "West Weald zone Treasure Map Chest",
+    "type": "Furniture",
+    "difficulty": "Master",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Colovian Tapestry, Pastoral",
+    "rarity": "Green",
+    "location": "West Weald zone Treasure Map Chest",
+    "type": "Furniture",
+    "difficulty": "Simple",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Colovian Tapestry, Worn",
+    "rarity": "Green",
+    "location": "West Weald zone Treasure Map Chest",
+    "type": "Furniture",
+    "difficulty": "Simple",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Crystalcruft Shaped Trigger",
+    "rarity": "Gold",
+    "location": "Boss in Legion’s Rest Delve, West Weald zone",
+    "type": "Music Box: Lament for the Path Master",
+    "difficulty": "Master",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Dynarian Legacy Bracing",
+    "rarity": "Gold",
+    "location": "Boss in Nonungalo Delve, West Weald zone",
+    "type": "Ayleid Blacksmithing Station",
+    "difficulty": "Master",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Fresco, Colovian Lady",
+    "rarity": "Blue",
+    "location": "West Weald zone Treasure Map Chest",
+    "type": "Furniture",
+    "difficulty": "Intermediate",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Heartland Basalt Base",
+    "rarity": "Gold",
+    "location": "Silron Public Dungeon Bosses in the West Weald zone, southeast",
+    "type": "Ayleid Blacksmithing Station",
+    "difficulty": "Master",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Imitation Palanquin Adornment",
+    "rarity": "Gold",
+    "location": "Varen’s Watch Delve Boss in the West Weald Zone",
+    "type": "Music Box: Lament for the Path Master",
+    "difficulty": "Master",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Miniature Mirroretched Brace",
+    "rarity": "Gold",
+    "location": "West Weald Zone Dailies",
+    "type": "Music Box: Lament for the Path Master",
+    "difficulty": "Master",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Miniature Shattered Cheval",
+    "rarity": "Gold",
+    "location": "Swarmkeeper Xvarcon (Group Boss) in the Leftwheal Trading Post Public Dungeon, West Weald Zone",
+    "type": "Music Box: Lament for the Path Master",
+    "difficulty": "Master",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Pottery, Sanguine Repaired",
+    "rarity": "Blue",
+    "location": "West Weald zone Treasure Map Chest",
+    "type": "Furniture",
+    "difficulty": "Intermediate",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Ruin-Carved Smithing Stand",
+    "rarity": "Gold",
+    "location": "World Bosses in the West Weald zone",
+    "type": "Ayleid Blacksmithing Station",
+    "difficulty": "Master",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Wildsmith Anointing Decoction",
+    "rarity": "Gold",
+    "location": "Boss in the Fyrelight Cave Delve in the West Weald zone",
+    "type": "Ayleid Blacksmithing Station",
+    "difficulty": "Master",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Wildsmithed Anvil",
+    "rarity": "Gold",
+    "location": "World Bosses in the West Weald zone",
+    "type": "Ayleid Blacksmithing Station",
+    "difficulty": "Master",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Huntlands-Blessed Leather",
+    "rarity": "Gold",
+    "location": "World Bosses in the West Weald zone",
+    "type": "The Shadow Queen’s Cowl",
+    "difficulty": "Master",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Shadowy Creatia Stitching",
+    "rarity": "Gold",
+    "location": "Haldain Lumber Camp Delve Boss in the West Weald zone, southeast",
+    "type": "The Shadow Queen’s Cowl",
+    "difficulty": "Master",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
+    "item": "Heartland-Leather Gloves",
+    "rarity": "Gold",
+    "location": "Boss in Fort Colovia Delve in the West Weald zone",
+    "type": "Rourken Steamguards",
+    "difficulty": "Master",
+    "drop_area": "West Weald",
+    "image_path": ""
+  },
+  {
     "item": "Antique Map of Wrothgar",
     "rarity": "Green",
     "location": "Found at the Inn (Pathfinder Achievement)",
