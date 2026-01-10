@@ -2,7 +2,6 @@ import { useNavigate } from "react-router-dom";
 import { Avatar, Box, Button, Container, Title } from "@mantine/core";
 import { IconHeartFilled } from "@tabler/icons-react";
 import { ROUTES } from "@/pages/paths";
-import antiquities from "../../public/antiquities.png";
 import classes from "./Home.module.css";
 
 export function Home() {
@@ -25,7 +24,11 @@ export function Home() {
           radius="md"
           className={classes.buttons}
           leftSection={
-            <Avatar src={antiquities} alt="Antiquities" radius="sm" />
+            <Avatar
+              src="/assets/eso/antiquities.png"
+              alt="Antiquities"
+              radius="sm"
+            />
           }
           onClick={() => handleNavigate(ROUTES.antiquities)}
         >
