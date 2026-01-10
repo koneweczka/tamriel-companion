@@ -19,7 +19,7 @@
     "paths": {
       "@/*": ["./src/*"],
       "@test-utils": ["./test-utils"],
-      "@sources/*": ["./src/sources/*"]
+      "@datasets/*": ["./src/sources/*"]
     }
   },
   "include": ["src", "test-utils", "scripts"]

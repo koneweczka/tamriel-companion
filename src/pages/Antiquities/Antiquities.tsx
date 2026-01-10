@@ -1,9 +1,16 @@
-import { Accordion, Avatar, Container, Group, Text, Title } from '@mantine/core';
-import locationsJson from '@sources/locations.json';
-import antiquitiesJson from '@sources/antiquities.json';
-import classes from './Antiquities.module.css';
-import { AntiquityCard } from '@/components/AntiquityCard/AntiquityCard';
-import { Antiquity, Location } from '@/@typings/database-types';
+import {
+  Accordion,
+  Avatar,
+  Container,
+  Group,
+  Text,
+  Title,
+} from "@mantine/core";
+import locationsJson from "@datasets/locations.json";
+import antiquitiesJson from "@datasets/antiquities.json";
+import classes from "./Antiquities.module.css";
+import { AntiquityCard } from "@/components/AntiquityCard/AntiquityCard";
+import { Antiquity, Location } from "@/@typings/database-types";
 
 export function Antiquities() {
   const locations: Location[] = locationsJson;
@@ -29,12 +36,20 @@ export function Antiquities() {
                     </Accordion.Control>
                     <Accordion.Panel>
                       {antiquities
-                        .filter((antiquity) => antiquity.drop_area === area.name)
+                        .filter(
+                          (antiquity) => antiquity.drop_area === area.name
+                        )
                         .map((antiquity) => (
-                          <AntiquityCard key={antiquity.item} antiquity={antiquity} />
+                          <AntiquityCard
+                            key={antiquity.item}
+                            antiquity={antiquity}
+                          />
                         ))}
-                      {antiquities.filter((antiquity) => antiquity.drop_area === area.name)
-                        .length === 0 && <Text>No antiquities found for this area.</Text>}
+                      {antiquities.filter(
+                        (antiquity) => antiquity.drop_area === area.name
+                      ).length === 0 && (
+                        <Text>No antiquities found for this area.</Text>
+                      )}
                     </Accordion.Panel>
                   </Accordion.Item>
                 ))}
