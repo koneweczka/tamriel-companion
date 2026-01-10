@@ -1,5 +1,4 @@
 import { createTheme } from '@mantine/core';
-import { themeToVars } from '@mantine/vanilla-extract';
 
 export const theme = createTheme({
   /** Put your mantine theme override here */
@@ -7,6 +6,3 @@ export const theme = createTheme({
   // fontFamily: 'serif',
   // primaryColor: 'cyan',
 });
-
-// CSS variables object, can be access in *.css.ts files
-export const vars = themeToVars(theme);

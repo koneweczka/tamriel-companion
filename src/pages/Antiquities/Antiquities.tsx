@@ -1,8 +1,7 @@
-import React from 'react';
 import { Accordion, Avatar, Container, Group, Text, Title } from '@mantine/core';
 import locationsJson from '@sources/locations.json';
 import antiquitiesJson from '@sources/antiquities.json';
-import classes from './Antiquities.css';
+import classes from './Antiquities.module.css';
 import { AntiquityCard } from '@/components/AntiquityCard/AntiquityCard';
 import { Antiquity, Location } from '@/@typings/database-types';
 
