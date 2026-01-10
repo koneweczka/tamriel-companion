@@ -1,9 +1,8 @@
-import React from 'react';
-import { useNavigate } from 'react-router-dom';
-import { Avatar, Box, Button, Container, Title } from '@mantine/core';
-import { IconHeartFilled } from '@tabler/icons-react';
-import antiquities from '../../public/antiquities.png';
-import classes from './Home.css';
+import { useNavigate } from "react-router-dom";
+import { Avatar, Box, Button, Container, Title } from "@mantine/core";
+import { IconHeartFilled } from "@tabler/icons-react";
+import antiquities from "../../public/antiquities.png";
+import classes from "./Home.module.css";
 
 export function Home() {
   const navigate = useNavigate();
@@ -15,7 +14,7 @@ export function Home() {
   return (
     <Container size="sm" className={classes.container}>
       <Title ta="center" mb="10">
-        Welcome to Tamriel Companion App!
+        Welcome to Tamriel Companion!
       </Title>
       <Box className={classes.box}>
         <Button
@@ -24,8 +23,10 @@ export function Home() {
           size="md"
           radius="md"
           className={classes.buttons}
-          leftSection={<Avatar src={antiquities} alt="Antiquities" radius="sm" />}
-          onClick={() => handleNavigate('/antiquities')}
+          leftSection={
+            <Avatar src={antiquities} alt="Antiquities" radius="sm" />
+          }
+          onClick={() => handleNavigate("/antiquities")}
         >
           Antiquities
         </Button>
@@ -35,14 +36,14 @@ export function Home() {
           size="md"
           radius="md"
           className={classes.buttons}
-          onClick={() => handleNavigate('/achievements')}
+          onClick={() => handleNavigate("/achievements")}
         >
           Achievements
         </Button>
       </Box>
       <h3>There will be more content from my app.</h3>
       <p className={classes.icon}>
-        Made with <IconHeartFilled /> by Konewka
+        Made by Koneweczka with <IconHeartFilled />
       </p>
     </Container>
   );

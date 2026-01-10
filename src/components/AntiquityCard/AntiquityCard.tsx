@@ -1,8 +1,7 @@
-import React from 'react';
 import { Avatar, Card, ColorSwatch, Flex, Grid, Switch, Text, Title } from '@mantine/core';
 import { IconMapRoute } from '@tabler/icons-react';
-import classes from './AntiquityCard.css';
 import { Antiquity } from '@/@typings/database-types';
+import classes from './AntiquityCard.module.css';
 
 // rarity is the color of the antiquity
 // difficulty is how har it is to dig up the antiquity
@@ -19,7 +18,7 @@ export function AntiquityCard({ antiquity }: AntiquityCardProps) {
       radius="md"
       withBorder
       className={classes.card}
-      style={{ maxWidth: 350 }}
+      style={{ maxWidth: '350px' }}
     >
       <Grid>
         <Grid.Col span={12}>
