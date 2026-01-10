@@ -1,15 +1,15 @@
 .container {
-  margin-top: '100px';
-  text-align: 'center';
-  align-items: 'center';
+  margin-top: 100px;
+  text-align: center;
+  align-items: center;
 }
 
 .title {
-  margin-bottom: '20px';
+  margin-bottom: 20px;
 }
 
 .buttonFlex {
-  width: 'fit-content';
-  text-align: 'center';
-  margin: '0 auto';
+  width: fit-content;
+  text-align: center;
+  margin: 0 auto;
 }
