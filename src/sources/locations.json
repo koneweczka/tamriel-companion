@@ -1,6 +1,7 @@
 [
   {
     "name": "Aldmeri Dominion",
+    "category": "alliances",
     "areas": [
       {
         "name": "Khenarthi's Roost"
@@ -25,6 +26,7 @@
   },
   {
     "name": "Daggerfall Covenant",
+    "category": "alliances",
     "areas": [
       {
         "name": "Stros M'Kai"
@@ -52,6 +54,7 @@
   },
   {
     "name": "Ebonheart Pact",
+    "category": "alliances",
     "areas": [
       {
         "name": "Bleakrock Isle"
@@ -79,6 +82,7 @@
   },
   {
     "name": "Neutral",
+    "category": "neutral",
     "areas": [
       {
         "name": "Coldharbour",
@@ -97,6 +101,7 @@
   },
   {
     "name": "DLC Areas",
+    "category": "dlc",
     "areas": [
       {
         "name": "Artaeum",

@@ -10,7 +10,7 @@ import locationsJson from "@datasets/locations.json";
 import antiquitiesJson from "@datasets/antiquities.json";
 import classes from "./Antiquities.module.css";
 import { AntiquityCard } from "@/components/AntiquityCard/AntiquityCard";
-import { Antiquity, Location } from "@/@typings/database-types";
+import type { Antiquity, Location } from "@/@typings/database-types";
 
 export function Antiquities() {
   const locations: Location[] = locationsJson;

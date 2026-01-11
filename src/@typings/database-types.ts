@@ -1,10 +1,13 @@
 export type Location = {
   name: string;
+  category: LocationCategory;
   areas: ChapterArea[];
   avatar: string;
 };
 
-type ChapterArea = {
+export type LocationCategory = "alliances" | "dlc" | "neutral";
+
+export type ChapterArea = {
   name: string;
   avatar?: string;
 };
