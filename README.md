@@ -2,29 +2,34 @@
 
 ## About
 
-App to check antiquities (and maybe other stuff in the future).
+ESO Tamriel Companion is a fan-made web application designed to help track Antiquities
+(and potentially other game-related content in the future) from _The Elder Scrolls Online_.
 
-## Made using:
+This project is intended for learning, personal use, and portfolio purposes.
 
-React, Vite, Mantine
+## Assets & Credits
 
-## Getting started:
+Some icons and images used in this project are sourced from the **Unofficial Elder Scrolls Pages (UESP)**:  
+https://en.uesp.net/
 
-- `dev` – start development server
-- `build` – build production version of the app
-- `preview` – locally preview production build
+_The Elder Scrolls Online®_ and all related assets, names, and trademarks are the property of  
+**ZeniMax Media Inc. / ZeniMax Online Studios**.
 
-### Testing scripts
+This is a **non-commercial, fan-made project** and is not affiliated with or endorsed by ZeniMax Media Inc.
 
-- `typecheck` – checks TypeScript types
-- `lint` – runs ESLint
-- `prettier:check` – checks files with Prettier
-- `vitest` – runs vitest tests
-- `vitest:watch` – starts vitest watch
-- `test` – runs `vitest`, `prettier:check`, `lint` and `typecheck` scripts
+## Tech Stack
 
-### Other scripts
+- React
+- TypeScript
+- Vite
+- Mantine
 
-- `storybook` – starts storybook dev server
-- `storybook:build` – build production storybook bundle to `storybook-static`
-- `prettier:write` – formats all files with Prettier
+## Getting Started
+
+- `npm run dev` – start development server
+- `npm run build` – build production version of the app
+- `npm run preview` – locally preview the production build
+
+## Deployment
+
+TBD

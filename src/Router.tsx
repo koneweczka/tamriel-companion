@@ -1,19 +1,10 @@
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import { Home } from './pages/Home';
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { Home } from "./pages/Home/Home";
 
 const router = createBrowserRouter([
-  {
-    path: '/',
-    element: <Home />,
-  },
-  {
-    path: '/antiquities',
-    element: <div>Antiquities</div>,
-  },
-  {
-    path: '/achievements',
-    element: <div>Achievements</div>,
-  },
+  { path: "/", element: <Home /> },
+
+  { path: "/locations/:category/:areaSlug", element: <Home /> },
 ]);
 
 export function Router() {

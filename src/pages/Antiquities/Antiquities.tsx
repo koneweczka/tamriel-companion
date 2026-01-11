@@ -1,0 +1,74 @@
+import {
+  Accordion,
+  Avatar,
+  Container,
+  Group,
+  Text,
+  Title,
+} from "@mantine/core";
+import locationsJson from "@datasets/locations.json";
+import antiquitiesJson from "@datasets/antiquities.json";
+import classes from "./Antiquities.module.css";
+import { AntiquityCard } from "@/components/AntiquityCard/AntiquityCard";
+import type { Antiquity, Location } from "@/@typings/database-types";
+
+export function Antiquities() {
+  const locations: Location[] = locationsJson;
+  const antiquities: Antiquity[] = antiquitiesJson;
+
+  return (
+    <Container size="sm" className={classes.container}>
+      <Title order={1} className={classes.title}>
+        Antiquities
+      </Title>
+      <Accordion>
+        {locations.map((location) => (
+          <Accordion.Item key={location.name} value={location.name}>
+            <Accordion.Control>
+              <AccordionLabel label={location.name} avatar={location.avatar} />
+            </Accordion.Control>
+            <Accordion.Panel>
+              <Accordion>
+                {location.areas.map((area) => (
+                  <Accordion.Item key={area.name} value={area.name}>
+                    <Accordion.Control>
+                      <AccordionLabel label={area.name} avatar={area.avatar} />
+                    </Accordion.Control>
+                    <Accordion.Panel>
+                      {antiquities
+                        .filter(
+                          (antiquity) => antiquity.drop_area === area.name
+                        )
+                        .map((antiquity) => (
+                          <AntiquityCard
+                            key={antiquity.item}
+                            antiquity={antiquity}
+                          />
+                        ))}
+                      {antiquities.filter(
+                        (antiquity) => antiquity.drop_area === area.name
+                      ).length === 0 && (
+                        <Text>No antiquities found for this area.</Text>
+                      )}
+                    </Accordion.Panel>
+                  </Accordion.Item>
+                ))}
+              </Accordion>
+            </Accordion.Panel>
+          </Accordion.Item>
+        ))}
+      </Accordion>
+    </Container>
+  );
+}
+
+function AccordionLabel({ label, avatar }: { label: string; avatar?: string }) {
+  return (
+    <Group wrap="nowrap">
+      {avatar && <Avatar src={avatar} radius="xl" size="lg" />}
+      <div>
+        <Text>{label}</Text>
+      </div>
+    </Group>
+  );
+}
